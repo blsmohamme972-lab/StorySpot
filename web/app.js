@@ -122,7 +122,7 @@
     $('assetStatus').replaceChildren(...chips.map(chip=>{const el=document.createElement('span');el.className=`asset-chip${chip.pending?' pending':''}`;el.textContent=chip.text;return el;}));
   }
   function renderStory(){stop();const s=current();const empty=!s;updateEmptyState();$('saveButton').disabled=empty;$('transcriptButton').disabled=empty;$('nextButton').disabled=state.visible.length<2;updateSaved();if(empty){audio.removeAttribute('src');audio.load();$('storyTitle').textContent=state.savedOnly?'Your saved stories.':'Your next discovery starts here.';$('storySubtitle').textContent='One image. A story that stays.';$('storyImage').removeAttribute('src');$('backdrop').style.backgroundImage='none';$('assetStatus').replaceChildren();$('pointer').hidden=true;$('motionLabel').hidden=true;$('storyNumber').textContent='00';$('positionLabel').textContent='00 / 00';setupTrack();return;}
-    renderStoryInfo(s);$('storyImage').src=s.image;$('backdrop').style.backgroundImage=`url(${JSON.stringify(s.image)})`;
+    renderStoryInfo(s);warmImage(s.image);$('storyImage').src=s.image;$('backdrop').style.backgroundImage=`url(${JSON.stringify(s.image)})`;
     setupTrack();store('storyspot.last',s.id);renderLibrary();prefetchNeighbors();}
   function setupTrack() {
     playbackGeneration++;state.preparing=false;state.playIntent=false;state.playing=false;state.buffering=false;setPlaybackActive(false);
@@ -257,6 +257,14 @@
     $('motionLabel').hidden=!visible||!f.label;$('motionLabel').textContent=f.label;
   }
   let storyAnimations=[],dragReturn=null,adjacentPrefetch=[];
+  const imageCache=new Map();
+  const IMAGE_CACHE_LIMIT=5;
+  function warmImage(url){
+    if(!url)return;
+    if(imageCache.has(url)){const cached=imageCache.get(url);imageCache.delete(url);imageCache.set(url,cached);return;}
+    const image=new Image();image.decoding='async';image.src=url;imageCache.set(url,image);
+    while(imageCache.size>IMAGE_CACHE_LIMIT)imageCache.delete(imageCache.keys().next().value);
+  }
   const reducedMotion=()=>matchMedia('(prefers-reduced-motion: reduce)').matches;
   function resetDrag(spring=false){
     const scene=$('scene'),from=scene.style.translate,opacity=scene.style.opacity;
@@ -270,11 +278,13 @@
     }
   }
   function prefetchNeighbors(){
-    // Only keep the two adjacent images warm. No lesson data is bundled in the APK.
-    adjacentPrefetch=[];
     if(state.visible.length<2)return;
-    const urls=new Set([-1,1].map(delta=>state.visible[(state.index+delta+state.visible.length)%state.visible.length]?.image).filter(Boolean));
-    for(const url of urls){const image=new Image();image.decoding='async';image.src=url;adjacentPrefetch.push(image);}
+    // Keep adjacent images decoded/cached across swipes instead of re-creating
+    // two network image objects on every navigation.
+    for(const delta of [-2,-1,1,2]){
+      const item=state.visible[(state.index+delta+state.visible.length)%state.visible.length];
+      warmImage(item?.image);
+    }
   }
   function move(delta){
     resetDrag();
@@ -297,7 +307,7 @@
       outgoing.src=oldImage;outgoing.alt='';outgoing.className='swipe-outgoing';
       outgoing.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:contain;pointer-events:none;background:#151a18;z-index:5;will-change:transform,opacity';
       viewer.append(outgoing);
-      const options={duration:190,easing:'cubic-bezier(.16,.78,.24,1)'};
+      const options={duration:145,easing:'cubic-bezier(.16,.78,.24,1)'};
       const exit=outgoing.animate([{transform:'translate3d(0,0,0)',opacity:1},
         {transform:`translate3d(0,${-sign*distance}px,0)`,opacity:0}],options);
       exit.finished.catch(()=>{}).finally(()=>outgoing.remove());
@@ -390,8 +400,8 @@
     const touch=Array.from(event.changedTouches).find(item=>item.identifier===gesture.id);
     if(!touch){resetDrag(true);return;}
     const dx=touch.clientX-gesture.x,dy=gesture.y-touch.clientY;
-    const threshold=Math.max(38,Math.min(58,$('viewer').clientHeight*.09));
-    const fling=gesture.moved&&gesture.velocity>.55&&Math.abs(dy)>=25;
+    const threshold=Math.max(28,Math.min(46,$('viewer').clientHeight*.055));
+    const fling=gesture.moved&&gesture.velocity>.42&&Math.abs(dy)>=20;
     if((Math.abs(dy)<threshold&&!fling)||Math.abs(dy)<=Math.abs(dx)*1.3){resetDrag(true);return;}
     // Finish immediately on release; one gesture always moves exactly one story.
     if(event.cancelable)event.preventDefault();
