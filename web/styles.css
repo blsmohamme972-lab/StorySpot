@@ -214,3 +214,41 @@ h1{font-size:20px;line-height:1.15;letter-spacing:-.5px;margin:0 0 3px;max-width
   .story-card{min-height:0;flex:1 1 auto;}
   .viewer{min-height:0;max-height:none;flex:1 1 auto;}
 }
+
+
+/* Android portrait immersive Shorts layout: controls overlay the artwork. */
+@media (orientation:portrait) and (max-width:700px){
+ html,body{height:100%;overflow:hidden;background:#000}
+ .app{position:relative;width:100%;max-width:none;height:100dvh;min-height:100dvh;max-height:100dvh;padding:0;display:block;overflow:hidden;background:#000}
+ .story-card{position:absolute;inset:0;display:block;min-height:0;margin:0;border:0;border-radius:0;overflow:hidden}
+ .viewer{position:absolute;inset:0;width:100%;height:100%;max-height:none;min-height:0;aspect-ratio:auto;border-radius:0;background:#000;touch-action:pan-x;overscroll-behavior:contain}
+ .backdrop{inset:0;filter:blur(20px) brightness(.28)}
+ .scene img{object-fit:contain}
+ .topbar{position:absolute;z-index:12;top:env(safe-area-inset-top);left:0;right:0;height:48px;padding:4px 12px;pointer-events:none}
+ .topbar-actions{pointer-events:auto}
+ .brand,.feed-header,.collection-label,.story-kicker,.story-category,.story-info p,.asset-status,.next-peek span,.player-note,.side-action>span:not(.action-circle){display:none!important}
+ .main-sync-button{background:#0005!important;border:1px solid #ffffff20!important;border-radius:50%!important;width:36px!important;height:36px!important;padding:7px!important;backdrop-filter:blur(8px)}
+ .main-sync-button span{display:none!important}
+ .library-button{width:36px;height:36px;background:#0005;border-color:#ffffff20}
+ .viewer-top{position:absolute;z-index:11;top:calc(env(safe-area-inset-top) + 54px);left:auto;right:10px;bottom:auto;width:44px;height:auto;margin:0;pointer-events:none}
+ .viewer-tools{display:flex;flex-direction:column;align-items:center;gap:12px;pointer-events:auto}
+ .position-label{font-size:10px;padding:5px 7px;background:#0005;color:#fff}
+ .side-actions{position:static;display:flex;flex-direction:column;gap:10px;align-items:center}
+ .side-action{width:40px;min-width:40px;height:40px;min-height:40px;padding:0}
+ .action-circle{width:36px;height:36px;background:#0005;border:1px solid #ffffff30;backdrop-filter:blur(8px);border-radius:50%}
+ .side-action svg{width:19px;height:19px}
+ .story-info{z-index:9;left:14px;right:72px;bottom:calc(env(safe-area-inset-bottom) + 112px);max-width:calc(100% - 88px);pointer-events:none}
+ .story-info h1{font-size:clamp(15px,4.2vw,20px);line-height:1.25;letter-spacing:-.3px;margin:0;text-shadow:0 2px 12px #000b;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+ .motion-label{z-index:10;top:calc(env(safe-area-inset-top) + 104px);font-size:10px;max-width:70%}
+ .player{position:absolute;z-index:12;bottom:calc(env(safe-area-inset-bottom) + 8px);left:10px;right:10px;margin:0;padding:7px 9px;border-radius:14px;border:1px solid #ffffff1b;background:#080b0b88;box-shadow:none;backdrop-filter:blur(10px)}
+ .track-row{gap:6px}
+ .track-toggle{background:#ffffff0c}
+ .track-toggle button{font-size:11px;padding:5px 7px}
+ .track-toggle button span{display:none}
+ .transport{margin-top:4px;padding:0;background:transparent}
+ .timeline-labels{font-size:10px}
+ .speed-button{padding:5px 7px;font-size:11px}
+ .play-button{width:36px;height:36px}
+ .restart-button{width:32px;height:32px}
+ .image-play{background:#0005;backdrop-filter:blur(6px)}
+}
