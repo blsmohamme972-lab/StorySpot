@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0d1010">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; object-src 'none'; frame-src 'none'; base-uri 'none'; form-action 'none'; img-src 'self' https: data: blob:; media-src 'self' https: blob:; style-src 'self' 'unsafe-inline'; font-src 'self'; connect-src 'self'">
+  <title>StorySpot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main id="app" class="app">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="StorySpot home"><span class="brand-mark"><i></i><i></i><i></i></span>story<span>spot</span><b><svg viewBox="0 0 24 24"><path d="M7 17 17 7M7 7h10v10"/></svg></b></a>
+      <div class="topbar-actions"><button id="refreshButton" class="main-sync-button" aria-label="Sync Google Drive"><svg viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5M5.4 8a7 7 0 0 1 11.7-2.2L20 9M4 15l2.9 3.2A7 7 0 0 0 18.6 16"/></svg><span>Sync</span></button><button id="libraryButton" class="icon-button library-button" aria-label="Open your library"><svg viewBox="0 0 24 24"><path d="M4 5h4v15H4zM10 5h4v15h-4zM17 4l4 15-3 1-4-15z"/></svg></button></div>
+    </header>
+
+    <section class="feed-header" aria-label="Story feed">
+      <div class="feed-tabs"><span class="active">Discover</span><button id="savedTab">Saved <span id="savedCount">0</span></button></div>
+      <span class="collection-label"><span class="live-dot"></span> THE VISUAL COLLECTION</span>
+    </section>
+
+    <section class="story-card">
+      <div class="viewer-top">
+        <span class="story-kicker"><span class="kicker-dot"></span> VISUAL STORY <span id="storyNumber">01</span></span>
+        <div class="viewer-tools">
+          <span id="positionLabel" class="position-label">01 / 01</span>
+          <div class="side-actions" role="group" aria-label="Story actions">
+            <button id="saveButton" class="side-action" aria-label="Save story" aria-pressed="false" title="Save story"><span class="action-circle"><svg viewBox="0 0 24 24"><path d="M6 4h12v17l-6-4-6 4z"/></svg></span><span id="saveLabel">Save</span></button>
+            <button id="transcriptButton" class="side-action" aria-label="Read transcript" title="Read transcript"><span class="action-circle"><svg viewBox="0 0 24 24"><path d="M5 4h14v16H5zM8 8h8M8 12h8M8 16h5"/></svg></span><span>Read</span></button>
+            <button id="soundButton" class="side-action" aria-label="Mute audio" aria-pressed="false" title="Toggle sound"><span class="action-circle"><svg id="soundIcon" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9zM16 8a6 6 0 0 1 0 8M19 5a10 10 0 0 1 0 14"/></svg></span><span id="soundLabel">Sound</span></button>
+          </div>
+        </div>
+      </div>
+    <section id="viewer" class="viewer" tabindex="0" aria-label="Story viewer. Swipe up or down to change stories.">
+      <div id="backdrop" class="backdrop"></div>
+      <div id="scene" class="scene">
+        <img id="storyImage" alt="" draggable="false">
+        <div id="pointer" class="pointer" hidden><span></span></div>
+      </div>
+      <section id="mcqOverlay" class="mcq-overlay" aria-label="MCQ" hidden><div class="mcq-heading"><span id="mcqPhase">THE QUESTION</span><span id="mcqProgress"></span><button id="mcqSoundButton" type="button" aria-label="Mute MCQ audio">Sound</button></div><div id="mcqContent" class="mcq-content" tabindex="0"></div></section>
+      <section id="quoteOverlay" class="quote-overlay" aria-label="Story quotation" hidden><span class="quote-mark" aria-hidden="true">“</span><blockquote id="quoteText" lang="ar" dir="rtl"></blockquote></section>
+      <button id="imagePlay" class="image-play" aria-label="Play story audio" hidden><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button>
+      <div id="emptyState" class="empty-state" hidden><span>✦</span><h2 id="emptyTitle">Loading your Drive library</h2><p id="emptyMessage">Your images and stories will appear here.</p><button id="emptyLibrary" class="primary-button">Sync from Drive</button></div>
+    </section>
+
+      <div id="motionLabel" class="motion-label" hidden></div>
+      <div class="story-info">
+        <div id="storyCategory" class="story-category">LEARN THROUGH A STORY</div>
+        <h1 id="storyTitle">Your next discovery<br>starts here.</h1>
+        <p id="storySubtitle">One image. A story that stays.</p>
+        <div id="assetStatus" class="asset-status"></div>
+      </div>
+      <button id="nextButton" class="next-peek" aria-label="Next story"><span>SWIPE TO DISCOVER</span><svg viewBox="0 0 24 24"><path d="m7 14 5-5 5 5"/></svg></button>
+    </section>
+
+    <section class="player" aria-label="Playback controls">
+      <div class="track-row"><div class="track-toggle" role="group" aria-label="Audio track"><button id="storyTrack" class="selected" aria-pressed="true">Story <span>01</span></button><button id="explainTrack" aria-pressed="false">Explanation <span>02</span></button><button id="mcqTrack" aria-pressed="false">MCQ <span>03</span></button></div><button id="speedButton" class="speed-button" aria-label="Playback speed">1×</button></div>
+      <div class="transport"><button id="playButton" class="play-button" aria-label="Play audio"><svg id="playIcon" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="timeline"><div class="timeline-labels"><span id="playbackLabel">Story audio</span><span><span id="elapsed">0:00</span><span class="time-divider"> / </span><span id="duration">0:00</span></span></div><input id="seek" type="range" min="0" max="100" step="0.01" value="0" aria-label="Seek audio" disabled></div><button id="restartButton" class="restart-button icon-button" aria-label="Restart track"><svg viewBox="0 0 24 24"><path d="M5 8a8 8 0 1 1-1 7M5 3v5h5"/></svg></button></div>
+      <p id="playerNote" class="player-note">Your content, brought into focus.</p>
+    </section>
+    <div id="toast" class="toast" role="status" hidden></div>
+  </main>
+
+  <dialog id="libraryDialog" class="sheet library-sheet">
+    <div class="sheet-handle"></div><div class="sheet-heading"><div><span class="eyebrow">YOUR COLLECTION</span><h2>The story library.</h2></div><button class="icon-button close-button" data-close="libraryDialog" aria-label="Close library">×</button></div>
+    <div class="source-card"><div class="drive-mark"><svg viewBox="0 0 32 32"><path fill="#f5c85a" d="M11 3h10l10 18H21z"/><path fill="#72b896" d="M11 3 1 21l5 9 10-18z"/><path fill="#75a7f2" d="M1 21h30l-5 9H6z"/></svg></div><div><b>Connected to Google Drive</b><p id="syncStatus">Images & stories, in one place.</p></div><button id="syncButton" class="sync-button" aria-label="Sync Google Drive">↻</button></div>
+    <div class="book-controls"><label for="bookSelect">Book</label><select id="bookSelect" aria-label="Choose book"></select><button id="addBookButton" class="secondary-button">Add book</button></div>
+    <form id="bookForm" class="book-form" hidden><label>Book name<input id="bookName" required maxlength="120" placeholder="Book name"></label><label>Google Drive folder<input id="bookFolder" type="url" required placeholder="https://drive.google.com/drive/folders/…"></label><div><button class="primary-button" type="submit">Add book</button><button id="cancelBook" class="secondary-button" type="button">Cancel</button></div><p id="bookError" role="alert"></p></form>
+    <div class="library-summary"><span id="libraryCount">0 stories</span><a id="driveLink" href="https://drive.google.com/drive/folders/1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT" target="_blank" rel="noopener">Open folder ↗</a></div>
+    <div id="libraryList" class="library-list"></div>
+    <div class="import-card"><b>Your library grows with your Drive.</b><p>Add images, stories and audio to the connected folder. Tap Sync to discover new files.</p></div>
+    <p class="sheet-footnote">Stories play in Arabic. Explanations, MCQs and app controls are in English. Downloaded stories stay available on this device when you are offline.</p>
+  </dialog>
+
+  <dialog id="transcriptDialog" class="sheet transcript-sheet"><div class="sheet-handle"></div><div class="sheet-heading"><div><span id="transcriptKicker" class="eyebrow">STORY TRANSCRIPT</span><h2 id="transcriptTitle">Read the story.</h2></div><button class="icon-button close-button" data-close="transcriptDialog" aria-label="Close transcript">×</button></div><div id="transcriptBody" class="transcript-body" dir="auto"></div></dialog>
+  <audio id="audio" preload="metadata"></audio>
+  <script src="drive-sync.js"></script>
+  <script src="quotes.js"></script>
+  <script src="mcq.js"></script>
+  <script src="books.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

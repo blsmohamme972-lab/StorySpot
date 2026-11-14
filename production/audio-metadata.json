@@ -1,0 +1,1027 @@
+{
+  "schemaVersion": 1,
+  "engine": "Microsoft Edge neural text-to-speech",
+  "packageVersion": "7.3.1",
+  "syntheticSpeech": true,
+  "tracks": {
+    "story-1": {
+      "explanation": {
+        "file": "content/audio/story-1-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "44ff2709b3153b18dfd1208e7ab2bb9881452bc8ff85813b69aef34eca8eba82",
+        "sha256": "4837ec055031143e32ade0055018875bf272bc7179bd71535c7056aee2af756a",
+        "bytes": 177120,
+        "duration": 29.52,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 4.7923,
+            "text": "The twelve pairs of arches represent the ribs that protect the lantern."
+          },
+          {
+            "start": 4.7423,
+            "end": 10.8892,
+            "text": "The rear column represents the thoracic vertebrae, and the front plate represents the sternum."
+          },
+          {
+            "start": 10.8892,
+            "end": 18.1057,
+            "text": "The bellows make the chamber expand, linking protection with the changing volume of the thoracic cage during breathing."
+          },
+          {
+            "start": 18.1057,
+            "end": 24.1881,
+            "text": "The red scarf wraps the narrow rib neck between its golden head and its projecting tubercle."
+          },
+          {
+            "start": 24.1881,
+            "end": 29.4459,
+            "text": "Follow those three landmarks to remember the position of the neck of a typical rib."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-1-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "9af90c35d7fa55c527d2d0ce199d1ce872e78eb91e8651b0467d52c63eba58d0",
+        "sha256": "a8a7832da53e800884011f1f20f56bf9bda69c520d5f185c68c0e97f4dd9e4da",
+        "bytes": 307008,
+        "duration": 51.168,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 5.8658,
+            "text": "في علّية بطرسبورغ، يتساقط السقف فوق مصباح الحياة."
+          },
+          {
+            "start": 5.8158,
+            "end": 16.6053,
+            "text": "تحميه اثنا عشر زوجاً من الأقواس: أضلاعٌ بين عمود خلفي يرمز للفقرات الصدرية وصفيحة أمامية ترمز للقص."
+          },
+          {
+            "start": 16.6053,
+            "end": 24.6579,
+            "text": "يحرّك الشاب المنفاخ، فتتسع الحجرة وتتنفس؛ القفص يحمي ويغيّر حجمه."
+          },
+          {
+            "start": 24.6579,
+            "end": 33.8684,
+            "text": "لكنه يمسك السرّ بوشاح أحمر: ملفوف حول جزء ضيق، بين رأس ذهبي وحديبة بارزة."
+          },
+          {
+            "start": 33.8684,
+            "end": 38.9868,
+            "text": "تذكّر: عنق الضلع النموذجي بين رأسه وحديبته."
+          },
+          {
+            "start": 38.9868,
+            "end": 46.1316,
+            "text": "ويهمس بعبارة وردت في «الأبله» لدوستويفسكي: «الجمال سينقذ العالم»."
+          },
+          {
+            "start": 46.1316,
+            "end": 51.1053,
+            "text": "هنا، ينقذ الضوءَ قفصٌ يعرف كيف يتنفس."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-5": {
+      "explanation": {
+        "file": "content/audio/story-5-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "2097e53993c0088e3c6a9cf6fcf292c4f5e3f64f2416d0a3104e3c770a5c776e",
+        "sha256": "d9527d89fb8b0807cb856542ca7556e87a5aeea85de8bb85f9b6a00c42041c57",
+        "bytes": 168336,
+        "duration": 28.056,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 7.4727,
+            "text": "The mansion represents the normal lung region, and its branching copper pipes represent the tracheobronchial tree."
+          },
+          {
+            "start": 7.4227,
+            "end": 12.4742,
+            "text": "The separate wooden wagon represents the abnormal sequestered lung segment."
+          },
+          {
+            "start": 12.4742,
+            "end": 18.1314,
+            "text": "The locked gate and chain show that the segment does not communicate with the normal airway tree."
+          },
+          {
+            "start": 18.1314,
+            "end": 22.8222,
+            "text": "Its position outside the mansion encodes the extralobar location."
+          },
+          {
+            "start": 22.8222,
+            "end": 28.0026,
+            "text": "The wagon's own red cloak represents its separate covering of visceral pleura."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-5-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "d3f1fde811a8d15226fad0f073889db25c2d7752ceb6ef284971858748ac786a",
+        "sha256": "4bee082a39bc16dbfe6db1f6bd5470bce4241deb4266319508923f419ff7f537",
+        "bytes": 348768,
+        "duration": 58.128,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 10.7737,
+            "text": "في شتاء بطرسبورغ، وقف رجل حزين أمام قصر تتشعّب منه أنابيب كأغصان الشجرة، وتصل إلى غرفه كلها."
+          },
+          {
+            "start": 10.7237,
+            "end": 17.6316,
+            "text": "لكن خلف البوابة المقفلة تقف عربة غريبة، منفصلة عن القصر."
+          },
+          {
+            "start": 17.6316,
+            "end": 24.5921,
+            "text": "حاول الرجل الاقتراب، فمنعته السلسلة والقفل؛ لا ممرّ ولا اتصال."
+          },
+          {
+            "start": 24.5921,
+            "end": 29.9342,
+            "text": "وفوق العربة معطف أحمر مستقل يلفّها وحدها."
+          },
+          {
+            "start": 29.9342,
+            "end": 44.3026,
+            "text": "تذكّر: هذا هو العزل الرئوي، نسيج رئوي غير طبيعي لا يتصل بالشجرة الرغامية القصبية؛ وإذا كان خارج الفص، فله غشاؤه الجنبي الحشوي الخاص."
+          },
+          {
+            "start": 44.3026,
+            "end": 50.3684,
+            "text": "وكما ورد في «الإخوة كارامازوف» لدوستويفسكي: «ما الجحيم؟"
+          },
+          {
+            "start": 50.3684,
+            "end": 53.5263,
+            "text": "إنه عذاب العجز عن الحب»."
+          },
+          {
+            "start": 53.5263,
+            "end": 58.0658,
+            "text": "العزلة والمعطف الخاص يقودانك إلى الإجابة E."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-7-clamp": {
+      "story": {
+        "file": "content/audio/story-7-clamp-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "c370114ea1074e77c9bd5fcfd9b26b11bd46db0b5eadbc5ba32eb82eeff618ec",
+        "sha256": "3f4d93ea94812647893ea9c6082fed040a717dabafe62a5aef2ede8d6ab6567d",
+        "bytes": 303264,
+        "duration": 50.544,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 9.3789,
+            "text": "في زقاق بطرسبورغ البارد، يجلس شاب في الثلاثين وقد أمسك به مِكبسٌ حديديّ يحمل اسم TOS."
+          },
+          {
+            "start": 9.3289,
+            "end": 18.0,
+            "text": "تحته انحشرت ثلاثة حبال: الأصفر يرمز للأعصاب، والأحمر والأزرق للأوعية الدموية."
+          },
+          {
+            "start": 18.0,
+            "end": 32.2763,
+            "text": "كلما اشتدّ الضغط عند مخرج الصدر، اضطربت الحبال وظهرت آثارٌ متعددة؛ فالمتلازمة مجموعة أعراض سببها انضغاط عناصر عصبية ووعائية، لا عرض واحد."
+          },
+          {
+            "start": 32.2763,
+            "end": 40.2237,
+            "text": "وبجواره ساعة رملية تحمل 20–40، لتذكّرك بالعمر الأكثر شيوعًا."
+          },
+          {
+            "start": 40.2237,
+            "end": 46.2105,
+            "text": "وكما قال دوستويفسكي: «الإنسان لغز، ولا بدّ من فكّه»."
+          },
+          {
+            "start": 46.2105,
+            "end": 50.4868,
+            "text": "وهنا مفتاح اللغز: الضغط عند المخرج."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "explanation": {
+        "file": "content/audio/story-7-clamp-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "836e5850a10f99a97156ee5e46aacc7330c008f31e0d7e2bda6812cfbaf2d84a",
+        "sha256": "de84cd1dbb05f334437fcb560d242c3e48281a6156952ce83f54a857f45d8cde",
+        "bytes": 189648,
+        "duration": 31.608,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 5.5783,
+            "text": "The rusted clamp marked TOS represents compression at the thoracic outlet."
+          },
+          {
+            "start": 5.5283,
+            "end": 12.616,
+            "text": "The yellow cable represents neural elements, while the red and blue cables represent vascular elements."
+          },
+          {
+            "start": 12.616,
+            "end": 19.3557,
+            "text": "Tightening the clamp disturbs all three cables, linking the compression to a constellation of symptoms."
+          },
+          {
+            "start": 19.3557,
+            "end": 25.6443,
+            "text": "The sparks and distressed figure reinforce that shared cause without naming individual symptoms."
+          },
+          {
+            "start": 25.6443,
+            "end": 31.5335,
+            "text": "The hourglass marked twenty to forty is the supplied mnemonic for the more common age group."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-7-gate": {
+      "explanation": {
+        "file": "content/audio/story-7-gate-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "5ab7359ca088f5548e33c03748454563e524fa58dee1ea84e3af730fa996da23",
+        "sha256": "910783ae16ee767710f07c397cc1f0489025ab01da75aaaf67027eecdbcdf910",
+        "bytes": 198720,
+        "duration": 33.12,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 6.0938,
+            "text": "The tight straps around the illustrated outlet represent compression at the thoracic outlet."
+          },
+          {
+            "start": 6.0438,
+            "end": 13.6598,
+            "text": "The yellow branching strand represents neural elements, while the red and blue vessels represent vascular elements."
+          },
+          {
+            "start": 13.6598,
+            "end": 20.3995,
+            "text": "The enlarged inset marked TOS repeats the compressed bundle to focus attention on its location."
+          },
+          {
+            "start": 20.3995,
+            "end": 26.8557,
+            "text": "The distressed figure and radiating sparks link this shared compression to a constellation of symptoms."
+          },
+          {
+            "start": 26.8557,
+            "end": 33.0412,
+            "text": "The hourglass marked twenty to forty encodes the more common age group in the supplied mnemonic."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-7-gate-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "ca587ea93701363411fedf5aac024d91c926bedaeca0c008b549d8034d0f54fa",
+        "sha256": "290e5a4e7767ca52ffe6a638f2697edd10d736b7edbbe482552f46d25d75731a",
+        "bytes": 300240,
+        "duration": 50.04,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 15.4316,
+            "text": "في سانت بطرسبورغ القديمة، أُغلقت بوابةٌ حديدية على ثلاثة مسارات تعبر ممرًّا ضيقًا: سلكٌ ذهبي ينقل الإشارات، وأنبوبٌ أحمر وآخر أزرق ينقلان السائل."
+          },
+          {
+            "start": 15.3816,
+            "end": 25.8553,
+            "text": "ومع كل ضغطة، تضطرب الإشارات، وتومض مصابيح الحيّ بأشكال مختلفة؛ أعراضٌ متعددة، وسببٌ واحد."
+          },
+          {
+            "start": 25.8553,
+            "end": 32.1711,
+            "text": "يزدحم هذا الممرّ خصوصًا بعابرين أعمارهم بين العشرين والأربعين."
+          },
+          {
+            "start": 32.1711,
+            "end": 43.3158,
+            "text": "تذكّر: هذه متلازمة مخرج الصدر، وهي مجموعة أعراض مرتبطة بانضغاط العناصر العصبية والوعائية في المخرج الصدري."
+          },
+          {
+            "start": 43.3158,
+            "end": 49.9737,
+            "text": "وكما كتب دوستويفسكي: «الإنسان لغز، ويجب فكّ هذا اللغز»."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-9": {
+      "explanation": {
+        "file": "content/audio/story-9-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "4c4f272e115965373901851845f4399318822cfb3bfc571fe4b8198fbaa04d07",
+        "sha256": "21c277af693c9a4501b8fddbc88cc6bea84a3290456f2ca3cde477061cfb20c3",
+        "bytes": 201600,
+        "duration": 33.6,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 7.3438,
+            "text": "The brass chimney represents the oesophagus, and the smooth ivory stone represents a benign leiomyoma."
+          },
+          {
+            "start": 7.2938,
+            "end": 12.5902,
+            "text": "The stone sits in a cradle in the lower third, beside a sixty percent marker."
+          },
+          {
+            "start": 12.5902,
+            "end": 17.8995,
+            "text": "This encodes the supplied fact that about sixty percent are in the distal third."
+          },
+          {
+            "start": 17.8995,
+            "end": 26.4304,
+            "text": "The scale marked more than fifty percent and the dominant porcelain group encode leiomyoma as the most common benign oesophageal tumour."
+          },
+          {
+            "start": 26.4304,
+            "end": 33.5309,
+            "text": "The student's crank moves the stone through an unharmed pipe, reinforcing the benign behaviour shown in the story."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-9-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "860b6e6973d3c5e388199e4c23fdc5b8ea00d45509ce92ae08d0fea5ecdd64d6",
+        "sha256": "b5a41a2195e6f74d358c17115ea110947b991924b1d884eef55a71c8cf3d5298",
+        "bytes": 351504,
+        "duration": 58.584,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 12.7474,
+            "text": "في غرفة بطرسبورغ شتوية، يدير طالبٌ مقبضًا نحاسيًا فيهبط حجرٌ عاجي أملس داخل مدخنة طويلة، من دون أن يكسرها أو يؤذيها."
+          },
+          {
+            "start": 12.6974,
+            "end": 20.75,
+            "text": "يتوقف الحجر في السُلث السفلي، حيث يحتضنه مهدٌ نحاسي مكتوب عليه 60%."
+          },
+          {
+            "start": 20.75,
+            "end": 34.3289,
+            "text": "بجانب المدخنة تميل كفّة ميزان نحو مجموعة من التماثيل الخزفية، وأكثر من نصفها متجمّع في الجهة نفسها، وتحتها علامة 50%+."
+          },
+          {
+            "start": 34.3289,
+            "end": 48.1842,
+            "text": "تذكّر الصورة أن الورم العضلي الأملس هو أشيع ورم حميد في المريء، وأن أكثر من نصف الأورام الحميدة من هذا النوع، وأن نحو 60% منه يقع في الثلث البعيد."
+          },
+          {
+            "start": 48.1842,
+            "end": 55.9868,
+            "text": "سرّ الوجود الإنساني لا يكمن في البقاء حيًّا فحسب، بل في العثور على شيء نعيش من أجله."
+          },
+          {
+            "start": 55.9868,
+            "end": 58.5263,
+            "text": "فيودور دوستويفسكي"
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-10": {
+      "explanation": {
+        "file": "content/audio/story-10-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "8b47263548d56c015bdd85c7b1cee0209c7dede8090a276bfb8bfafadb4029bc",
+        "sha256": "ddb2d63de766c44a2cfdf616177276e6288d60701b34de22df4630b978ad6a37",
+        "bytes": 166464,
+        "duration": 27.744,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 6.9701,
+            "text": "The snowy forest represents a forest plot, and each glowing square lantern represents one study."
+          },
+          {
+            "start": 6.9201,
+            "end": 11.8428,
+            "text": "The area of a square represents that study's weight in the meta-analysis."
+          },
+          {
+            "start": 11.8428,
+            "end": 16.701,
+            "text": "The larger squares pull harder on their ropes to make this weighting memorable."
+          },
+          {
+            "start": 16.701,
+            "end": 22.2423,
+            "text": "All ropes meet at one shared balance, representing the combination of studies."
+          },
+          {
+            "start": 22.2423,
+            "end": 27.6804,
+            "text": "Its tilt toward the larger squares reminds you that those studies carry greater weight."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-10-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "206937fcf59867ee808be2788de69716839d5462eb3088c3534719afd86b3612",
+        "sha256": "7dd0bbe936fc56246514c13566d4034dc70b156b47ae1f25e6945aa53d019fb9",
+        "bytes": 272160,
+        "duration": 45.36,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 10.0237,
+            "text": "في غابة ثلجية صامتة، تتدلّى مربعات مضيئة كأن كل واحد منها دراسة تبحث عن مكانها بين الأشجار."
+          },
+          {
+            "start": 9.9737,
+            "end": 19.4737,
+            "text": "المربع الأكبر يشد حبله بقوة، فيهبط كفّة الميزان؛ والمربعات الأصغر ترفع حبالها بخفة."
+          },
+          {
+            "start": 19.4737,
+            "end": 36.3553,
+            "text": "تتجمع كل الحبال في حلقة واحدة، ثم تستقر الكفّة ناحية المربعات الأكبر: هكذا نتذكر أن مساحة مربع كل دراسة تمثل وزنها في التحليل التلوي، وأن الغابة كلها هي forest plot."
+          },
+          {
+            "start": 36.3553,
+            "end": 45.2763,
+            "text": "وكما قال دوستويفسكي: «الجمال سينقذ العالم»؛ هنا ينقذنا جمال الصورة من نسيان معنى الوزن."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-11": {
+      "explanation": {
+        "file": "content/audio/story-11-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "28522cc46194a9cdda6dae9d6edca1eebbf754b5450502144b75125582ccbc8a",
+        "sha256": "739976c737108e3a2a6853c02b179397945043c55dcbb6a5cbf1c0c7ec2fee59",
+        "bytes": 227808,
+        "duration": 37.968,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 6.1454,
+            "text": "The black water represents malignant pleural effusion, and the bucket represents drainage."
+          },
+          {
+            "start": 6.0954,
+            "end": 11.1985,
+            "text": "The brass plug and sealed bucket represent preventing the fluid from returning."
+          },
+          {
+            "start": 11.1985,
+            "end": 17.0361,
+            "text": "The clearing window and cooling red clasp encode relief of breathlessness and chest pain."
+          },
+          {
+            "start": 17.0361,
+            "end": 22.6031,
+            "text": "The iron gate represents extrapleural pneumonectomy, abbreviated EPP."
+          },
+          {
+            "start": 22.6031,
+            "end": 28.2861,
+            "text": "The balanced MARS scale shows the trial comparison of EPP with no EPP."
+          },
+          {
+            "start": 28.2861,
+            "end": 37.8995,
+            "text": "The crossed-out P D versus EPP sign reinforces that this was not a randomized comparison of pleurectomy and decortication against EPP."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-11-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "5d5ee4430e2631d3b8fe9c064910562ae75f2b25d4d10b87e24e0e85a20f52b0",
+        "sha256": "bbf7452a719b05392afff34c6a459c6a6d631afb460ed766856ccb69280e084e",
+        "bytes": 417888,
+        "duration": 69.648,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 10.6158,
+            "text": "في غرفة بطرسبورغ باردة، يغرق المريض في ماء أسود يتسرّب من غرفةٍ حديدية؛ ذلك هو الانصباب الجنبي الخبيث."
+          },
+          {
+            "start": 10.5658,
+            "end": 17.8947,
+            "text": "تمسكه عروة حمراء ملتهبة عند صدره، فيتألم ويكافح لالتقاط النفس."
+          },
+          {
+            "start": 17.8947,
+            "end": 34.6974,
+            "text": "تأتي امرأة رحيمة، فتغرف الماء بالدلو ثم تدقّ سدادةً نحاسية في الشقّ، فيتوقف رجوعه؛ هذه هي المعالجة التلطيفية: إزالة الانصباب ومنع عودته لتخفيف ضيق النفس وألم الصدر."
+          },
+          {
+            "start": 34.6974,
+            "end": 47.4737,
+            "text": "وعلى الطاولة يزن الطبيب خيارين متساويين في سجل MARS: إزالة البوابة الحديدية كجراحة جذرية، أو تركها بلا إزالة؛ EPP مقابل NO EPP."
+          },
+          {
+            "start": 47.4737,
+            "end": 56.4342,
+            "text": "أما لافتة P/D vs EPP فممهورة بالشمع الأحمر لأنها ليست المقارنة العشوائية الصحيحة."
+          },
+          {
+            "start": 56.4342,
+            "end": 62.0658,
+            "text": "ومع انحسار الماء يصفو زجاج النافذة ويبرد القفل الأحمر."
+          },
+          {
+            "start": 62.0658,
+            "end": 69.5789,
+            "text": "أحيانًا يحبّ الإنسان حتى المعاناة…» — فيودور دوستويفسكي، ملاحظات من تحت الأرض."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-12": {
+      "explanation": {
+        "file": "content/audio/story-12-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "88783d6e09b785cd144ca151a4e4ae46a9e7c902a3ccf2f3fbfee9ee3b7e5313",
+        "sha256": "619d874c9b0ff7bb66a3c6ac05e07e1b04cc27e07bcb6718b72d663180ac7709",
+        "bytes": 192672,
+        "duration": 32.112,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 6.9057,
+            "text": "The single silver knot between two coat linings represents a rare solitary fibrous tumour of the pleura."
+          },
+          {
+            "start": 6.8557,
+            "end": 10.9407,
+            "text": "The two linings act as a metaphor for the pleural layers."
+          },
+          {
+            "start": 10.9407,
+            "end": 18.9046,
+            "text": "The branching fibres and changing shape under the magnifying glass represent histological and morphological characteristics."
+          },
+          {
+            "start": 18.9046,
+            "end": 25.9665,
+            "text": "The crank, moving wheel, and marble maze link those characteristics to an unpredictable clinical course."
+          },
+          {
+            "start": 25.9665,
+            "end": 32.049,
+            "text": "The clocks at six and seven encode the peak incidence in the sixth and seventh decades of life."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-12-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "7771f1b981e7468533cb974210b531def7dc3aaec271bba36824bbb7a676c11f",
+        "sha256": "2c309c274e6bf5ab5cf40534f8c15b7daa320c661e0fe8b866ade9f691b90394",
+        "bytes": 424080,
+        "duration": 70.68,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 15.7868,
+            "text": "في غرفةٍ قديمة من بطرسبورغ الثلجية، وقف شيخٌ وحيد أمام معطفٍ ضخم تتدلّى منه بطانتان، وبينهما عقدةٌ فضية واحدة، كأنها ضيف نادر اختبأ في شقّ ضيّق."
+          },
+          {
+            "start": 15.7368,
+            "end": 23.6711,
+            "text": "أدار الشيخ مقبضًا نحاسيًا، فالتوت ألياف العقدة وتبدّل شكلها تحت العدسة المكبّرة."
+          },
+          {
+            "start": 23.6711,
+            "end": 40.1184,
+            "text": "عندها شدّت الخيوط الملوّنة عجلةً صغيرة، فدارت بلا اتجاه ثابت، ثم دفعت الكرات في متاهةٍ متعرّجة؛ هكذا يصبح المسار السريري غير متوقّع، لأن النسيج والشكل يغيّران الحركة."
+          },
+          {
+            "start": 40.1184,
+            "end": 54.4079,
+            "text": "وفوق المشهد ساعتان: إحداهما عند السادسة والأخرى عند السابعة، وبينهما صفّان من الشموع، لتثبت في الذاكرة أن الذروة تقع في العقد السادس والسابع من العمر."
+          },
+          {
+            "start": 54.4079,
+            "end": 62.3553,
+            "text": "والعقدة الوحيدة بين البطانتين تذكّرنا بأن هذا الورم الليفي الجنبي نادر ومنفرد."
+          },
+          {
+            "start": 62.3553,
+            "end": 68.0658,
+            "text": "الألم والمعاناة لا بدّ منهما للعقل الكبير والقلب العميق."
+          },
+          {
+            "start": 68.0658,
+            "end": 70.6053,
+            "text": "فيودور دوستويفسكي"
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-13": {
+      "explanation": {
+        "file": "content/audio/story-13-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "2560026cacec275186ba8267aa884ef0d295abde7a701077e5b28222547b64da",
+        "sha256": "a46c73e87638e7eb16f3c95f1896a1d25b4516e4fa502efb21bec76b4fd4acff",
+        "bytes": 190512,
+        "duration": 31.752,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 5.3464,
+            "text": "The two red rivers represent a pulmonary artery and a pulmonary vein."
+          },
+          {
+            "start": 5.2964,
+            "end": 12.268,
+            "text": "The glowing bridge links them directly, representing an abnormal pulmonary arteriovenous connection."
+          },
+          {
+            "start": 12.268,
+            "end": 17.5515,
+            "text": "The surrounding wall makes that shortcut between separate routes easy to remember."
+          },
+          {
+            "start": 17.5515,
+            "end": 23.3119,
+            "text": "The physician's bell placed on the chest represents transthoracic echocardiography."
+          },
+          {
+            "start": 23.3119,
+            "end": 31.6753,
+            "text": "Bubbles crossing and lighting the bridge add the contrast component, which the supplied story identifies as its diagnostic test."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-13-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "e80f83c2e819a3b6ca5e6a7de74ed0adec36464d2dd928b7bf634afe4c439b06",
+        "sha256": "1c93af609b6029a6339b62cf6ae8686c20c540a475a64679c9dedd615e6d0a58",
+        "bytes": 340992,
+        "duration": 56.832,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 7.4184,
+            "text": "في غرفةٍ بطرسبورغيةٍ باردة، يبني الطبيب مدينةً صغيرةً بأسوارٍ عالية."
+          },
+          {
+            "start": 7.3684,
+            "end": 15.9868,
+            "text": "يجري نهران أحمران منفصلان حول المدينة: أحدهما شريانٌ رئوي، والآخر وريدٌ رئوي."
+          },
+          {
+            "start": 15.9868,
+            "end": 28.1447,
+            "text": "لكن جسراً مضيئاً غريباً يشقّ السور ويربط النهرين مباشرة؛ تلك هي الوصلة الوعائية غير الطبيعية في تشوّه الشرايين الوريدية الرئوية."
+          },
+          {
+            "start": 28.1447,
+            "end": 35.3421,
+            "text": "يضغط الطبيب جرسه على صدر المريض، ثم يُسقط فقاعاتٍ لامعة من قارورة."
+          },
+          {
+            "start": 35.3421,
+            "end": 47.0132,
+            "text": "تسافر الفقاعات عبر الجسر وتضيئه فوراً، فينكشف الطريق الخفيّ بأفضل فحص: الإيكو القلبي عبر جدار الصدر مع مادة التباين."
+          },
+          {
+            "start": 47.0132,
+            "end": 54.2368,
+            "text": "سرّ الوجود الإنساني لا يكمن في البقاء حيّاً، بل في العثور على ما نعيش من أجله."
+          },
+          {
+            "start": 54.2368,
+            "end": 56.7763,
+            "text": "فيودور دوستويفسكي"
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-14": {
+      "explanation": {
+        "file": "content/audio/story-14-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "c20a5ef08773a356a1fbc595e6bc7b3231baf763bad1f8c6895e29cf39c65f10",
+        "sha256": "f33e10f95869a9343d87cd245bdea243e38f2b170b85ca531cf7fa7d8ccaaacd",
+        "bytes": 191520,
+        "duration": 31.92,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 6.5706,
+            "text": "The fortress made of different materials represents the heterogeneous appearance of thymic carcinoma."
+          },
+          {
+            "start": 6.5206,
+            "end": 12.5129,
+            "text": "Its thorny roots and breached walls encode an aggressive, invasive epithelial malignancy."
+          },
+          {
+            "start": 12.5129,
+            "end": 19.6134,
+            "text": "The surgeon's saw and forceps represent surgical removal, the treatment emphasized in this supplied mnemonic."
+          },
+          {
+            "start": 19.6134,
+            "end": 23.9948,
+            "text": "Removing the fortress with its roots makes that action memorable."
+          },
+          {
+            "start": 23.9948,
+            "end": 31.8557,
+            "text": "The warm, intact house represents preserved life, while the untouched pills keep attention on the story's surgical theme."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-14-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "58cd5e8d11b47e0b300ae69aca96d57c5841c851aac9535d38149316e43b5aee",
+        "sha256": "4a7b0d8a65845488a7cff8d1057b4af3f491f1ece29e9f165fe0a5a0b740a810",
+        "bytes": 347472,
+        "duration": 57.912,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 9.7737,
+            "text": "في ليلة شتوية باردة من بطرسبورغ، يقف جرّاح أمام بيت خشبي صغير تضيء نوافذه بدفء."
+          },
+          {
+            "start": 9.7237,
+            "end": 22.9868,
+            "text": "فوق البيت نمت قلعة سوداء ملتوية، مبنية من حجارة وزجاج وخزف متباين؛ اختلاف موادها ووجوهها يذكّر بأن هذا الورم غير متجانس."
+          },
+          {
+            "start": 22.9868,
+            "end": 32.1053,
+            "text": "أطلقت القلعة جذورًا شوكية تخترق الجدران والأبواب وتتمدد بعنف، فتجسّد غزوه وعدوانه."
+          },
+          {
+            "start": 32.1053,
+            "end": 35.6447,
+            "text": "لا تنفع الأقراص الموضوعة في الظل."
+          },
+          {
+            "start": 35.6447,
+            "end": 44.0526,
+            "text": "يرفع الجرّاح المنشار الفضي ويقطع الكتلة من قاعدتها، ثم ينتزعها كاملة مع جذورها."
+          },
+          {
+            "start": 44.0526,
+            "end": 52.4211,
+            "text": "يتساقط الشرر، وينكشف البيت سالمًا تحت ضوء الشمعة: العلاج الحاسم هنا هو الجراحة."
+          },
+          {
+            "start": 52.4211,
+            "end": 55.3026,
+            "text": "الجمال سينقذ العالم."
+          },
+          {
+            "start": 55.3026,
+            "end": 57.8421,
+            "text": "فيودور دوستويفسكي"
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    },
+    "story-15": {
+      "explanation": {
+        "file": "content/audio/story-15-explanation.mp3",
+        "voice": "en-US-AriaNeural",
+        "language": "en-US",
+        "rate": "-3%",
+        "textSha256": "86c06246263f82c35caab60979b0603ce0bcca5e425136349c61bfab2811287c",
+        "sha256": "f6f0674fdb63360d681aeb41e5a346455cbffb19bb33e3a272ea4f36407129d5",
+        "bytes": 178128,
+        "duration": 29.688,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 4.818,
+            "text": "The small house shaped like a reliquary represents the thymus gland."
+          },
+          {
+            "start": 4.768,
+            "end": 10.3995,
+            "text": "The crimson and gold masked jester inside represents a thymic carcinoid tumour."
+          },
+          {
+            "start": 10.3995,
+            "end": 17.5644,
+            "text": "Matching jesters in distant doorways encode histological similarity to carcinoid tumours at other sites."
+          },
+          {
+            "start": 17.5644,
+            "end": 23.6211,
+            "text": "The red thread and falling dominoes represent the common spread described in the supplied story."
+          },
+          {
+            "start": 23.6211,
+            "end": 29.6263,
+            "text": "The scholar's failed attempt to stop that chain reinforces the same theme of metastasis."
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      },
+      "story": {
+        "file": "content/audio/story-15-story.mp3",
+        "voice": "ar-SA-ZariyahNeural",
+        "language": "ar-SA",
+        "rate": "-5%",
+        "textSha256": "ae883360d35415c3659f2f7868fd767dd51a3be8c4f7d944cc8062b4a3cad312",
+        "sha256": "e407c2e7929424073b65674d1c0882c9ad4dd7be9ce9f948d730898a8b6341ed",
+        "bytes": 343728,
+        "duration": 57.288,
+        "codec": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "segments": [
+          {
+            "start": 0.1,
+            "end": 11.1289,
+            "text": "في علّية بطرسبورغ الباردة، يحرس طالبٌ بيتًا خشبيًا صغيرًا يشبه صندوقًا مقدّسًا؛ إنه رمز الغدة الزعترية."
+          },
+          {
+            "start": 11.0789,
+            "end": 16.9605,
+            "text": "في داخله مهرّج قرمزي لامع: هذا هو الورم السرطاوي."
+          },
+          {
+            "start": 16.9605,
+            "end": 26.3289,
+            "text": "يمدّ المهرّج خيطًا أحمر، فيسقط صفّ من قطع الدومينو المضيئة، ويمتدّ الخيط إلى أبواب بعيدة."
+          },
+          {
+            "start": 26.3289,
+            "end": 36.5526,
+            "text": "خلف كل باب يظهر مهرّج مطابق له بالقناع والجرس؛ أي إن شكله النسيجي يشبه السرطاويات في أماكن أخرى."
+          },
+          {
+            "start": 36.5526,
+            "end": 41.8684,
+            "text": "يحاول الطالب قطع الخيط، لكنه يستمر في الانتشار."
+          },
+          {
+            "start": 41.8684,
+            "end": 47.5,
+            "text": "تذكّر: السرطاوي الزعتري ورم، والنقيلة شائعة."
+          },
+          {
+            "start": 47.5,
+            "end": 54.6711,
+            "text": "إنّ الإنسان يحبّ أن يرى كل شيء في صورة نظام، لكنّه يجد الفوضى في قلبه."
+          },
+          {
+            "start": 54.6711,
+            "end": 57.2105,
+            "text": "فيودور دوستويفسكي"
+          }
+        ],
+        "validation": "ffprobe metadata and full ffmpeg decode passed; no human listening asserted"
+      }
+    }
+  }
+}

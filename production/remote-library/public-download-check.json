@@ -1,0 +1,23 @@
+[
+  {
+    "type": "manifest",
+    "mime": "application/octet-stream",
+    "bytes": 121142,
+    "sha256": "52fd36dbf04d23ebc9e9a989e58d447eaba7ed90d89cb3f36806a69387cd5964",
+    "finalHost": "drive.usercontent.google.com"
+  },
+  {
+    "type": "story_audio",
+    "mime": "audio/mpeg",
+    "bytes": 307008,
+    "sha256": "a8a7832da53e800884011f1f20f56bf9bda69c520d5f185c68c0e97f4dd9e4da",
+    "finalHost": "drive.usercontent.google.com"
+  },
+  {
+    "type": "explanation_audio",
+    "mime": "audio/mpeg",
+    "bytes": 177120,
+    "sha256": "4837ec055031143e32ade0055018875bf272bc7179bd71535c7056aee2af756a",
+    "finalHost": "drive.usercontent.google.com"
+  }
+]

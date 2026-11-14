@@ -1,0 +1,532 @@
+{
+  "101": {
+    "correctExplanation": "Transoesophageal echocardiography should reassess ventricular recovery, valve function, loading and potentially reversible structural causes before escalating mechanical support or considering transplantation.",
+    "options": {
+      "A": "Transplantation is premature before investigating reversible postoperative causes and the possibility of myocardial recovery.",
+      "B": "An RVAD requires evidence of significant right ventricular failure; failure to wean an LVAD alone does not establish that diagnosis.",
+      "C": "TOE can identify prosthetic dysfunction or thrombosis, residual lesions, tamponade and inadequate ventricular filling that could explain failed weaning.",
+      "D": "Coronary angiography may follow if ischaemia is suspected, but echocardiography first assesses a broader range of readily reversible causes.",
+      "E": "ECMO is an escalation for appropriate refractory cardiopulmonary failure, rather than a substitute for diagnostic reassessment."
+    }
+  },
+  "102": {
+    "correctExplanation": "Truncus arteriosus with an absent thymus suggests 22q11.2 deletion syndrome, in which parathyroid hypoplasia can cause hypocalcaemia.",
+    "options": {
+      "A": "The principal concern is absent or hypoplastic parathyroid tissue and resulting low calcium, rather than finding an aberrant gland.",
+      "B": "Reduced parathyroid hormone secretion can cause perioperative hypocalcaemia, with arrhythmias, seizures or impaired myocardial function.",
+      "C": "An ectopic thymus is possible, but it does not address the important syndromic metabolic risk signalled by this combination.",
+      "D": "Hypermagnesaemia is not the characteristic electrolyte abnormality associated with thymic and parathyroid developmental failure.",
+      "E": "Tricuspid atresia is not the expected associated problem indicated by absent thymic tissue."
+    }
+  },
+  "103": {
+    "correctExplanation": "Ebstein anomaly has a particularly strong association with accessory atrioventricular pathways and Wolff-Parkinson-White pre-excitation.",
+    "options": {
+      "A": "Tetralogy of Fallot can cause arrhythmias, but it has a weaker association with accessory pathways than Ebstein anomaly.",
+      "B": "Double outlet right ventricle is primarily a ventriculoarterial connection abnormality and is not the classic strongest WPW association.",
+      "C": "Hypoplastic heart disease is not the congenital lesion most strongly associated with WPW.",
+      "D": "Abnormal development around the tricuspid annulus in Ebstein anomaly favours accessory atrioventricular pathways, sometimes multiple pathways.",
+      "E": "Interrupted aortic arch does not have the characteristic high accessory-pathway association of Ebstein anomaly."
+    }
+  },
+  "104": {
+    "correctExplanation": "The original key gives one year, consistent with infancy closure of a haemodynamically important VSD. Asymptomatic VSD alone does not establish a need for closure: small restrictive defects may be observed.",
+    "options": {
+      "A": "Closure by about one year can be appropriate for a significant shunt, but it is not a universal requirement for every asymptomatic VSD.",
+      "B": "Six-month closure may be appropriate for a large defect or important left-heart volume loading, depending on the individual physiology.",
+      "C": "Three-month closure may be needed with uncontrolled heart failure or other high-risk features, which the stem does not describe.",
+      "D": "Routine closure at birth is not indicated for an otherwise stable isolated VSD; pulmonary vascular resistance and shunt physiology evolve after birth.",
+      "E": "Waiting until five years can be unsafe for a large shunt, although some small asymptomatic defects never need closure."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The stem omits defect size, shunt magnitude, left-heart dilation and pulmonary pressure. These determine whether and when closure is indicated; one year cannot be a universal answer."
+  },
+  "105": {
+    "correctExplanation": "The keyed rationale is an inodilator for low cardiac output with markedly elevated systemic resistance. Milrinone can worsen the stated hypotension, so treatment requires urgent haemodynamic reassessment and often additional blood-pressure support rather than an unqualified single-drug rule.",
+    "options": {
+      "A": "Milrinone improves contractility and reduces afterload, fitting the low-output, high-resistance pattern, but its vasodilation can aggravate systolic pressure of 80 mmHg.",
+      "B": "Dobutamine is also an inotrope that may be appropriate in low-output states; agent choice depends on blood pressure, rhythm and other clinical findings.",
+      "C": "A wedge pressure of 15 does not demonstrate fluid responsiveness; indiscriminate fluid can worsen postoperative congestion.",
+      "D": "Epinephrine may support contractility and blood pressure but can increase heart rate, myocardial oxygen demand and lactate; it is not uniquely mandated here.",
+      "E": "An IABP may be considered in selected refractory postoperative low-output states after evaluating reversible causes and initial support."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The stem describes hypotensive low cardiac output; milrinone alone is not a universally safe next step, and dobutamine or other support may also be appropriate. The historical renal-dopamine practice does not establish an evidence-based treatment plan."
+  },
+  "106": {
+    "correctExplanation": "High right atrial pressure with relatively low left atrial pressure and poor LVAD flow suggests right ventricular failure limiting LVAD filling. Inhaled nitric oxide may reduce pulmonary vascular resistance while right ventricular function and reversible causes are assessed.",
+    "options": {
+      "A": "An RVAD may be necessary if right ventricular failure persists despite optimisation, but a pulmonary vasodilator can be tried before that escalation.",
+      "B": "An IABP principally supports the systemic left-sided circulation and does not directly correct the suggested RV afterload problem.",
+      "C": "Inhaled nitric oxide selectively lowers pulmonary vascular resistance and can improve right ventricular output into the LVAD-supported left heart.",
+      "D": "Redo bypass requires evidence of a graft or coronary problem; these pressure measurements alone do not establish one.",
+      "E": "A right atrial pressure above 20 suggests right-sided congestion; additional fluid can worsen RV distension rather than improve LVAD filling."
+    }
+  },
+  "107": {
+    "correctExplanation": "The historical open-repair teaching point is avoidance of spinal cord ischaemia and paraplegia during interruption of descending aortic flow. Modern repair selection and timing also depend on injury grade, stability and associated injuries.",
+    "options": {
+      "A": "Timing is important and may be delayed in selected stable injuries, but the keyed operative complication is spinal cord ischaemia.",
+      "B": "Aortic cross-clamping can compromise spinal cord perfusion; distal perfusion and other protective measures aim to reduce paraplegia risk.",
+      "C": "Coronary disease affects perioperative risk but is not the characteristic major technical hazard of traumatic descending aortic repair.",
+      "D": "Renal ischaemia is an important complication, but paraplegia is the specific devastating complication emphasised by this historical question.",
+      "E": "Age influences the choice of repair and overall risk but does not replace consideration of spinal cord perfusion."
+    }
+  },
+  "108": {
+    "correctExplanation": "With uncontrolled bleeding after opening the chest, immediate control of the aorta is essential. The historical clamp-and-sew option prioritises haemorrhage control when there is no time to establish an adjunctive bypass.",
+    "options": {
+      "A": "Femoral bypass may assist selected repairs but establishing it must not delay control of torrential bleeding.",
+      "B": "Immediate clamping controls the bleeding source, followed by expeditious repair; the exact contemporary technique depends on the injury and available expertise.",
+      "C": "Partial left-heart bypass is useful for distal perfusion in planned open repair, but uncontrolled haemorrhage demands immediate vascular control.",
+      "D": "A Gott shunt can provide passive distal perfusion, but inserting it is not the first priority during uncontrolled exsanguination.",
+      "E": "Packing and transfusion are adjuncts; they do not provide definitive control of an actively disrupted thoracic aorta."
+    }
+  },
+  "109": {
+    "correctExplanation": "Large left atrial v waves immediately after mitral repair raise concern for important residual mitral regurgitation. Urgent intraoperative echocardiographic assessment can identify a repair failure requiring return to bypass.",
+    "options": {
+      "A": "If severe residual regurgitation or a structural repair defect is confirmed, returning to bypass allows immediate correction.",
+      "B": "Diuresis does not repair an incompetent valve and could worsen forward output if the patient is unstable.",
+      "C": "Afterload reduction may transiently reduce regurgitation but does not replace assessment and correction of a failed repair.",
+      "D": "An IABP may support haemodynamics but cannot correct a structural valve-repair failure.",
+      "E": "Adrenaline can increase contractility and myocardial oxygen demand without correcting the regurgitant lesion."
+    }
+  },
+  "110": {
+    "correctExplanation": "Using the intended oxygen contents of 0.24 and 0.16 mL O2 per mL blood, Fick cardiac output is 500 divided by 0.08, or 6250 mL/min = 6.25 L/min. The oxygen-content units printed in the stem are incorrect.",
+    "options": {
+      "A": "1.65 L/min does not follow from oxygen consumption divided by the arteriovenous oxygen-content difference.",
+      "B": "4.55 L/min is not the result of the stated Fick calculation.",
+      "C": "5.00 L/min would require a different oxygen-content difference or consumption.",
+      "D": "500 mL O2/min divided by 0.08 mL O2/mL blood gives 6250 mL blood/min, or 6.25 L/min.",
+      "E": "8.00 L/min is higher than the output calculated from the intended oxygen-content values."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Arterial and venous oxygen content are printed as mL O2/min rather than oxygen per volume of blood. The key is correct only after interpreting the intended concentration units."
+  },
+  "111": {
+    "correctExplanation": "Under the intended Fick oxygen-content units, cardiac output is 6.25 L/min. Stroke volume is 6250 mL/min divided by 70 beats/min = 89.3 mL/beat, nearest 90 mL.",
+    "options": {
+      "A": "75 mL at 70 beats/min would give 5.25 L/min, below the intended Fick output.",
+      "B": "80 mL at 70 beats/min would give 5.60 L/min, below the intended output.",
+      "C": "85 mL is less close to 89.3 mL than the offered 90 mL value.",
+      "D": "90 mL is the closest offered value to the calculated stroke volume of approximately 89.3 mL.",
+      "E": "95 mL at 70 beats/min would give 6.65 L/min, above the intended output."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The oxygen-content units inherited from the stem are malformed. This answer assumes 0.24 and 0.16 mL O2 per mL blood, not the printed mL O2/min."
+  },
+  "112": {
+    "correctExplanation": "Using the intended oxygen-content units, cardiac output is 6.25 L/min. Estimated mean pulmonary arterial pressure is (25 + 2 times 15)/3 = 18.3 mmHg, so PVR is (18.3 - 5)/6.25 = 2.13 Wood units, nearest 2.0.",
+    "options": {
+      "A": "1.5 Wood units is below the resistance calculated from the estimated mean pulmonary pressure and intended output.",
+      "B": "2.0 Wood units is the closest offered value to approximately 2.13 Wood units.",
+      "C": "2.5 Wood units overestimates resistance when the mean pulmonary arterial pressure is correctly estimated.",
+      "D": "3.0 Wood units is substantially above the calculated value.",
+      "E": "3.5 Wood units is substantially above the calculated value."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The Fick oxygen-content units in the stem are incorrect; the calculation requires interpreting them as mL O2 per mL blood. Mean pulmonary arterial pressure is also estimated from systolic and diastolic values rather than measured directly."
+  },
+  "113": {
+    "correctExplanation": "Residual volume remains in the lungs after maximal expiration and cannot be expelled into a simple spirometer. It requires a method such as gas dilution or body plethysmography.",
+    "options": {
+      "A": "Simple spirometry measures air moving in and out of the lungs, so it cannot directly measure the gas left after maximal expiration.",
+      "B": "Vital capacity excludes residual volume; total lung capacity equals vital capacity plus residual volume.",
+      "C": "Expiratory reserve volume is air that can still be exhaled after an ordinary expiration, whereas residual volume cannot be exhaled.",
+      "D": "The lungs normally recoil inward at physiological volumes; outward recoil mainly describes the chest wall at lower volumes.",
+      "E": "The resting end-expiratory volume is functional residual capacity, which comprises expiratory reserve volume plus residual volume."
+    }
+  },
+  "114": {
+    "correctExplanation": "At constant carbon dioxide production, arterial carbon dioxide pressure is inversely proportional to alveolar ventilation. Halving alveolar ventilation therefore approximately doubles PaCO2.",
+    "options": {
+      "A": "Alveolar CO2 pressure rises rather than falls when ventilation is halved at unchanged CO2 production.",
+      "B": "The alveolar gas equation predicts a fall in alveolar oxygen as carbon dioxide rises, assuming unchanged inspired oxygen.",
+      "C": "Arterial oxygen does not double; reduced ventilation generally lowers oxygen tension.",
+      "D": "The relation PaCO2 proportional to CO2 production divided by alveolar ventilation gives an approximate twofold rise.",
+      "E": "Arterial oxygen usually changes with hypoventilation, although the exact fall depends on inspired oxygen and gas exchange."
+    }
+  },
+  "115": {
+    "correctExplanation": "A PaO2 of only 125 mmHg while breathing 100% oxygen strongly suggests a substantial shunt component, because poorly oxygenated blood bypasses ventilated alveoli. It does not by itself prove a fixed anatomical intracardiac shunt.",
+    "options": {
+      "A": "A right-to-left shunt is poorly corrected by increasing inspired oxygen; after cardiac surgery this may be intrapulmonary shunt through collapsed or flooded lung as well as an anatomical shunt.",
+      "B": "Increasing inspired oxygen usually markedly improves oxygen transfer in a diffusion limitation, making this an inadequate sole explanation.",
+      "C": "Isolated hypoventilation usually responds strongly to 100% oxygen; PaCO2 is needed to assess its severity.",
+      "D": "Normal lungs exposed to 100% oxygen would ordinarily generate a much higher PaO2.",
+      "E": "Low ventilation-perfusion regions generally improve with high inspired oxygen; true shunt is the component least responsive to it."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The oxygen response indicates shunt physiology but does not identify an anatomical shunt. The keyed wording is narrower than the evidence permits and requires clinical clarification."
+  },
+  "116": {
+    "correctExplanation": "Acute severe aortic regurgitation occurs before the ventricle can dilate and adapt. High LV diastolic pressure and low effective forward output can produce shock without the classic wide pulse pressure of chronic regurgitation.",
+    "options": {
+      "A": "A hypertrophied, less compliant ventricle can develop a marked pressure rise with sudden regurgitant volume, so it does not reliably tolerate acute severe AR.",
+      "B": "Cardiomegaly may be absent because there has been no time for chronic ventricular enlargement.",
+      "C": "Compensatory tachycardia and increased filling pressure are important, but effective forward stroke volume is often reduced rather than successfully increased.",
+      "D": "Rapid pressure equalisation and low forward output mean the usual chronic-AR wide pulse pressure may be absent.",
+      "E": "Premature mitral closure from high LV diastolic pressure may soften the first sound rather than characteristically increase it."
+    }
+  },
+  "117": {
+    "correctExplanation": "The original key reflects an older guideline recommending a mechanical aortic prosthesis when a mechanical mitral or tricuspid valve already requires lifelong anticoagulation. Current prosthesis selection is individualised and historical recommendation classes should not be presented as timeless rules.",
+    "options": {
+      "A": "This historical age-based bioprosthesis statement was phrased as reasonable, rather than the Class I recommendation being tested.",
+      "B": "A bioprosthesis may avoid anticoagulation-related pregnancy concerns, but this was not the historical Class I statement in these options.",
+      "C": "A homograft can be useful in selected destructive prosthetic infections, but is not a universal mandatory replacement choice.",
+      "D": "An existing mechanical valve already commits the patient to vitamin K antagonist anticoagulation, supporting the source-era choice of another mechanical prosthesis.",
+      "E": "The under-65 threshold is from older guidance and was phrased as reasonable; current decisions weigh age, durability, anticoagulation and informed preference."
+    },
+    "reviewRequired": true,
+    "reviewNote": "This is a historical guideline-class question with outdated fixed age thresholds. Verify the intended guideline edition before grading or using it for current prosthesis selection."
+  },
+  "118": {
+    "correctExplanation": "An indexed aortic valve area below about 0.6 cm2/m2 supports severe aortic stenosis, interpreted alongside flow, gradients and ventricular function.",
+    "options": {
+      "A": "A jet velocity of 3.5 m/s generally lies in the moderate range rather than the usual high-gradient severe range of at least 4 m/s.",
+      "B": "A mean gradient of 35 mmHg is below the usual high-gradient severe threshold of 40 mmHg, although low-flow severe stenosis requires further assessment.",
+      "C": "An indexed valve area below 0.6 cm2/m2 is a recognised severe-stenosis criterion.",
+      "D": "An indexed area below 1.6 cm2/m2 is too broad and includes substantially less severe disease.",
+      "E": "An absolute valve area of 1.2 cm2 generally indicates moderate stenosis rather than the usual severe threshold of 1.0 cm2 or less."
+    }
+  },
+  "119": {
+    "correctExplanation": "Cyclosporine has a narrow therapeutic window: insufficient exposure risks rejection and excessive exposure increases toxicity. Drug concentrations and organ function therefore require monitoring.",
+    "options": {
+      "A": "Cyclosporine is a cyclic peptide containing 11 amino acids, not 15.",
+      "B": "Its principal effect is inhibition of calcineurin-dependent T-cell activation and interleukin-2 transcription, not selective attenuation of suppressor T cells.",
+      "C": "It suppresses T-cell-mediated immunity relatively selectively rather than indiscriminately suppressing all immune components.",
+      "D": "The small margin between effective and toxic exposure explains its low therapeutic index and need for therapeutic monitoring.",
+      "E": "Cyclosporine itself can cause nephrotoxicity; preventing drug-induced renal injury is not the mechanism by which it improved transplantation."
+    }
+  },
+  "120": {
+    "correctExplanation": "In the five-year SYNTAX left-main subgroup, overall MACCE did not differ significantly between PCI and CABG. This should not be confused with the overall SYNTAX population, in which MACCE favoured CABG.",
+    "options": {
+      "A": "In the left-main low-score subgroup, MACCE was not significantly higher with CABG.",
+      "B": "Left-main patients with intermediate scores did not show the significant PCI excess asserted here; high-score patients did.",
+      "C": "High anatomical complexity in left-main disease was associated with higher MACCE after PCI, rather than similar outcomes.",
+      "D": "In high-score left-main disease the excess was in the PCI arm, not the CABG arm.",
+      "E": "This describes the overall left-main subgroup comparison, while preserving the important adverse PCI result in the high-score subgroup."
+    }
+  },
+  "121": {
+    "correctExplanation": "The interstage period between Norwood palliation and the bidirectional cavopulmonary connection is a particularly vulnerable time. The keyed statement describes the concentration of post-discharge deaths before stage two, but other options contain era-dependent outcome or risk claims.",
+    "options": {
+      "A": "Hospital mortality varies with era, anatomy and centre experience; rates near 5% can occur in selected contemporary programmes and cannot be universally ruled out.",
+      "B": "Before stage two, the parallel circulation, shunt dependence and limited physiological reserve expose infants to substantial interstage risk.",
+      "C": "A very small ascending aorta and associated anatomical subtypes have been linked to risk in some series, so this cannot be rejected as a universal false statement.",
+      "D": "One-year survival in contemporary staged palliation is substantially better than the asserted below-30% figure.",
+      "E": "Important postoperative obstruction may involve the reconstructed arch or systemic outflow; a pulmonary-valve gradient is not the usual defining postoperative problem."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The stem does not specify an era or cohort; hospital mortality and small-ascending-aorta risk vary, making more than one statement potentially defensible. Retain the source key but review before exclusive grading."
+  },
+  "122": {
+    "correctExplanation": "The source key identifies subclavian-flap repair as a technique for younger children. Its modern use is particularly associated with infants, and an under-ten age cutoff alone is not a universal rule for choosing repair.",
+    "options": {
+      "A": "A residual gradient can reflect arch hypoplasia, but also anastomotic narrowing, residual coarctation or other obstruction; it is not necessarily due to one cause.",
+      "B": "Declamping syndrome concerns haemodynamic and metabolic effects of reperfusion, not hypoxia caused by ductal ligation.",
+      "C": "A subclavian flap can enlarge a narrowed aortic segment without a circumferential prosthetic graft, but technique selection depends on anatomy and age rather than a fixed ten-year threshold.",
+      "D": "Intercostal collateral vessels help spinal cord perfusion and should not all be routinely ligated and divided.",
+      "E": "Distal arch hypoplasia may require an extended arch reconstruction; a modified Norwood operation is not the default repair for isolated coarctation."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The keyed under-ten cutoff is an imprecise historical generalisation; contemporary descriptions particularly favour infancy and individual anatomy. Verify the intended source-era technique statement."
+  },
+  "123": {
+    "correctExplanation": "Most coronary artery fistulas drain into right-sided chambers or low-pressure pulmonary circulation, producing runoff from the coronary arterial system.",
+    "options": {
+      "A": "The right heart and pulmonary arterial circulation are the common drainage destinations, supporting the keyed statement.",
+      "B": "The right coronary artery is a frequent origin, far more often than the less-than-10% assertion.",
+      "C": "The artery may be dilated and tortuous, but an independently anomalous origin is not usually required.",
+      "D": "Drainage into a left-sided chamber produces arterial runoff within the systemic side rather than a conventional left-to-right shunt.",
+      "E": "Many coronary fistulas are isolated abnormalities; complex associated congenital anomalies are not present in most cases."
+    }
+  },
+  "124": {
+    "correctExplanation": "In ALCAPA, collateral blood can escape from the left coronary system into the low-pressure pulmonary artery. Closing that anomalous connection reduces coronary steal, although restoring a two-coronary circulation is the preferred definitive principle.",
+    "options": {
+      "A": "Functional mitral regurgitation often improves after revascularisation, but structural valve damage or persistent ventricular dysfunction means improvement is not nearly universal.",
+      "B": "Left ventricular function frequently recovers substantially after successful restoration of coronary perfusion.",
+      "C": "Patients may remain asymptomatic despite late Takeuchi baffle obstruction or other complications, so imaging follow-up is still needed.",
+      "D": "Ligation of the pulmonary origin can prevent retrograde runoff and improve effective myocardial perfusion when adequate collateral supply exists; ligation alone is a historical strategy with limitations.",
+      "E": "Contemporary two-coronary repairs do not inherently carry mortality above 25%; outcomes depend on presentation and ventricular injury."
+    }
+  },
+  "125": {
+    "correctExplanation": "Impaired left ventricular function is an established predictor of late mortality after CABG. The broad wording recognised risk factor does not make other markers of coronary disease or recent infarction universally irrelevant.",
+    "options": {
+      "A": "A recent infarction can influence operative and long-term risk; it should not be described as harmless simply because it is non-Q-wave.",
+      "B": "Bilateral internal mammary grafting can improve durability in selected patients, although it increases some wound risks; it is not generally a marker of worse late survival.",
+      "C": "Unstable angina indicates active ischaemia and can affect risk, but chronic ventricular dysfunction is the clearest prognostic factor offered.",
+      "D": "The extent of coronary disease can also affect long-term prognosis, depending on revascularisation completeness and other factors.",
+      "E": "Reduced ventricular function reflects myocardial damage and limited cardiac reserve, making it a strong long-term mortality predictor."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The intended best answer is impaired ventricular function, but the wording asks only for a recognised risk factor. Recent infarction and extent of coronary disease can also be prognostic, so exclusive true/false grading needs review."
+  },
+  "126": {
+    "correctExplanation": "More marked ischaemia on graded exercise testing is associated with worse prognosis in coronary artery disease. The numerical survival distractors are historical untreated-disease claims and are not contemporary personalised survival estimates.",
+    "options": {
+      "A": "Greater than 95% five-year survival is not a generally valid figure for historical medically treated two-vessel disease.",
+      "B": "Greater than 75% ten-year survival is too optimistic as a blanket historical claim for three-vessel disease.",
+      "C": "Historical untreated significant left-main disease had much worse prognosis than an 80% five-year survival claim suggests.",
+      "D": "LAD disease often threatens a larger myocardial territory, so isolated LAD disease is not generally more favourable than isolated right coronary disease.",
+      "E": "Greater exercise-induced ischaemia, especially at low workload, reflects higher-risk disease and correlates with poorer survival."
+    }
+  },
+  "127": {
+    "correctExplanation": "Low cardiac output and acute ventricular failure are major causes of early death after combined aortic and mitral valve surgery. Risk depends on pre-existing myocardial injury and the physiological burden of the operation.",
+    "options": {
+      "A": "Nonrheumatic versus rheumatic aetiology alone does not guarantee better survival; age, ventricular function and comorbidity materially affect the comparison.",
+      "B": "Adding CABG may treat important coronary disease but usually adds operative complexity and does not inherently lower operative mortality.",
+      "C": "Acute heart failure or low-output syndrome is a principal early fatal mechanism after double-valve replacement.",
+      "D": "Significant tricuspid regurgitation can coexist or develop later, but high early prevalence is not the defining outcome statement here.",
+      "E": "Mechanical prostheses do not inherently confer lower long-term survival than bioprostheses; age and patient selection strongly influence comparisons."
+    }
+  },
+  "128": {
+    "correctExplanation": "Residual or recurrent shunting can occur because sutures or patches are anchored near friable infarcted myocardium. The source-era figure of up to 40% represents selected series, not a guaranteed current incidence.",
+    "options": {
+      "A": "Operative mortality for post-infarction septal rupture is substantially higher than 10-15% in many series, especially with shock and emergency repair.",
+      "B": "Infarct-exclusion repairs can avoid extensive removal of necrotic septum; mandatory radical resection is not a general requirement.",
+      "C": "A patch or other reconstruction is commonly needed to distribute tension across viable tissue; direct suturing is not universally best even for apical defects.",
+      "D": "Residual defects may be common after repair in friable tissue, and high rates have been reported in historical series.",
+      "E": "Persistent low cardiac output and ventricular failure are major causes of postoperative death; haemorrhage is not the usual dominant mechanism."
+    }
+  },
+  "129": {
+    "correctExplanation": "Historically, truly asymptomatic severe aortic stenosis with preserved ventricular function had a low annual sudden-death risk, commonly quoted below 1%. Modern risk assessment also considers stenosis severity, exercise findings and ventricular changes.",
+    "options": {
+      "A": "Survival after symptoms depends on the symptom: classic estimates differ for angina, syncope and heart failure, so five years is not a universal symptomatic average.",
+      "B": "The below-1%-per-year figure is the conventional historical estimate for carefully followed asymptomatic patients, rather than symptomatic severe stenosis.",
+      "C": "LV mass alone does not define severe systolic dysfunction; ejection fraction and other functional measures must be assessed.",
+      "D": "Heart failure can result directly from pressure overload and myocardial dysfunction caused by stenosis, even without coronary disease.",
+      "E": "Chronic aortic regurgitation is a volume-overload lesion with a different compensatory course from the pressure overload of aortic stenosis."
+    }
+  },
+  "130": {
+    "correctExplanation": "Staphylococcus aureus endocarditis is associated with destructive infection, embolisation and a high risk of neurological complications.",
+    "options": {
+      "A": "An infectious intracranial aneurysm requires specialist assessment and sometimes treatment before cardiac surgery, but it is not an absolute contraindication in every case.",
+      "B": "Ischaemic embolic stroke is more common than brain abscess as a neurological complication of endocarditis.",
+      "C": "Staphylococcus aureus is particularly associated with embolic and other neurological complications.",
+      "D": "Neurological complications worsen prognosis, but a fixed 50% mortality increase is not a universal quantitative rule.",
+      "E": "Larger and mobile vegetations generally carry greater embolic risk, so vegetation size does matter."
+    }
+  },
+  "131": {
+    "correctExplanation": "Dyskinetic aneurysmal myocardium expands paradoxically during systole, wastes ventricular work and can worsen effective cardiac output and prognosis.",
+    "options": {
+      "A": "Left ventricular aneurysms result from infarcted, weakened myocardium; extensive collateral formation is not a prerequisite.",
+      "B": "An aneurysm may remodel or enlarge, but indefinite continuous expansion is not an inevitable natural history.",
+      "C": "Extensive LV disease can impair RV performance through pulmonary hypertension, shared septal function and ventricular interaction.",
+      "D": "Paradoxical systolic expansion increases ineffective work and is associated with adverse ventricular function and outcomes.",
+      "E": "Aneurysm extent and the function of the remaining ventricle affect haemodynamics and survival."
+    }
+  },
+  "132": {
+    "correctExplanation": "Cystic fibrosis classically causes bilateral bronchiectasis with upper-lobe predominance on CT. In adults, chronic Pseudomonas infection is particularly important.",
+    "options": {
+      "A": "Localised bronchiectasis is often acquired from obstruction or previous infection rather than most commonly being congenital.",
+      "B": "Staphylococcus aureus is important, particularly in younger CF patients, but Pseudomonas aeruginosa is a major and often dominant pathogen in adults.",
+      "C": "Upper-lobe-predominant bronchiectasis is a characteristic CT distribution suggesting cystic fibrosis in the appropriate setting.",
+      "D": "Bilateral transplantation is generally preferred because a retained infected native lung could infect the graft.",
+      "E": "Bronchial artery embolisation is commonly used to control major haemoptysis; immediate surgery is not the default first treatment."
+    }
+  },
+  "133": {
+    "correctExplanation": "Desmoid-type fibromatosis does not metastasise but can grow infiltratively into adjacent chest-wall and mediastinal structures.",
+    "options": {
+      "A": "Locally infiltrative growth can extend into the mediastinum despite the tumour having no metastatic potential.",
+      "B": "Vessels may be surrounded or displaced, but destructive vascular invasion with occlusion is not a usual defining feature.",
+      "C": "Neural structures can be involved by local growth, but brachial plexus erosion is not the characteristic general statement identifying desmoid behaviour.",
+      "D": "Desmoid tumours occur across ages and are not usually first diagnosed in infancy.",
+      "E": "Simple enucleation is inadequate for infiltrative disease; management may involve observation, systemic therapy or selected local treatment rather than this routine combination."
+    }
+  },
+  "134": {
+    "correctExplanation": "Isolated oesophageal atresia commonly has a long gap. Delayed primary anastomosis is often favoured to preserve the native oesophagus, with replacement reserved for cases in which reconstruction is not feasible.",
+    "options": {
+      "A": "A long-gap isolated atresia may require delayed anastomosis, and selected unreconstructable cases need oesophageal replacement.",
+      "B": "With a normal left aortic arch, the conventional thoracic approach is usually from the right to avoid the arch.",
+      "C": "Many H-type fistulas are reached through a cervical approach; the route depends on fistula level rather than automatically using the left chest.",
+      "D": "Delay can be appropriate in a premature or low-weight infant when clinical condition or gap length precludes immediate anastomosis.",
+      "E": "Proximal-distal size discrepancy is managed during reconstruction; bougienage of disconnected segments does not solve congenital atresia."
+    }
+  },
+  "135": {
+    "correctExplanation": "The source key cites an approximate historical 55% ten-year survival for resected stage III disease. Survival varies by histology, completeness of resection and cohort, and the statement about many patients being asymptomatic is also clinically plausible.",
+    "options": {
+      "A": "Thymoma does not have a consistent strong female predominance; both sexes are affected.",
+      "B": "An encapsulated tumour by definition has not invaded surrounding structures; superior vena cava invasion indicates invasive disease.",
+      "C": "Many thymic epithelial tumours are asymptomatic at diagnosis. A figure around 60% can be plausible in some cohorts, so this cannot safely be categorised as universally false.",
+      "D": "Myasthenia-associated thymoma often presents younger than non-myasthenic disease; a fixed 60-70-year peak is not a general rule.",
+      "E": "Around 55% ten-year survival for stage III thymoma is a historical cohort estimate, not an individual prognosis or a universal contemporary result."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The keyed survival percentage is cohort dependent and option C is potentially true in many series. Clarify the original population before treating E as the only correct statement."
+  },
+  "136": {
+    "correctExplanation": "The keyed historical evidence found no demonstrated improvement in recurrence or survival from adding intraoperative brachytherapy after complete Pancoast-tumour resection. That does not establish ineffectiveness for every selected margin-positive scenario.",
+    "options": {
+      "A": "The posterior approach offers limited access to some anterior thoracic-inlet and vascular structures, so it cannot guarantee complete safe access to every structure.",
+      "B": "An anterior approach can improve exposure of the subclavian vessels and anterior inlet; universally higher morbidity and mortality is not established.",
+      "C": "Selected vertebral involvement can be resected in specialised multidisciplinary programmes and is not an automatic absolute contraindication.",
+      "D": "Trimodality therapy improves local control, but a universal single-digit recurrence rate is not supported across patients and series.",
+      "E": "Historical series did not demonstrate a clear recurrence or survival benefit from routine intraoperative brachytherapy after complete resection."
+    }
+  },
+  "137": {
+    "correctExplanation": "Macroscopic extension into surrounding fatty tissue corresponds to Masaoka-Koga stage IIB, provided there is no invasion of neighbouring organs.",
+    "options": {
+      "A": "Stage I is fully encapsulated disease without extracapsular invasion.",
+      "B": "Stage IIA describes microscopic transcapsular invasion rather than the stated macroscopic invasion into fat.",
+      "C": "Stage IIB includes macroscopic extension into surrounding thymic or mediastinal fatty tissue.",
+      "D": "Stage III requires invasion of neighbouring organs such as lung, pericardium or great vessels rather than fat alone.",
+      "E": "Stage IVA denotes pleural or pericardial dissemination, which is not described."
+    }
+  },
+  "138": {
+    "correctExplanation": "The supplied key is undifferentiated thyroid carcinoma, but the referenced CT images are missing. The written description alone cannot establish thyroid origin or reliably distinguish the listed masses.",
+    "options": {
+      "A": "Anaplastic or undifferentiated thyroid carcinoma may form an infiltrative mass extending from the neck into the mediastinum, but continuity with the thyroid must be demonstrated.",
+      "B": "An ectopic parathyroid lesion can occur in the anterior mediastinum; enhancement pattern, location and biochemical findings would help distinguish it.",
+      "C": "Lymphangiomas are usually cystic or multiloculated lesions; the absent images are needed to assess whether that pattern is present.",
+      "D": "A liposarcoma may be heterogeneous and infiltrative, often with visible fat components; those imaging features cannot be assessed here.",
+      "E": "A lipoma is usually a well-defined homogeneous fat-density mass rather than an ill-defined enhancing mass, but the actual CT is unavailable."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The diagnostic CT image is absent. Retain key A as supplied, but do not assert the diagnosis or grade alternatives from the text alone."
+  },
+  "139": {
+    "correctExplanation": "A pericardial cyst is a plausible explanation for a well-defined fluid-density lesion, particularly at a cardiophrenic angle. The required image and precise location are absent, so the original key cannot be independently confirmed.",
+    "options": {
+      "A": "A bronchogenic cyst can also appear as a well-defined fluid-attenuation lesion; its relationship to the airway and mediastinal compartment is needed.",
+      "B": "Thymoma is usually a solid anterior mediastinal mass, although cystic change can occur and requires imaging assessment.",
+      "C": "Lymphoma typically produces soft-tissue masses or lymphadenopathy rather than a simple fluid-density cyst.",
+      "D": "A foregut duplication cyst can have fluid attenuation and may lie beside the oesophagus; location is needed to distinguish it from other cysts.",
+      "E": "A thin-walled nonenhancing cyst adjacent to the pericardium, often at a cardiophrenic angle, would support this option if shown."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The referenced CT image and decisive lesion location are missing. Several listed cysts can share the written fluid-attenuation description."
+  },
+  "140": {
+    "correctExplanation": "If these nodules represent the same lung cancer, a separate tumour nodule in a different lobe of the same lung is classified T4. Separate primary cancers would instead require individual staging.",
+    "options": {
+      "A": "T2 does not account for an additional tumour nodule in another ipsilateral lobe.",
+      "B": "A separate nodule in the same lobe is T3; the stem describes right upper and right lower lobes.",
+      "C": "An additional malignant nodule in a different ipsilateral lobe is T4 when attributed to the same primary cancer.",
+      "D": "M1a includes a tumour nodule in the contralateral lung or pleural/pericardial metastatic disease, not a different lobe on the same side.",
+      "E": "M1b denotes extrathoracic metastatic disease rather than the stated two ipsilateral pulmonary nodules."
+    }
+  },
+  "141": {
+    "correctExplanation": "Children have a relatively higher proportion of pulmonary compared with hepatic cystic echinococcosis than adults. The liver can still remain the commonest site overall.",
+    "options": {
+      "A": "The lung-to-liver involvement ratio is relatively higher in children, consistent with the known paediatric distribution.",
+      "B": "Infection can remain asymptomatic for a prolonged period; diagnosed symptomatic surgical cohorts do not represent all infected people.",
+      "C": "Rupture can cause severe symptoms, but intact enlarging cysts can also cause cough, pain or compression, so rupture is not required.",
+      "D": "Pulmonary cysts often require specialist surgical management, with benzimidazoles used according to the cyst and clinical situation rather than as a universal sole mainstay.",
+      "E": "The Casoni skin test is obsolete and insufficiently reliable; diagnosis relies principally on imaging with appropriate supportive testing."
+    }
+  },
+  "142": {
+    "correctExplanation": "MADIT-II found a survival benefit from prophylactic ICD implantation after myocardial infarction in patients with LVEF of 30% or less, with broadly consistent benefit across the prespecified clinical subgroups listed.",
+    "options": {
+      "A": "Invasive electrophysiological testing was not required for trial entry or risk stratification.",
+      "B": "Randomisation used a 3:2 ICD-to-conventional-therapy ratio, not 1:1.",
+      "C": "The original trial reported broadly similar survival benefit across subgroups defined by age, sex, ejection fraction, functional class and QRS interval.",
+      "D": "ICD therapy reduced all-cause mortality, which was the primary endpoint.",
+      "E": "The trial threshold was LVEF 30% or less, not 30% or greater."
+    }
+  },
+  "143": {
+    "correctExplanation": "Penetrating thoracic traumatic arrest with recently witnessed signs of life is the strongest listed indication for resuscitative thoracotomy. Actual eligibility also depends on arrest duration, mechanism, resources and signs of life.",
+    "options": {
+      "A": "Aortic injury may require urgent intervention, but the diagnosis alone does not automatically indicate emergency-department resuscitative thoracotomy.",
+      "B": "Blunt arrest without signs of life has extremely poor outcomes and generally does not meet standard indications for this intervention.",
+      "C": "A chest-drain output of 500 mL or less is not by itself an absolute indication; rate, physiology and ongoing bleeding matter.",
+      "D": "Hypotension that responds to resuscitation permits further assessment and controlled operative planning rather than automatically requiring resuscitative thoracotomy.",
+      "E": "Witnessed recent signs of life after penetrating thoracic injury identify a group in whom immediate thoracotomy can address tamponade or controllable intrathoracic bleeding."
+    }
+  },
+  "144": {
+    "correctExplanation": "Twenty-four-hour pH monitoring confirms pathological acid exposure, explaining the historical key. Combined impedance-pH also detects weakly acidic and non-acid reflux and is often preferred for recurrent or postoperative symptoms, so calling pH alone most accurate is not unambiguous.",
+    "options": {
+      "A": "pH monitoring objectively quantifies oesophageal acid exposure but does not detect all non-acid reflux episodes.",
+      "B": "Manometry evaluates oesophageal motility and sphincter pressure; it does not directly establish pathological reflux exposure.",
+      "C": "Endoscopy can show oesophagitis or a failed repair, but a normal examination does not exclude recurrent reflux.",
+      "D": "Impedance-pH detects liquid and gas reflux independent of acidity and can improve assessment of persistent or recurrent symptoms, making this a strong competing answer.",
+      "E": "Radiological studies assess anatomy and mechanical failure, but observed reflux during a short study is not the most reliable physiological confirmation."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The keyed pH-only answer is historical and competes with impedance-pH, particularly after antireflux surgery or on acid suppression. The stem omits the treatment and testing context needed to select a uniquely most accurate test."
+  },
+  "145": {
+    "correctExplanation": "The high pleural-fluid triglyceride concentration after oesophagectomy indicates chylothorax. Initial management commonly includes drainage and nutritional measures to reduce thoracic-duct flow while output and clinical stability guide escalation.",
+    "options": {
+      "A": "Drainage relieves the effusion, and parenteral nutrition can reduce enteric fat delivery to the lymphatic system; enteral low-fat strategies are alternatives in selected patients.",
+      "B": "Thoracic-duct ligation may be needed for persistent or high-output leakage, but immediate laparotomy and duct resection is not the standard initial approach described.",
+      "C": "Mediastinal irradiation is not appropriate initial treatment for an acute postoperative chyle leak.",
+      "D": "Etilefrine and pleurocaval shunting are specialised or salvage approaches, not routine first-line treatment.",
+      "E": "Thoracic-duct embolisation is a valuable intervention in selected or persistent leaks, but initial drainage and nutritional assessment remain necessary."
+    }
+  },
+  "146": {
+    "correctExplanation": "Recurrent hiatal herniation, often with migration of the wrap into the chest, is a common leading anatomical cause of failed laparoscopic fundoplication. Failure patterns vary between series.",
+    "options": {
+      "A": "Adhesive obstruction can follow abdominal surgery but is not the principal recognised mechanism of antireflux wrap failure.",
+      "B": "Gastric volvulus is a possible but uncommon complication rather than the commonest failure pattern.",
+      "C": "Recurrent hiatal herniation allows migration of the wrap or gastro-oesophageal junction and is a leading mechanism in many laparoscopic series.",
+      "D": "A slipped wrap is another important mechanism, but it is distinct from and generally not more frequent than recurrent herniation in the cited teaching pattern.",
+      "E": "A tight fundoplication chiefly causes dysphagia or obstruction and is not the usual commonest anatomical failure."
+    }
+  },
+  "147": {
+    "correctExplanation": "Recurrent haemoptysis from localised bronchiectasis can justify elective resection when adequate respiratory reserve is confirmed. The stated FEV1 alone does not replace calculation of predicted postoperative function and full assessment.",
+    "options": {
+      "A": "Bronchial artery embolisation is useful for active significant bleeding or when surgery is unsuitable, but it may not provide definitive treatment of a repeatedly bleeding localised diseased lobe.",
+      "B": "Observation alone does not address the risk of further bleeding after several documented episodes from a localised structural lesion.",
+      "C": "Resection can definitively remove the localised source in a suitable patient after stabilisation and assessment of operative fitness.",
+      "D": "Antifungal treatment requires evidence of fungal disease, which is not supplied in this bronchiectasis case.",
+      "E": "Antibiotics treat infectious exacerbations but may not prevent recurrent bleeding from established localised bronchiectasis."
+    }
+  },
+  "148": {
+    "correctExplanation": "A symptomatic aspergilloma causing recurrent or increasing haemoptysis may be treated definitively by resection when localised and when physiological reserve permits. Immunocompromise also requires assessment for invasive fungal disease and appropriate antifungal management.",
+    "options": {
+      "A": "Cavernostomy is generally a selected alternative for patients who cannot tolerate anatomical resection, rather than the preferred option with adequate reserve.",
+      "B": "Antifungal drugs alone often fail to eliminate a simple fungus ball or its bleeding risk; invasive infection would separately require systemic treatment.",
+      "C": "Left upper lobectomy removes the localised cavity and fungus ball and can definitively address the recurrent bleeding in an operable patient.",
+      "D": "Contact with the chest wall does not prove chest-wall invasion and does not by itself justify an en-bloc chest-wall resection.",
+      "E": "Percutaneous drainage does not reliably eradicate a fungus ball and can create a persistent fistula or other complications."
+    }
+  },
+  "149": {
+    "correctExplanation": "A falling post-pneumonectomy fluid level with fever and copious sputum suggests bronchopleural fistula with an infected pleural space. Prompt controlled drainage protects the remaining lung and addresses the contaminated collection.",
+    "options": {
+      "A": "Bronchoscopy helps identify and assess the fistula, but should not delay urgent drainage of a contaminated post-pneumonectomy space.",
+      "B": "Chest drainage provides immediate source control and helps prevent infected fluid spilling through the fistula into the remaining lung.",
+      "C": "Intubation is reserved for a clinical respiratory indication; positive-pressure ventilation can worsen a bronchopleural leak and is not the default first step.",
+      "D": "Fluid sampling is useful diagnostically, but aspiration alone is inadequate ongoing drainage for suspected fistula-associated infection.",
+      "E": "Antibiotics and cultures are important adjuncts but do not replace drainage of the infected pleural space."
+    }
+  },
+  "150": {
+    "correctExplanation": "The original key is excision, but the CT image and even the lesion diagnosis are absent. No specific treatment can be confirmed from progressive breathlessness alone.",
+    "options": {
+      "A": "This describes supportive treatment for some obstructive airway disorders, but the stem does not establish such a diagnosis.",
+      "B": "Bronchoscopic drainage requires an appropriate airway-accessible lesion; that anatomy cannot be inferred without the CT.",
+      "C": "Pulmonary rehabilitation can improve function in selected chronic lung disease but would not necessarily treat an unspecified focal lesion.",
+      "D": "Excision may be appropriate for a symptomatic resectable lesion, but the missing CT is essential to determine whether this is indicated.",
+      "E": "A chest tube is appropriate for selected pleural air or fluid problems, not as a generic treatment for an unidentified CT abnormality."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The diagnostic CT and pathology are missing. Preserve key D, but do not grade or recommend a lesion-specific treatment without the image or an adequate textual description."
+  }
+}

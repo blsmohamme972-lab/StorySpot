@@ -1,0 +1,50 @@
+[
+  {
+    "name": "folder",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 104262,
+    "sha256": "3f255e0664ec2ab2bcb94736d05f6fc260e551e3f3768fc141c63209b3ab50d0",
+    "finalHost": "drive.google.com",
+    "redirects": [
+      {
+        "status": 307,
+        "host": "drive.google.com"
+      }
+    ],
+    "parsedFiles": 22,
+    "parser": "Safe _DRIVE_ivd JSON decode; no script evaluation"
+  },
+  {
+    "name": "image",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 2880160,
+    "sha256": "3bc6aa04f894fd09a30adcb44ab81d3063405244df2cfe9e7170af1334cd872b",
+    "finalHost": "drive.usercontent.google.com",
+    "redirects": [
+      {
+        "status": 303,
+        "host": "drive.usercontent.google.com"
+      }
+    ],
+    "pngMagic": "89504e470d0a1a0a",
+    "expectedHash": "3bc6aa04f894fd09a30adcb44ab81d3063405244df2cfe9e7170af1334cd872b"
+  },
+  {
+    "name": "text",
+    "status": 200,
+    "contentType": "application/octet-stream",
+    "bytes": 793,
+    "sha256": "d9e5c5789b85bec5234614bdc8e60dc56a6cfdc78fee21fd45cfc538611f2d03",
+    "finalHost": "drive.usercontent.google.com",
+    "redirects": [
+      {
+        "status": 303,
+        "host": "drive.usercontent.google.com"
+      }
+    ],
+    "isArabic": true,
+    "isHtml": false
+  }
+]

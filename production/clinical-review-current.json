@@ -1,0 +1,52 @@
+{
+  "1": {
+    "reviewRequired": true,
+    "reviewNote": "No valid unambiguous option is established by the supplied source. The original key is withheld; do not choose a replacement letter.",
+    "notes": "Typical rib heads articulate with vertebral bodies rather than a vertebral spine; tubercles articulate with transverse processes; the neck is between head and tubercle; ribs 11–12 have no anterior sternal articulation; the costal groove is on the inferior internal aspect. Anatomical variation also makes repeated “each rib” wording unsafe."
+  },
+  "5": {
+    "reviewRequired": false,
+    "reviewNote": "",
+    "notes": "E is a sound keyed distinction: extralobar sequestration has a separate visceral pleural covering. Do not generalize systemic venous drainage from extralobar sequestration to all sequestrations; intralobar sequestration predominates and usually drains to pulmonary veins. The arterial supply is anomalous systemic, commonly from the descending aorta."
+  },
+  "7": {
+    "reviewRequired": true,
+    "reviewNote": "C is the supplied key, but “Allen test” is ambiguous: a thoracic-outlet Allen maneuver is described in addition to the standard hand-circulation Allen test. E should not be categorically narrated as false without defining the maneuver.",
+    "notes": "The usual main TOS categories are neurogenic, venous, and arterial; classifications subdividing neurogenic TOS may count four forms. Neurogenic disease predominates, and Paget–Schroetter syndrome is effort thrombosis associated with venous TOS rather than the inevitable progression of all TOS. Keep the source key unchanged, but present this as an item requiring review. Retrieved PMC11352045 describes the thoracic-outlet Allen maneuver as 90-degree shoulder abduction, external rotation, elbow flexion, and contralateral head rotation with pulse monitoring. PMC9918333 lists Allen alongside Adson, Wright, and Roos tests in TOS clinical examination. References inspected: https://pmc.ncbi.nlm.nih.gov/articles/PMC11352045/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC9918333/."
+  },
+  "9": {
+    "reviewRequired": false,
+    "reviewNote": "",
+    "notes": "B is consistent with the historical teaching estimate of about 60% in the distal third. Leiomyomas are well-circumscribed smooth-muscle tumors and many are asymptomatic; mucosal ulceration is uncommon. Diffuse esophageal leiomyomatosis is associated with Alport syndrome rather than Kartagener syndrome. Treat the percentage as an approximate series-based figure."
+  },
+  "10": {
+    "reviewRequired": false,
+    "reviewNote": "",
+    "notes": "B states the generic forest-plot convention: square area represents the weight assigned to a study; horizontal position represents its point estimate, and the diamond represents the pooled effect and interval. This conceptual rule can be answered without the absent illustrative plot, unlike an item asking which specific depicted curve or point is correct."
+  },
+  "11": {
+    "reviewRequired": true,
+    "reviewNote": "The source withholds a replacement key because the MARS comparison in C is misstated. Do not silently substitute another answer. Option E also has a different status in the current treatment era.",
+    "notes": "Original MARS compared extrapleural pneumonectomy with no extrapleural pneumonectomy, not pleurectomy/decortication versus EPP. Contemporary immunotherapy has demonstrated survival benefit: the retrieved NCI PDQ lists nivolumab plus ipilimumab and summarizes CheckMate743. A rationale must not call immunotherapy ineffective simply to defend a historical key. Reference inspected: https://www.cancer.gov/types/mesothelioma/hp/mesothelioma-treatment-pdq"
+  },
+  "12": {
+    "reviewRequired": false,
+    "reviewNote": "",
+    "notes": "E is a standard demographic statement: solitary fibrous tumors commonly present in the sixth to seventh decades. They are mesenchymal rather than mesothelial, most are not malignant, and there is no consistent large sex predominance. Recurrence risk depends on malignant potential, size, margins, and other risk factors rather than implying all benign resected tumors tend to recur."
+  },
+  "13": {
+    "reviewRequired": false,
+    "reviewNote": "",
+    "notes": "D is the intended best option as a highly sensitive noninvasive screening test for right-to-left shunting; explain that CT confirms and maps the PAVM anatomy for treatment planning. Do not say contrast echocardiography alone identifies feeding arteries. PAVMs cause right-to-left shunting, HHT is autosomal dominant, and transcatheter embolization is first-line for most suitable lesions. Surgery is selective. Retrieved references: https://pmc.ncbi.nlm.nih.gov/articles/PMC11446853/ (CT anatomic diagnosis and TTCE shunt grading), https://pmc.ncbi.nlm.nih.gov/articles/PMC10359166/ (embolization review)."
+  },
+  "14": {
+    "reviewRequired": true,
+    "reviewNote": "The supplied E needs a resectability qualifier, and D is not unambiguously false: Masaoka/Masaoka–Koga staging has historically been used for thymic epithelial tumors, while modern TNM staging is adopted. This is not a clean single-best-answer item as printed.",
+    "notes": "Complete surgery is central for operable/resectable thymic carcinoma, usually within stage-dependent multidisciplinary treatment. Unresectable or metastatic disease may need radiation and/or systemic therapy instead. Do not narrate “all thymic carcinomas are best treated by surgery” or claim staging has no prognostic role. Retrieved official reference: https://www.cancer.gov/types/thymoma/hp/thymoma-treatment-pdq; it describes historical Masaoka–Koga staging, newer TNM staging and stage-specific treatment."
+  },
+  "15": {
+    "reviewRequired": false,
+    "reviewNote": "",
+    "notes": "C is a sound general statement: thymic neuroendocrine/carcinoid tumors can be aggressive and metastasis is common. They usually occur in adults rather than peaking in the second and third decades; recognized associations include MEN1 and ectopic ACTH/Cushing syndrome, not Budd–Chiari syndrome. Complete surgery is favored when feasible, with other treatments selected by stage and grade; prognosis is not uniformly good."
+  }
+}
