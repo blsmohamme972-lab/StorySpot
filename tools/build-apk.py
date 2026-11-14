@@ -19,8 +19,8 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 ANDROID = ROOT / "android"
 PACKAGE = "com.storyspot.app"
-VERSION = "1.1.1"
-VERSION_CODE = 10
+VERSION = "1.1.2"
+VERSION_CODE = 11
 UI_FILES = {"index.html", "app.js", "styles.css", "drive-sync.js", "config.json", "mcq.js", "quotes.js", "books.js"}
 FONT_EXTENSIONS = {".woff2", ".woff", ".ttf", ".otf"}
 LESSON_FIELDS = {"storyText", "explanationText", "storyAudio", "explanationAudio", "cues", "explanationCues"}
