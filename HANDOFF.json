@@ -4,17 +4,17 @@
   "readFirst": "docs/HANDOFF.md",
   "release": {
     "versionName": "1.1.1",
-    "versionCode": 7,
+    "versionCode": 10,
     "packageName": "com.storyspot.app",
     "minSdk": 26,
     "targetSdk": 35,
-    "nextVersionCodeMinimum": 8,
+    "nextVersionCodeMinimum": 11,
     "apk": {
       "fileName": "StorySpot-1.1.1.apk",
       "localPath": "dist/StorySpot-1.1.1.apk",
       "driveFileId": "1rHcJZu4k9KwYVgJiJAYFMG9T0fI6n9lB",
       "url": "https://drive.google.com/file/d/1rHcJZu4k9KwYVgJiJAYFMG9T0fI6n9lB/view?usp=drivesdk",
-      "sha256": "2fa3b950d0e934ab2e53c5730e7a8a2022feab3ac6075bfa66eb59f157bb5031"
+      "sha256": "be28b0dd8553297c21adc635c2732ae4a42f30139ca1f9d4a9888675b79b49a0"
     }
   },
   "architecture": {
@@ -165,7 +165,7 @@
   },
   "sourceCandidate": {
     "versionName": "1.1.1",
-    "versionCode": 7,
+    "versionCode": 10,
     "status": "built and signed; Drive release artifact",
     "changes": "lower translucent playback dock, clearer artwork, and preserved Drive-only content sync",
     "validation": "Chromium UI suites, Python catalog/Drive checks, Java media checks, APK signature/package/alignment and UI-only asset verification passed"

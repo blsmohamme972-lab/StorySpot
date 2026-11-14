@@ -1,4 +1,4 @@
-**StorySpot 1.1.1 / version code 7.** This Android update keeps the Drive-only content model and uses the original signing identity.
+**StorySpot 1.1.1 / version code 10.** This Android update keeps the Drive-only content model and uses the original signing identity.
 
 # StorySpot
 

@@ -1,6 +1,6 @@
 # StorySpot 1.1.1
 
-Version 1.1.1 (versionCode 7) is the signed Android update for `com.storyspot.app`.
+Version 1.1.1 (versionCode 10) is the signed Android update for `com.storyspot.app`.
 It keeps Google Drive as the source of images, story text, narration, explanations,
 and timing data; the APK contains only the UI, fonts, and empty Drive connection
 configuration. Existing app data and the original signing identity are preserved.

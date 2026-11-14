@@ -1,8 +1,8 @@
-**Current update:** [RELEASE_1.1.1.md](RELEASE_1.1.1.md). Version 1.1.1 / versionCode 7 is built and signed with the pinned StorySpot certificate. The 0.3.x notes below remain historical repair records.
+**Current update:** [RELEASE_1.1.1.md](RELEASE_1.1.1.md). Version 1.1.1 / versionCode 10 is built and signed with the pinned StorySpot certificate. The 0.3.x notes below remain historical repair records.
 
 # StorySpot developer handoff
 
-Continue this project from the source archive, this document, and the machine-readable `HANDOFF.json` at the source root. The current signed release is **1.1.1 / versionCode 7**; the package remains **`com.storyspot.app`**, for Android 8.0 or later. It is a Drive-only player: the APK contains UI code, fonts, and connection settings, with zero bundled lessons or lesson media.
+Continue this project from the source archive, this document, and the machine-readable `HANDOFF.json` at the source root. The current signed release is **1.1.1 / versionCode 10**; the package remains **`com.storyspot.app`**, for Android 8.0 or later. It is a Drive-only player: the APK contains UI code, fonts, and connection settings, with zero bundled lessons or lesson media.
 
 The story text and voice are Arabic. Explanations, their voice, and all app controls are English. Images and content added to Drive are discovered without an APK rebuild. The app checks on launch, resume, periodically while visible, and on manual refresh; downloaded remote media can be reused offline. Preserve story IDs, saved state, preferences, and the running playback position during updates. Do not uninstall the app or clear its data to perform an update.
 
@@ -45,7 +45,7 @@ Use Python 3.10 or later, JDK 17 or later, Android SDK platform 35, and build-to
 python tools/build-apk.py
 ```
 
-The current update sets versionCode to **7** / versionName **1.1.1**. Keep these three locations consistent:
+The current update sets versionCode to **10** / versionName **1.1.1**. Keep these three locations consistent:
 
 1. `tools/build-apk.py`: `VERSION` and `VERSION_CODE`.
 2. `android/AndroidManifest.xml`: `android:versionName` and `android:versionCode`.
