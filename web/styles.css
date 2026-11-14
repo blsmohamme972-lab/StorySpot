@@ -189,3 +189,28 @@ h1{font-size:20px;line-height:1.15;letter-spacing:-.5px;margin:0 0 3px;max-width
 .track-toggle button{color:rgba(225,232,216,.72);transition:background-color .16s ease,color .16s ease}
 .speed-button{padding:7px 10px;border:1px solid rgba(255,255,255,.10);border-radius:10px;background:rgba(7,12,10,.25);color:rgba(220,230,212,.78)}
 @media(prefers-reduced-motion:reduce){.track-toggle button{transition:none}}
+
+/* Agent 1: Android portrait Shorts viewport contract. Keep the existing
+   artwork, controls, copy, and gesture behavior unchanged; this only gives
+   the feed a stable safe-area-aware phone canvas. */
+:root{
+  --story-safe-top:env(safe-area-inset-top,0px);
+  --story-safe-right:env(safe-area-inset-right,0px);
+  --story-safe-bottom:env(safe-area-inset-bottom,0px);
+  --story-safe-left:env(safe-area-inset-left,0px);
+}
+@media (orientation:portrait){
+  html,body{height:100%;min-height:100%;overflow:hidden;}
+  body{height:100dvh;min-height:100svh;}
+  .app{
+    height:100dvh;
+    min-height:100svh;
+    max-height:100dvh;
+    padding-top:var(--story-safe-top);
+    padding-right:max(11px,var(--story-safe-right));
+    padding-bottom:max(10px,var(--story-safe-bottom));
+    padding-left:max(11px,var(--story-safe-left));
+  }
+  .story-card{min-height:0;flex:1 1 auto;}
+  .viewer{min-height:0;max-height:none;flex:1 1 auto;}
+}
