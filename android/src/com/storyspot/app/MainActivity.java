@@ -169,7 +169,7 @@ public final class MainActivity extends Activity {
         }
         @JavascriptInterface public void removeItem(String key) { store.edit().remove(key).apply(); }
         @JavascriptInterface public String getAppInfo() {
-            return "{\"name\":\"StorySpot\",\"packageName\":\"com.storyspot.app\",\"version\":\"1.1.2\",\"versionCode\:11,\"nativeApi\":3,\"platform\":\"Android\"}";
+            return "{\"name\":\"StorySpot\",\"packageName\":\"com.storyspot.app\",\"version\":\"1.1.2\",\"versionCode\":11,\"nativeApi\":3,\"platform\":\"Android\"}";
         }
         @JavascriptInterface public void setPlaybackActive(boolean active) {
             runOnUiThread(() -> {
