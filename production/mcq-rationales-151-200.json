@@ -1,0 +1,532 @@
+{
+  "151": {
+    "correctExplanation": "The supplied key selects needle biopsy to establish whether an adrenal lesion is metastatic before denying potentially curative lung treatment. Biopsy is appropriate only after imaging fails to establish a benign diagnosis, hormone excess including pheochromocytoma is excluded, and the result will change management.",
+    "options": {
+      "A": "Ultrasound is not a reliable definitive method for distinguishing an adrenal adenoma from lung-cancer metastasis.",
+      "B": "Laparoscopy is invasive and is not the usual initial characterization or tissue-sampling step for an incidental adrenal mass.",
+      "C": "Chemical-shift MRI can identify a lipid-rich adenoma and can reasonably precede biopsy. It cannot be dismissed as wrong without knowing the existing CT findings.",
+      "D": "Tissue sampling can confirm an isolated metastasis when imaging remains indeterminate. Proceeding directly to biopsy without excluding pheochromocytoma is unsafe.",
+      "E": "Adrenalectomy may be considered for a selected isolated metastasis or primary adrenal tumour, but resection is not the routine first diagnostic step."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The stem omits adrenal imaging characteristics and endocrine assessment; the keyed next-step biopsy is conditional, not universally appropriate. Review before treating C as wrong or D as an immediate procedure."
+  },
+  "152": {
+    "correctExplanation": "In the historical exam setting, a fit patient with an operable lung primary and a solitary resectable brain metastasis may receive definitive local treatment to both sites. Today brain surgery versus stereotactic radiation and systemic treatment are selected by a multidisciplinary team.",
+    "options": {
+      "A": "Radiation alone to both sites omits the surgical option for the operable lung primary in this selected historical scenario; modern definitive radiation can nevertheless be appropriate in selected patients.",
+      "B": "Brain irradiation with lung resection is a legitimate contemporary strategy, particularly with stereotactic radiosurgery. The historical key favours resection of a surgically accessible solitary brain lesion.",
+      "C": "Radiation and chemotherapy without definitive treatment of the operable primary is not the historical curative-intent strategy described.",
+      "D": "Resection of both lesions is the historical keyed answer for carefully selected oligometastatic disease, provided the brain lesion is safely resectable and staging excludes other disease.",
+      "E": "It removes the brain lesion but substitutes radiation for an otherwise operable lung primary; that is not the preferred historical surgical strategy."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Historical strategy question: B is also a legitimate modern local-treatment approach and the stem does not specify brain-metastasis size, symptoms or surgical accessibility. Preserve D but do not present B as unconditionally wrong."
+  },
+  "153": {
+    "correctExplanation": "The source key selects albendazole, but pulmonary hydatid disease requires specialist assessment and the current approach generally favours lung-preserving surgery, with antiparasitic treatment used selectively. Albendazole alone is not a universally safe default for an intact pulmonary cyst.",
+    "options": {
+      "A": "Needle biopsy can rupture a hydatid cyst, spread viable parasite material and provoke anaphylaxis; the imaging and serology already suggest the diagnosis.",
+      "B": "Waiting solely for symptoms or enlargement risks rupture or secondary infection; asymptomatic pulmonary disease still needs specialist management.",
+      "C": "Percutaneous aspiration techniques used for some hepatic cysts are generally avoided in pulmonary cysts because of airway spillage, rupture and anaphylaxis risk.",
+      "D": "Lung-preserving surgical treatment is the usual definitive approach for an operable pulmonary hydatid cyst. This option cannot safely be narrated as simply wrong.",
+      "E": "Albendazole has a role in selected nonsurgical situations and adjunctive treatment. The original E key is retained but should not be presented as a universal first-line treatment for this pulmonary lesion."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key E conflicts with current pulmonary hydatid management; D may be preferable. Do not force grading until clinical/source review. WHO guidance favours surgery with albendazole rather than albendazole alone for uncomplicated lung cysts up to 5 cm."
+  },
+  "154": {
+    "correctExplanation": "The original key selects muscle transposition, which can obliterate an infected residual post-lobectomy space with vascularized tissue. The referenced chest radiograph is absent, so the diagnosis and best definitive procedure cannot be independently confirmed.",
+    "options": {
+      "A": "Completion pneumonectomy removes the remaining ipsilateral lung and is not a routine response to a chronic infected residual space when recurrent cancer and a fistula have been excluded.",
+      "B": "Decortication can help an entrapped lung re-expand when a restrictive pleural peel is the problem. Whether that is suitable depends on the missing imaging and residual lung condition.",
+      "C": "A vascularized muscle flap can fill a persistent infected cavity and assist infection control. This is the supplied key, conditional on the unseen radiograph showing the expected residual-space problem.",
+      "D": "Long-term open drainage may control infection in patients unsuitable for definitive closure, but it leaves a persistent cavity rather than restoring a closed space.",
+      "E": "Thoracoplasty collapses the chest wall to reduce pleural dead space and is reserved for selected cases; it is more deforming than a suitable muscle-flap strategy."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Referenced chest radiograph was not supplied. Preserve C as the original key but do not claim the image diagnosis has been verified."
+  },
+  "155": {
+    "correctExplanation": "A true, type II paraoesophageal hernia allows the gastric fundus to herniate alongside the oesophagus while the gastro-oesophageal junction and lower sphincter remain in their usual position.",
+    "options": {
+      "A": "An elevated gastro-oesophageal junction is characteristic of a sliding component, rather than a pure type II paraoesophageal hernia.",
+      "B": "The lower oesophageal sphincter remains at its normal anatomical level in a true type II hernia, although mixed hernias can have a displaced junction.",
+      "C": "An abnormally high resting sphincter pressure is not a defining manometric feature of paraoesophageal herniation.",
+      "D": "A low resting pressure can coexist with reflux, but hypotension is not the defining or required finding in a true paraoesophageal hernia.",
+      "E": "A shortened high-pressure zone is not the usual defining consequence of a pure type II hernia."
+    }
+  },
+  "156": {
+    "correctExplanation": "The supplied key is a hernia through the foramen of Morgagni, an anterior parasternal diaphragmatic defect. The CT slices are missing, so an anterior defect and herniated abdominal contents cannot be verified from the text alone.",
+    "options": {
+      "A": "Extralobar sequestration is separate dysplastic lung tissue with systemic arterial supply; diagnosis requires demonstration of its vascular anatomy rather than obesity and breathlessness alone.",
+      "B": "A Bochdalek hernia passes through a posterolateral diaphragmatic defect. The missing CT is needed to distinguish that location from an anterior Morgagni defect.",
+      "C": "A Morgagni hernia is usually anterior and right-sided and may contain fat or bowel. This is the original key, but the CT evidence is unavailable.",
+      "D": "A large pericardial effusion surrounds the heart rather than passing through a diaphragmatic defect; the absent CT would be needed to exclude it.",
+      "E": "A pericardial cyst is a fluid-density lesion, often at a cardiophrenic angle, rather than herniated abdominal contents. Its distinction also depends on imaging."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The referenced CT images were not supplied; do not infer or verify their findings."
+  },
+  "157": {
+    "correctExplanation": "Pills can lodge where the aortic arch externally indents the mid-thoracic oesophagus. This is a common site of medication-induced oesophageal injury, especially when tablets are taken with little water or immediately before lying down.",
+    "options": {
+      "A": "The upper sphincter is a physiological narrowing and foreign bodies may lodge there, but the question targets the usual mid-oesophageal site for pill retention.",
+      "B": "The cervical oesophagus is not the characteristic location of pill-induced injury associated with the aortic indentation.",
+      "C": "The thoracic inlet is not the usual medication-stasis landmark emphasized in this question.",
+      "D": "The aortic arch causes an external narrowing where pills can remain in prolonged contact with the mucosa.",
+      "E": "The lower sphincter is another narrowing, but it is not the classic common site of pill entrapment described here."
+    }
+  },
+  "158": {
+    "correctExplanation": "Malignant oesophagorespiratory fistulas most commonly communicate with the trachea because of its close relationship to the oesophagus. The left main bronchus is another important site.",
+    "options": {
+      "A": "The bronchus intermedius can be involved but is less commonly the fistula site than the trachea.",
+      "B": "The trachea is the commonest site in the typical malignant fistula distribution described in the question.",
+      "C": "The left main bronchus lies close to the oesophagus and is a recognized site, but is less frequent than a tracheal communication.",
+      "D": "Multiple communications can occur in advanced disease, but most fistulas do not involve multiple sites.",
+      "E": "The right main bronchus can be involved, but it is not the most common location."
+    }
+  },
+  "159": {
+    "correctExplanation": "The supplied key selects local invasion, but metastatic deposits in sites where paraganglial tissue is not normally present, including lymph nodes, are the definitive evidence of metastatic paraganglioma. Local invasion indicates aggressive behaviour but does not by itself establish metastatic potential as reliably.",
+    "options": {
+      "A": "Chromogranin staining supports neuroendocrine differentiation and the diagnosis; it does not distinguish a localized tumour from metastatic disease.",
+      "B": "Leu-enkephalin staining may characterize neuroendocrine cells but is not a reliable stand-alone measure of malignant behaviour.",
+      "C": "Local invasion is concerning and complicates resection, but it is not the definitive criterion for metastatic paraganglioma. The original C key needs review.",
+      "D": "Lymph-node metastases establish spread beyond the primary site and are stronger evidence of metastatic behaviour than the keyed local-invasion finding.",
+      "E": "A high mitotic index may contribute to risk assessment, but morphology alone cannot reliably determine whether a paraganglioma will metastasize."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key C is questionable: regional/distant metastasis, including D, is the definitive criterion. Preserve the key but hold grading pending review."
+  },
+  "160": {
+    "correctExplanation": "An epiphrenic diverticulum is usually a pulsion diverticulum associated with abnormal distal oesophageal motility. Diverticulectomy treats the symptomatic pouch, while an appropriately extended myotomy addresses the pressure-generating disorder; an antireflux procedure is often added.",
+    "options": {
+      "A": "Diverticulectomy alone leaves the underlying motility-related high pressure untreated and can increase leak or recurrence risk.",
+      "B": "Combining removal of a symptomatic pouch with oesophagomyotomy addresses both the diverticulum and the causative outflow or motility problem.",
+      "C": "Fixing the diverticulum in a nondependent position does not correct the underlying motility disorder and is not usually the preferred treatment for a symptomatic narrow-necked epiphrenic pouch.",
+      "D": "Diverticulopexy plus an antireflux operation omits the myotomy needed to address the common underlying motor disorder.",
+      "E": "Myotomy alone may help selected patients, but a symptomatic narrow-necked pouch causing aspiration generally also needs definitive pouch management."
+    }
+  },
+  "161": {
+    "correctExplanation": "NETT identified a subgroup with non-upper-lobe-predominant emphysema and high exercise capacity in whom lung volume reduction surgery increased mortality relative to medical treatment. In contrast, upper-lobe-predominant disease with low exercise capacity was the subgroup with a survival benefit.",
+    "options": {
+      "A": "NETT randomized 1,218 patients, not more than 3,000.",
+      "B": "The overall trial population did not have a significant overall mortality increase with surgery; harm was concentrated in specific high-risk groups.",
+      "C": "Improvement in exercise capacity at 24 months was more common after surgery than with medical treatment.",
+      "D": "Upper-lobe-predominant emphysema with low exercise capacity was the favourable survival subgroup, not a subgroup with increased surgical mortality.",
+      "E": "Non-upper-lobe disease with high exercise capacity was an unfavourable subgroup with higher mortality after surgery."
+    }
+  },
+  "162": {
+    "correctExplanation": "The thoracic duct ascends in the posterior mediastinum, generally behind the oesophagus. A recess of the right pleura intervenes between it and the pericardium in the anatomical relation tested here.",
+    "options": {
+      "A": "The lymphatic system begins developing much earlier, around the fifth to sixth embryonic week, rather than first appearing in the twelfth week.",
+      "B": "The duct begins near the cisterna chyli around L1–L2 and continues to the root of the neck. T5 is near its usual crossing to the left, not its upper endpoint.",
+      "C": "The thoracic duct passes through the aortic hiatus, not the oesophageal hiatus.",
+      "D": "This posterior mediastinal relation to the right pleural recess and pericardium is the statement selected by the source.",
+      "E": "The thoracic duct is posterior to the oesophagus and pericardium in much of the thorax; it does not lie anterior to all the listed structures."
+    }
+  },
+  "163": {
+    "correctExplanation": "The original C key needs review: the aortic arch and left main bronchus produce nearby but distinct oesophageal impressions at approximately 23–25 cm and 27–28 cm from the incisors. Four constrictions are commonly counted when these are separated, making B a defensible statement.",
+    "options": {
+      "A": "The adult oesophagus usually extends from C6 to the gastro-oesophageal junction near T11, with its diaphragmatic hiatus near T10.",
+      "B": "Four classical constrictions are commonly described: cricopharyngeal, aortic, left bronchial and diaphragmatic. This cannot be treated as unequivocally false.",
+      "C": "The aortic impression is near the stated distance, but the left main bronchial impression is generally lower. Combining both at 23 cm makes the keyed statement imprecise.",
+      "D": "The hemiazygos vein is on the left; the azygos vein is the important right-sided relation.",
+      "E": "The oesophageal hiatus is formed predominantly by the right crus, not the left crus."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The supplied key C is anatomically imprecise and B is conventionally correct when four constrictions are counted. Preserve source text/key, but do not force a single-correct grade."
+  },
+  "164": {
+    "correctExplanation": "The abdominal oesophagus receives branches from the left gastric artery and the left inferior phrenic artery. Among the options, left phrenic is the relevant contributing supply.",
+    "options": {
+      "A": "The left inferior phrenic artery contributes oesophageal branches near the hiatus and abdominal oesophagus.",
+      "B": "The right gastroepiploic artery principally supplies the greater curvature of the stomach, not the abdominal oesophagus.",
+      "C": "The gastroduodenal artery supplies the proximal duodenum and pancreaticoduodenal region rather than directly supplying the abdominal oesophagus.",
+      "D": "The splenic artery supplies the spleen and gives gastric and pancreatic branches; it is not a principal direct arterial supply to the abdominal oesophagus.",
+      "E": "The right gastric artery supplies the lesser gastric curvature; the corresponding major oesophageal contribution comes from the left gastric artery."
+    }
+  },
+  "165": {
+    "correctExplanation": "In the surgical ventricular reconstruction component of STICH, adding reconstruction to CABG reduced ventricular volume but did not provide greater symptomatic or exercise improvement or reduce death or cardiac hospitalization compared with CABG alone.",
+    "options": {
+      "A": "The randomized comparison was CABG plus surgical ventricular reconstruction versus CABG alone, not reconstruction alone versus CABG alone.",
+      "B": "Symptoms improved in both groups without a greater improvement attributable to adding ventricular reconstruction.",
+      "C": "Exercise tolerance did not improve more with the added reconstruction procedure.",
+      "D": "Adding reconstruction did not significantly reduce mortality compared with CABG alone.",
+      "E": "The added procedure did not reduce the composite clinical outcome of death or hospitalization for cardiac causes."
+    }
+  },
+  "166": {
+    "correctExplanation": "Voluntary skeletal-muscle movement is mediated by somatic motor nerves, so it remains intact after an isolated sympathetic-trunk injury. Sympathetic functions in the affected distribution can be lost.",
+    "options": {
+      "A": "Arrector pili muscles receive sympathetic innervation, so their activity is among the functions affected.",
+      "B": "Sympathetic vasomotor control of skin and other vessels in the affected distribution may be impaired.",
+      "C": "Sweat glands are supplied by sympathetic, largely cholinergic, fibres; sweating in the affected distribution can be reduced.",
+      "D": "Sympathetic components of visceral reflex pathways may be disrupted. This is not the clearly preserved somatic function sought by the question.",
+      "E": "Voluntary movement depends on somatic motor pathways, which are not carried in the sympathetic trunk."
+    }
+  },
+  "167": {
+    "correctExplanation": "The original key intends entry just above the lower rib to avoid the main intercostal neurovascular bundle beneath the upper rib. A fixed ninth-interspace landmark is not a safe universal instruction: pleural aspiration requires trained ultrasound selection of a fluid pocket and confirmation of diaphragm and organ position.",
+    "options": {
+      "A": "Entering near the upper margin of an interspace risks the main bundle beneath the rib above; a low anterior site can also endanger abdominal organs.",
+      "B": "Being above the lower rib is the safer relation to the main intercostal bundle, but a fixed eighth-interspace anterior puncture is not justified without ultrasound confirmation.",
+      "C": "The upper part of the ninth interspace is near the bundle on the inferior edge of the rib above and is too low to endorse as a blind universal site.",
+      "D": "The source selects this because the bottom of an interspace lies above the lower rib. The ninth-interspace position itself must not be used without ultrasound confirmation of safety.",
+      "E": "A low posterior eleventh-interspace puncture risks diaphragm and abdominal-organ injury and is not an appropriate routine landmark."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Historical blind-landmark question: D must not be narrated as a safe procedural instruction. Modern pleural-effusion aspiration requires ultrasound-guided site selection; collateral vessels and organ position also matter."
+  },
+  "168": {
+    "correctExplanation": "When thirst and access to water are intact, increased drinking can compensate for the excessive dilute urine of diabetes insipidus. ADH deficiency therefore need not produce a persistent large reduction in circulating volume.",
+    "options": {
+      "A": "The renin–angiotensin system can support circulation, but it does not replace the free water lost in ADH deficiency.",
+      "B": "Thirst-driven adjustment of water intake can match urinary water loss and maintain near-normal volume.",
+      "C": "A rise in plasma oncotic pressure is not the principal long-term compensatory mechanism for water loss.",
+      "D": "Reducing filtration through sympathetic reflexes is not the main reason volume can remain near normal in a patient able to drink.",
+      "E": "Chronically reduced renal blood flow is not required for compensation; adequate water intake is the central mechanism."
+    }
+  },
+  "169": {
+    "correctExplanation": "Resting vagal activity slows the sinoatrial node. Removing parasympathetic restraint therefore increases heart rate.",
+    "options": {
+      "A": "Parasympathetic effects are predominantly nodal and atrial; direct effects on ventricular contractility are comparatively small and this is not the best statement.",
+      "B": "Sympathetic stimulation increases, rather than decreases, ventricular contractile strength.",
+      "C": "Inhibiting vagal activity removes its slowing influence on the sinoatrial node and raises heart rate.",
+      "D": "Most systemic resistance vessels have little direct parasympathetic innervation; removing vagal activity does not reliably increase total peripheral resistance.",
+      "E": "Total peripheral resistance is chiefly regulated by sympathetic vasomotor tone and local factors, not by a direct generalized parasympathetic vasodilator supply."
+    }
+  },
+  "170": {
+    "correctExplanation": "Mean arterial pressure is approximately 70 plus one third of the 60 mm Hg pulse pressure, giving 90 mm Hg. Neglecting the small right atrial pressure, resistance is 90 divided by 5, or 18 mm Hg·min/L.",
+    "options": {
+      "A": "This follows from resistance equals mean pressure gradient divided by cardiac output: approximately 90/5 = 18.",
+      "B": "20 would require a mean pressure of approximately 100 mm Hg at the stated output, rather than the estimated 90.",
+      "C": "22 would correspond to a pressure gradient near 110 mm Hg, which is not supported by the given blood pressure.",
+      "D": "These are conductance units, the reciprocal of resistance, rather than the requested resistance units.",
+      "E": "The units are inverted: resistance is pressure divided by flow, not flow divided by pressure."
+    }
+  },
+  "171": {
+    "correctExplanation": "Preferential streaming of relatively oxygen-rich placental blood supplies the fetal liver and, through the foramen ovale and left ventricle, the coronary and cerebral circulations. The fetus still has much lower absolute oxygen tensions than an adult.",
+    "options": {
+      "A": "The liver and heart receive relatively well-oxygenated fetal blood because of umbilical venous inflow and preferential streaming.",
+      "B": "Umbilical venous oxygen tension is typically around 30–35 mm Hg and is generally below maternal mixed-venous oxygen tension, not slightly greater.",
+      "C": "Fetal haemoglobin has greater oxygen affinity and shifts the dissociation curve to the left.",
+      "D": "The foramen ovale normally remains functionally open before birth; its flap closes after the postnatal change in atrial pressures.",
+      "E": "High fetal pulmonary vascular resistance diverts most right-ventricular output through the ductus arteriosus rather than through the lungs."
+    }
+  },
+  "172": {
+    "correctExplanation": "Simvastatin inhibits HMG-CoA reductase and lowers LDL cholesterol by increasing hepatic LDL-receptor activity. The source key captures the direction of effect, but the exact LDL and HDL changes are dose dependent and the stem specifies no dose.",
+    "options": {
+      "A": "A modest HDL rise can occur with simvastatin, so the direction is not wrong. The precise 2–4% figure is not a reliable universal discriminator.",
+      "B": "Increasing gut motility is not a characteristic therapeutic action of simvastatin.",
+      "C": "Simvastatin usually lowers triglycerides rather than producing a characteristic increase.",
+      "D": "Suppression of meal-stimulated gastric acid is not its lipid-lowering mechanism or a usual therapeutic effect.",
+      "E": "LDL reduction is the principal effect, but 20–25% is not a universal magnitude; usual doses often produce a larger fall."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Dose is missing and A describes a possible class effect. Preserve E as the original key while flagging the fixed percentages and single-answer certainty for review."
+  },
+  "173": {
+    "correctExplanation": "High-energy deceleration, shock and chest pain radiating to the back raise concern for blunt traumatic aortic injury. The source key is aortic transection, but the referenced trauma radiographs are absent and definitive imaging findings cannot be verified.",
+    "options": {
+      "A": "Aortic injury is compatible with the deceleration mechanism and is the supplied key. It requires urgent appropriate imaging and management, not confirmation from the unavailable radiograph.",
+      "B": "Pulmonary arterial injury is possible after severe trauma but cannot be established from these nonspecific signs or the missing image.",
+      "C": "Diaphragmatic rupture may cause herniation and respiratory compromise; distinguishing it requires examination and imaging not included here.",
+      "D": "Oesophageal rupture is uncommon in blunt trauma and needs supporting findings; the described mechanism alone does not establish it.",
+      "E": "Splenic injury can cause shock but does not explain a characteristic thoracic vascular imaging pattern. It must still be considered during the trauma survey."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Referenced trauma radiographs were not supplied. A remains the original key, not a verified image diagnosis."
+  },
+  "174": {
+    "correctExplanation": "A 3.3 cm primary tumour is T2a in the staging scheme used here, and ipsilateral peribronchial nodes are N1. Assuming no distant metastases and nodal involvement as the exam intends, the answer is T2aN1M0; node size alone is not pathological proof of metastasis.",
+    "options": {
+      "A": "The tumour is larger than the T1a size threshold and the presumed involved peribronchial nodes are not N0.",
+      "B": "A 3.3 cm tumour exceeds T1 size limits; N1 is the appropriate nodal category if the peribronchial nodes are malignant.",
+      "C": "T2a fits the 3.3 cm size and N1 fits ipsilateral peribronchial involvement, assuming M0 as intended.",
+      "D": "The primary is not large enough for the T2b size category in the staging system relevant to this question.",
+      "E": "Peribronchial nodes are N1, whereas N2 denotes ipsilateral mediastinal or subcarinal nodal involvement."
+    }
+  },
+  "175": {
+    "correctExplanation": "A separate tumour nodule in the same lobe makes the primary T3 when both nodules are part of the same cancer. Subcarinal nodal involvement is N2; with no distant disease assumed, the stage description is T3N2M0.",
+    "options": {
+      "A": "The same-lobe additional tumour nodule makes this T3 rather than a T1 tumour based only on the dominant nodule diameter.",
+      "B": "The additional same-lobe nodule requires T3, and subcarinal nodes are N2 rather than N1.",
+      "C": "Neither T2b nor N1 captures the same-lobe tumour nodule and subcarinal nodal involvement.",
+      "D": "T3 is appropriate, but subcarinal nodal metastasis is N2, not N1.",
+      "E": "T3 reflects the same-lobe additional tumour nodule and N2 the subcarinal nodal involvement, assuming they are malignant and there is no distant spread."
+    }
+  },
+  "176": {
+    "correctExplanation": "In the five-year diabetic SYNTAX subgroup, the composite of death, stroke and myocardial infarction did not differ significantly between PCI and CABG. This means no statistically demonstrated difference in that subgroup, not proof of equivalent treatments; MACCE and repeat revascularization were higher with PCI.",
+    "options": {
+      "A": "MACCE was higher after PCI because it includes repeat revascularization as well as death, stroke and myocardial infarction.",
+      "B": "Repeat revascularization was substantially more frequent with PCI than CABG.",
+      "C": "The death, stroke and myocardial infarction composite was not significantly different in this subgroup, which is the intended result.",
+      "D": "The stroke rate was numerically lower with PCI, but this was not a statistically significant difference in the diabetic subgroup.",
+      "E": "Myocardial infarction was numerically more frequent with PCI, but the subgroup difference was not statistically significant."
+    }
+  },
+  "177": {
+    "correctExplanation": "FREEDOM used a primary composite of death from any cause, nonfatal myocardial infarction or nonfatal stroke. At five years CABG reduced the composite, death and myocardial infarction compared with PCI, while stroke was more frequent after CABG.",
+    "options": {
+      "A": "This correctly identifies the prespecified primary clinical composite.",
+      "B": "The primary composite occurred more frequently after PCI, not after CABG.",
+      "C": "Stroke was more frequent after CABG; the five-year rates were not similar.",
+      "D": "Myocardial infarction was more frequent after PCI, not after CABG.",
+      "E": "All-cause mortality was lower after CABG at five years, rather than being the same in the two groups."
+    }
+  },
+  "178": {
+    "correctExplanation": "The supplied D key is inconsistent with the original PARTNER-B results: one-year all-cause mortality was about 30.7% with TAVR and 50.7% with standard therapy. That is an absolute reduction of about 20 percentage points, not reduction to 20% per year.",
+    "options": {
+      "A": "PARTNER-A demonstrated noninferiority of TAVR to surgical replacement for survival; it did not establish superior early survival with surgery as a general result.",
+      "B": "Transapical patients were a distinct, higher-risk access subgroup, so this claim requires its exact time point and analysis. It cannot rescue the incorrect D mortality figure as a single-answer item.",
+      "C": "One-year mortality in the standard-therapy arm of PARTNER-B was approximately 51%, not 90%.",
+      "D": "TAVR reduced one-year mortality by about 20 percentage points, to about 31%; the printed claim of 20% per year is not the trial result.",
+      "E": "A lowest noncardiovascular mortality claim is not the defining PARTNER-A finding and requires a specified follow-up and comparison; the central survival result was noninferiority."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key D confuses an absolute mortality reduction with the mortality rate. Preserve the source key but hold grading pending review of the question and follow-up interval."
+  },
+  "179": {
+    "correctExplanation": "The bronchial circulation receives only about 1–2% of cardiac output; most right-ventricular output passes through the low-resistance pulmonary circulation for gas exchange.",
+    "options": {
+      "A": "Approximately 2% is the appropriate order of magnitude for systemic bronchial blood flow.",
+      "B": "12% substantially overestimates normal bronchial blood flow.",
+      "C": "20% is far above the small systemic supply required by the conducting airways.",
+      "D": "Half of cardiac output does not normally pass through the bronchial arteries.",
+      "E": "70% confuses the small bronchial nutrient circulation with a much larger share of whole-body blood flow."
+    }
+  },
+  "180": {
+    "correctExplanation": "Exercise increases tissue carbon dioxide, hydrogen ion concentration and temperature, shifting the oxygen–haemoglobin dissociation curve to the right and facilitating oxygen unloading.",
+    "options": {
+      "A": "Alkalosis increases haemoglobin oxygen affinity and shifts the curve to the left.",
+      "B": "A fall in carbon dioxide shifts the curve to the left, not the right.",
+      "C": "Cooling increases oxygen affinity and shifts the curve to the left.",
+      "D": "Less 2,3-DPG stabilizes the high-affinity state and causes a left shift.",
+      "E": "Exercise produces local heat, carbon dioxide and acidity, promoting a right shift and oxygen delivery to active muscle."
+    }
+  },
+  "181": {
+    "correctExplanation": "Pulmonary driving pressure is mean pulmonary arterial pressure minus mean left atrial pressure. Typical resting values near 15 and 5 mm Hg give a gradient of about 10 mm Hg.",
+    "options": {
+      "A": "About 10 mm Hg is the usual resting pressure gradient across the low-resistance pulmonary vascular bed.",
+      "B": "30 mm Hg is much greater than the normal resting transpulmonary gradient.",
+      "C": "50 mm Hg would represent a markedly elevated pressure gradient, not a normal pulmonary circulation.",
+      "D": "75 mm Hg is in the range of systemic rather than normal pulmonary driving pressure.",
+      "E": "100 mm Hg is far above the normal pulmonary pressure gradient."
+    }
+  },
+  "182": {
+    "correctExplanation": "For laminar flow with other factors fixed, resistance is inversely proportional to the fourth power of radius or diameter. Doubling diameter reduces resistance sixteen-fold, so 16 PRU becomes 1 PRU.",
+    "options": {
+      "A": "16 divided by 2 to the fourth power equals 1 PRU.",
+      "B": "2 PRU would represent an eight-fold reduction, which does not follow the fourth-power relation for doubling diameter.",
+      "C": "4 PRU incorrectly applies a square rather than a fourth-power relation.",
+      "D": "8 PRU incorrectly assumes resistance changes inversely in direct proportion to diameter.",
+      "E": "10 PRU does not result from the fourth-power relation in Poiseuille flow."
+    }
+  },
+  "183": {
+    "correctExplanation": "Classic Loeys–Dietz syndrome is associated with heterozygous pathogenic variants in TGFBR1 or TGFBR2 affecting transforming growth factor beta signalling. Other genes are also now recognized, so this statement describes important causes rather than every molecular subtype.",
+    "options": {
+      "A": "The classical TGFBR1/TGFBR2 forms are autosomal dominant, not autosomal recessive.",
+      "B": "Heterozygous variants in TGFBR1 or TGFBR2 are established causes of Loeys–Dietz syndrome.",
+      "C": "Historically, type 1 was the phenotype with typical craniofacial features, including hypertelorism and palatal abnormalities, not their absence.",
+      "D": "Dissection may occur at smaller aortic diameters than in Marfan syndrome, which is a key reason for individualized surveillance and intervention thresholds.",
+      "E": "Aortic root aneurysm and widespread arterial disease are characteristic; arch enlargement is not the most consistent isolated finding."
+    }
+  },
+  "184": {
+    "correctExplanation": "Ischaemic mitral regurgitation after myocardial infarction is a marker of adverse ventricular remodelling and poor prognosis; historical cohorts reported five-year mortality above 60%. That population estimate is not an individual prediction and varies with severity and contemporary treatment.",
+    "options": {
+      "A": "This reflects the adverse prognosis reported in historical post-infarction ischaemic mitral regurgitation cohorts, which is the intended teaching point.",
+      "B": "A survival advantage of repair over chordal-sparing replacement is not established as a general rule; repair also carries a greater risk of recurrent regurgitation in severe secondary disease.",
+      "C": "Selected secondary-chordal cutting has been studied to relieve leaflet tethering, not as a treatment expected uniformly to worsen recurrence and ventricular function.",
+      "D": "A fixed 45 mm end-diastolic dimension is not the established general threshold for poor reverse remodelling; much greater ventricular dilatation is usually implicated.",
+      "E": "The stated 2.5 mm height is not the usual threshold. A tenting area around 2.5 square centimetres and a coaptation or tenting height around 10 mm are the commonly discussed adverse measurements."
+    }
+  },
+  "185": {
+    "correctExplanation": "In the ART secondary comparison of operative techniques, on-pump and off-pump patients received a similar number of grafts, with a median of three. ART randomized mammary-artery strategy, not the choice of on-pump versus off-pump surgery.",
+    "options": {
+      "A": "No significant reduction in early mortality with off-pump surgery was demonstrated in this comparison.",
+      "B": "A significant increase in one-year stroke after on-pump surgery was not demonstrated.",
+      "C": "The need for intra-aortic balloon support and renal support did not differ significantly between the techniques.",
+      "D": "A similar graft count was achieved with both techniques, which is the finding selected by the source.",
+      "E": "Repeat revascularization was numerically higher after off-pump surgery, but the reported differences did not establish the asserted significant increase at both time points."
+    }
+  },
+  "186": {
+    "correctExplanation": "No verified answer key is available for this item. ST elevation with hypotension soon after CABG is an emergency requiring rapid evaluation for graft failure, coronary spasm and other causes; none of these drug pairs should be treated as an automatic treatment instruction.",
+    "options": {
+      "A": "Amrinone can improve contractility and lower vascular resistance, while nitroglycerin may relieve spasm, but both can worsen hypotension. There is no verified source key establishing this pair.",
+      "B": "Dobutamine may support low output and nitroglycerin can relieve coronary spasm, but diagnosis, perfusion pressure and careful titration matter; this pair is not a verified answer.",
+      "C": "Dopamine may support pressure, while verapamil can relieve spasm, but systemic verapamil may worsen hypotension and myocardial depression. Do not infer that the pair is correct.",
+      "D": "Epinephrine may support severe circulatory compromise, but immediate-release sublingual nifedipine can cause abrupt hypotension and is not a safe routine choice.",
+      "E": "Both nitrates and sublingual nifedipine can further lower an already critically low pressure; this is not an acceptable unqualified emergency instruction."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The source answer remains unresolved. Do not assign a replacement key or label any option correct. The severe postoperative hypotension and use of sublingual nifedipine also require explicit clinical safety review."
+  },
+  "187": {
+    "correctExplanation": "The source describes postoperative coronary spasm as particularly associated with a previously normal, ungrafted right coronary artery. This is a historical association and does not exclude spasm of grafts or other native vessels in an individual patient.",
+    "options": {
+      "A": "A grafted diseased LAD is not the native-vessel pattern identified as highest risk in the source teaching point.",
+      "B": "A grafted diseased right coronary artery is not the specifically described high-risk pattern of a normal ungrafted artery.",
+      "C": "Incomplete revascularization may cause ischaemia but is not the specific historical anatomical association being tested.",
+      "D": "An ungrafted normal LAD may spasm, but the right coronary artery is the association selected in this question.",
+      "E": "The source identifies a normal ungrafted right coronary artery as the vessel most associated with this postoperative spasm pattern."
+    }
+  },
+  "188": {
+    "correctExplanation": "The dominant haemodynamic abnormality is a very high systemic vascular resistance with low cardiac index and adequate filling pressure. Titrated vasodilation can improve forward flow, but the original nitroglycerin key is not uniquely compelled; sodium nitroprusside more directly reduces arterial afterload.",
+    "options": {
+      "A": "A routine fluid bolus is less compelling when the wedge pressure is already adequate and excessive afterload is the obvious abnormality. Filling and ventricular function still need bedside reassessment.",
+      "B": "Dobutamine can raise cardiac output but may not be the best first response to marked vasoconstriction in a patient with preserved baseline ventricular function and adequate pressure.",
+      "C": "Epinephrine increases myocardial oxygen demand and may aggravate vasoconstriction; it is not the obvious first choice for this high-resistance, normotensive profile.",
+      "D": "At sufficient doses nitroglycerin can reduce vascular resistance and improve coronary supply, but its predominant venodilator effect may reduce preload. This remains the original key, not a uniquely proven choice.",
+      "E": "Sodium nitroprusside is a potent, titratable arterial and venous dilator and is a plausible preferred treatment for excessive afterload. It cannot fairly be dismissed as wrong from the supplied data."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original D key is not clearly superior to E for low output with markedly elevated afterload. Preserve it, but hold grading pending source/clinical review rather than inventing a reason that nitroprusside is wrong."
+  },
+  "189": {
+    "correctExplanation": "The immediate concern is the excessive 1,000 mL tidal volume and high inspiratory pressure. Reducing tidal volume is the best listed first adjustment; current lung-protective ventilation should use predicted body weight and plateau/driving pressures, so 700 mL is an interim exam option rather than a universal target.",
+    "options": {
+      "A": "Oxygen can subsequently be titrated down with a PaO2 of 160 mm Hg, but this does not address the excessive tidal volume and mechanical-stress concern.",
+      "B": "Shortening inspiratory time does not directly correct the very large delivered tidal volume and can increase peak flow and peak airway pressure.",
+      "C": "Reducing PEEP is not the principal response to an excessively large tidal volume and may worsen recruitment.",
+      "D": "A lower rate reduces minute ventilation but leaves the potentially injurious volume of each breath unchanged.",
+      "E": "This directly reduces overdistension and minute ventilation. A final protective volume should be individualized to predicted body weight, often lower than 700 mL."
+    }
+  },
+  "190": {
+    "correctExplanation": "An asymptomatic 50% internal carotid stenosis is generally managed medically with surveillance, not prophylactic carotid intervention solely to permit CABG. The patient can proceed with the indicated coronary revascularization after appropriate multidisciplinary assessment.",
+    "options": {
+      "A": "This degree of asymptomatic stenosis does not in itself justify cancelling CABG or obtaining invasive carotid angiography.",
+      "B": "Carotid repair is not indicated simply because a moderate, asymptomatic stenosis accompanies coronary disease.",
+      "C": "Proceeding with CABG and following the carotid disease, alongside medical risk reduction, is the appropriate listed strategy.",
+      "D": "Simultaneous carotid repair adds procedural risk without a demonstrated indication for this asymptomatic 50% lesion.",
+      "E": "Staging a carotid operation still exposes the patient to an unnecessary intervention for the described lesion."
+    }
+  },
+  "191": {
+    "correctExplanation": "The original E key reflects older comparisons in which sublobar resection did not deliver a clear durable pulmonary-function advantage. Contemporary trials of carefully selected small peripheral node-negative cancers show different oncological and functional trade-offs, so the broad statements need an era and patient-selection context.",
+    "options": {
+      "A": "Local recurrence has often been higher after segmentectomy, including in some modern comparisons, despite favourable survival in selected small tumours. Equivalence is not a universal claim.",
+      "B": "A nonstapled intersegmental plane can increase air-leak and pleural-space problems; fewer complications cannot be assumed.",
+      "C": "The classic stripping technique exposes parenchyma and does not reliably reduce air leak relative to lobectomy.",
+      "D": "A consistent mortality reduction from segmentectomy itself cannot be assumed; patient selection and limited reserve strongly affect comparative outcomes.",
+      "E": "Older studies found little durable functional difference, which explains the source key. More recent selected trials have found modest function preservation, so this is not a universal contemporary result."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Historical, context-dependent evidence. Preserve E, but do not grade this as a timeless general statement; contemporary segmentectomy data and the exact resection technique affect the answer."
+  },
+  "192": {
+    "correctExplanation": "The source key reflects a 2013 pooled analysis reporting lower in-hospital or 30-day mortality with aspirin plus clopidogrel than aspirin alone. That analysis mixed randomized and observational evidence, and the benefit/bleeding balance varies by indication and regimen; it does not prove that DAPT is right for every CABG patient.",
+    "options": {
+      "A": "The historical pooled analysis found fewer early saphenous-vein occlusions with dual therapy, not identical early graft-occlusion rates.",
+      "B": "The clearest patency signal was for saphenous-vein grafts; a significant arterial-graft loss difference was not established as stated.",
+      "C": "Lower early mortality was reported in the historical pooled analysis, which explains C, but this association is not a universal causal guarantee.",
+      "D": "The cited pooled analysis did not find a statistically significant reduction in angina or perioperative myocardial infarction.",
+      "E": "Dual therapy can increase major bleeding; the historical analysis showed a borderline signal and later analyses differ. It would be misleading to narrate increased bleeding as categorically false."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The stem omits the specific evidence set. C is a historical pooled result, while E is clinically plausible and supported in some later analyses. Preserve the key and require context review before single-correct grading."
+  },
+  "193": {
+    "correctExplanation": "RAPS compared paired radial-artery and saphenous-vein grafts with protocol angiography. At late follow-up beyond five years, functional graft occlusion was less frequent with radial grafts.",
+    "options": {
+      "A": "The principal endpoint was angiographic graft occlusion, not all-cause mortality.",
+      "B": "Angiography was planned by protocol rather than restricted to patients who developed symptoms.",
+      "C": "The early radial-artery string-sign rate was approximately 7%, not 30%.",
+      "D": "Complete occlusion at one year was less frequent in radial grafts. Functional occlusion was more similar, so the unqualified assertion that occlusion rates were alike misses the trial distinction.",
+      "E": "Late functional occlusion was lower with radial arteries than with vein grafts, which is the intended longer-term result."
+    }
+  },
+  "194": {
+    "correctExplanation": "Aerated lung can extend into the retrotracheal region and contributes to its normal radiolucency. The posterior tracheal line is the anterior boundary of this space, not its posterior boundary.",
+    "options": {
+      "A": "Lung is a normal component of the retrotracheal region and helps create its lucent appearance on a lateral radiograph.",
+      "B": "The posterior tracheal line borders the anterior side of the retrotracheal space.",
+      "C": "The posterior tracheal stripe is ordinarily seen when the posterior tracheal wall and adjacent soft tissue are outlined by air. Oesophageal contact can produce a thicker tracheo-oesophageal stripe, a distinct description.",
+      "D": "Neurogenic tumours classically arise in the paravertebral posterior mediastinum; they are not the most common general retrotracheal lesion category.",
+      "E": "The right recurrent laryngeal nerve is not the most consistent defining content of this radiographic space; its normal course loops around the subclavian artery in the upper mediastinal/root-of-neck region."
+    }
+  },
+  "195": {
+    "correctExplanation": "Oesophageal duplication cysts most often occur in the distal oesophagus, commonly cited as about 60%. They are congenital foregut lesions with an epithelial lining and a smooth-muscle wall.",
+    "options": {
+      "A": "Duplication cysts are uncommon and do not account for one quarter of all oesophageal tumours and tumour-like lesions.",
+      "B": "The lower oesophagus is the most frequent location, approximately 60% in common descriptions.",
+      "C": "Gastric mucosa may be present but is not the lining in most cases; oesophageal or respiratory-type epithelium may occur.",
+      "D": "An uncomplicated cyst generally appears as a well-defined fluid lesion and is usually homogeneous. Protein or haemorrhage can alter its appearance, but heterogeneity is not the typical defining CT feature.",
+      "E": "Surgical excision is often recommended for symptomatic or complicated cysts and considered in suitable asymptomatic patients; observation is not universally the best management."
+    }
+  },
+  "196": {
+    "correctExplanation": "A 2013 systematic review of frozen elephant trunk surgery found multiorgan failure to be the most frequent reported cause of death when a cause was specified. This is a historical pooled observation, not a fixed outcome rate for every contemporary centre or patient.",
+    "options": {
+      "A": "The historical pooled operative mortality was roughly 8%, not generally more than 20%, though risk varies with pathology and urgency.",
+      "B": "Multiorgan failure accounted for the largest share of deaths with a reported cause in the historical review underlying this teaching point.",
+      "C": "Pooled spinal cord injury was only a few percent, not 25%.",
+      "D": "The review did not establish a strong mortality association with cerebral-perfusion time; other operative and patient factors were relevant.",
+      "E": "The reviewed studies reported a wider and generally lower five-year survival range, approximately 63–88%, rather than a consistent 85–90%."
+    }
+  },
+  "197": {
+    "correctExplanation": "DOORS randomized elderly patients, around 70 years and older, to on-pump or off-pump CABG. Both groups had improved self-reported health-related quality of life; off-pump surgery did not demonstrate a mortality advantage and subsequent angiography showed lower overall graft patency.",
+    "options": {
+      "A": "The primary clinical endpoint was a composite including death, stroke and myocardial infarction; graft patency was an additional endpoint.",
+      "B": "A significantly lower six-month mortality with off-pump surgery was not demonstrated.",
+      "C": "Quality-of-life measures improved after revascularization in both groups, which is the finding selected here.",
+      "D": "The age threshold was approximately 70 years, not 80.",
+      "E": "The graft-patency analysis found poorer overall patency after off-pump surgery, rather than no difference."
+    }
+  },
+  "198": {
+    "correctExplanation": "In the Best Bypass Surgery trial of high-risk patients, the composite primary outcome did not differ significantly between off-pump and on-pump groups at 30 days. The trial did not demonstrate the claimed individual stroke or myocardial infarction advantages.",
+    "options": {
+      "A": "The primary endpoint was a composite of major adverse outcomes, not all-cause mortality alone.",
+      "B": "The mean total graft count was numerically slightly lower off-pump but not significantly different; this is not the principal statistically established finding. Fewer lateral-wall grafts were a more specific finding.",
+      "C": "There was no statistically significant difference in the composite primary outcome at 30 days.",
+      "D": "A significant reduction in stroke with off-pump surgery was not shown in this trial.",
+      "E": "A significant increase in acute myocardial infarction with off-pump surgery was not shown in this trial."
+    }
+  },
+  "199": {
+    "correctExplanation": "In the randomized comparison, Freestyle and homograft root replacement produced substantial, comparable regression of left-ventricular hypertrophy. Eight-year survival was also similar; neither prosthesis showed the asserted survival superiority.",
+    "options": {
+      "A": "A significant increase in hospital mortality with Freestyle was not demonstrated in the randomized comparison.",
+      "B": "Freestyle did not have inferior eight-year survival; survival was similar between groups.",
+      "C": "A statistically significant eight-year survival advantage for Freestyle was not demonstrated.",
+      "D": "Both prostheses relieved obstruction and produced comparable reductions in left-ventricular mass index.",
+      "E": "A significantly superior reduction in mass index with Freestyle was not established."
+    }
+  },
+  "200": {
+    "correctExplanation": "Pulmonary sequestration is nonfunctioning lung tissue with an anomalous systemic arterial supply. More than one supplying artery can occur, classically reported in approximately 15% of cases; intralobar sequestration is more common and extralobar tissue has its own pleural covering.",
+    "options": {
+      "A": "Intralobar sequestration is more common than extralobar sequestration.",
+      "B": "A separate pleural covering characterizes extralobar sequestration; intralobar tissue shares the pleura of the surrounding lung.",
+      "C": "Extralobar sequestration is usually left-sided, commonly near the left hemidiaphragm, rather than usually right-sided.",
+      "D": "Extralobar lesions are often detected in infancy or childhood, whereas intralobar lesions commonly present later with recurrent infection.",
+      "E": "Multiple systemic feeding arteries are a recognized anatomical variant, traditionally quoted at about 15%."
+    }
+  }
+}

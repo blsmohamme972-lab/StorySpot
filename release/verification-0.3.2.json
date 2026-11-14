@@ -1,0 +1,58 @@
+{
+  "version": "0.3.2",
+  "versionCode": 5,
+  "base": "0.3.1 source from Drive",
+  "pythonTests": 44,
+  "apkAssetPolicyTests": 3,
+  "nativeChecks": [
+    "19 byte-range cases",
+    "12 focus checks",
+    "bounded streams, truncation, cache integrity"
+  ],
+  "existingBrowserSuites": 8,
+  "newBrowserSuite": "accelerated-audio.test.cjs: original story-1 story/explanation MP3s, 2x from start beyond 22s, pause/resume, seeking, natural end, pending read cancellation, artwork bounds, animation cleanup, reduced motion",
+  "physicalAndroidTested": false,
+  "apk": {
+    "packageName": "com.storyspot.app",
+    "applicationLabel": "StorySpot",
+    "version": "0.3.2",
+    "versionCode": 5,
+    "minSdk": 26,
+    "targetSdk": 35,
+    "file": "StorySpot-0.3.2.apk",
+    "bytes": 206215,
+    "sha256": "f2aed45a0195cf427ac4cc275c2d1532811b15fc47e7b3268249b511460c7baa",
+    "certificateSha256": "7c0394b5c20dbc225b4612b41a46d0e3d03a7e3dc0313b8fd619538db2340138",
+    "signed": true,
+    "contentSource": "Google Drive at runtime",
+    "bundle": {
+      "files": [
+        "app.js",
+        "books.js",
+        "config.json",
+        "drive-sync.js",
+        "fonts/DM-Sans-OFL.txt",
+        "fonts/Manrope-OFL.txt",
+        "fonts/dm-sans-400.ttf",
+        "fonts/dm-sans-700.ttf",
+        "fonts/manrope-400.ttf",
+        "fonts/manrope-700.ttf",
+        "index.html",
+        "mcq.js",
+        "quotes.js",
+        "styles.css"
+      ],
+      "bytes": 409179,
+      "bundledStories": 0,
+      "bundledLessonMedia": 0
+    },
+    "verification": "APK signature, package identity, and ZIP alignment verified. Device playback testing is separate."
+  },
+  "unchanged": [
+    "lesson media",
+    "live catalog",
+    "package name",
+    "signing identity",
+    "storage keys"
+  ]
+}

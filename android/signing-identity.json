@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.storyspot.app",
+  "certificateSha256": "7c0394b5c20dbc225b4612b41a46d0e3d03a7e3dc0313b8fd619538db2340138",
+  "keyAlias": "storyspot",
+  "createdForVersion": "0.1.0"
+}

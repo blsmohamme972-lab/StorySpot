@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "project": "StorySpot",
+  "readFirst": "docs/HANDOFF.md",
+  "release": {
+    "versionName": "1.1.1",
+    "versionCode": 7,
+    "packageName": "com.storyspot.app",
+    "minSdk": 26,
+    "targetSdk": 35,
+    "nextVersionCodeMinimum": 8,
+    "apk": {
+      "fileName": "StorySpot-1.1.1.apk",
+      "localPath": "dist/StorySpot-1.1.1.apk",
+      "driveFileId": "1rHcJZu4k9KwYVgJiJAYFMG9T0fI6n9lB",
+      "url": "https://drive.google.com/file/d/1rHcJZu4k9KwYVgJiJAYFMG9T0fI6n9lB/view?usp=drivesdk",
+      "sha256": "2fa3b950d0e934ab2e53c5730e7a8a2022feab3ac6075bfa66eb59f157bb5031"
+    }
+  },
+  "architecture": {
+    "contentSource": "Google Drive at runtime",
+    "bundledStories": 0,
+    "bundledLessonMedia": 0,
+    "storyLanguage": "ar",
+    "explanationLanguage": "en",
+    "uiLanguage": "en",
+    "cache": "Previously downloaded remote media in app-private storage; initial load needs internet",
+    "discovery": "Root folder plus one public subfolder level; manifest optional and enriches images",
+    "automaticRefresh": [
+      "launch",
+      "resume",
+      "visible periodic check"
+    ],
+    "onPhoneSpeechGeneration": true,
+    "mcqSpeech": "Android device TTS with supplied source rationales; English",
+    "quoteDisplay": "End of original Arabic Story recording only; no Explanation prelude"
+  },
+  "drive": {
+    "rootFolderId": "1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT",
+    "manifestFileId": "1zA1ckUDRk8VjFPciBLe6lR8vvLSZCa4s",
+    "audioFolderId": "1jcRJ1aHDmn2QDdmfrO3ZTbNqDZA_lXsL",
+    "configurationFiles": [
+      "web/config.json",
+      "web/drive-sync.js"
+    ],
+    "access": "Public read-only content, no Google account login"
+  },
+  "archives": {
+    "source": {
+      "fileName": "StorySpot-0.3.3-source.zip",
+      "containsPrivateSigningMaterial": false,
+      "containsAuthoringMedia": false
+    },
+    "authoringMedia": {
+      "fileName": "StorySpot-0.2.0-authoring-media.zip",
+      "optionalForApkBuild": true,
+      "restoreUnder": "production/remote-library/content/",
+      "extractInto": "StorySpot source root"
+    },
+    "privateSigning": {
+      "fileName": "PRIVATE-StorySpot-signing-backup.zip",
+      "private": true,
+      "requiredForCompatibleUpdates": true,
+      "mustNotIncludeInSourceOrApk": true,
+      "restoreKeyDirectory": "../.storyspot-signing/",
+      "requiredFiles": [
+        "storyspot-release.p12",
+        "keystore-password.txt"
+      ],
+      "restoreBackupArchivePath": "../shared/storyspot-private/storyspot-signing-backup.zip",
+      "storagePolicy": "Separate private owner-only folder; not the public content folder"
+    }
+  },
+  "signing": {
+    "certificateSha256": "7c0394b5c20dbc225b4612b41a46d0e3d03a7e3dc0313b8fd619538db2340138",
+    "keyAlias": "storyspot",
+    "publicIdentityFile": "android/signing-identity.json",
+    "reuseExistingIdentity": true,
+    "allowKeyRegenerationForDeliveredApp": false
+  },
+  "build": {
+    "command": "python tools/build-apk.py",
+    "pythonMinimum": "3.10",
+    "jdkMinimum": "17",
+    "sdkPlatform": 35,
+    "buildTools": "35",
+    "defaultSdkDirectory": "../android-toolchain",
+    "versionFiles": [
+      "tools/build-apk.py",
+      "android/AndroidManifest.xml",
+      "android/src/com/storyspot/app/MainActivity.java"
+    ],
+    "bootstrapCommand": "python tools/bootstrap-sdk.py"
+  },
+  "validation": {
+    "pythonContentAndDriveTests": 44,
+    "nativeAssetPolicyTests": 3,
+    "javaByteRangeCases": 19,
+    "browserChecks": "11-story/22-recording playback, offline cache, saved state, MCQ and quote callbacks, pending speech/sync race, refreshed catalog/navigation/filter state, gestures, touchscreen MCQ scrolling, portrait and landscape layouts",
+    "physicalAndroidPlaybackTested": false,
+    "nativeFocusChecks": 12,
+    "nativeMediaStreamAndCacheChecks": "Passed",
+    "liveDriveCheck": {
+      "stories": 11,
+      "consecutiveManualSyncs": 2,
+      "stableMediaUrls": true
+    },
+    "acceleratedPlayback": "Original story-1 story and explanation MP3s continued beyond 0:19 at 2x using complete same-origin Blob sources; pause/resume, seek and natural end passed in Chromium.",
+    "browserSuiteCount": 9
+  },
+  "preserve": [
+    "package identity",
+    "original signing identity",
+    "stable story IDs",
+    "saved state",
+    "preferences",
+    "user app data"
+  ],
+  "limitations": [
+    "Physical Android playback has not been tested",
+    "Public Drive HTML discovery has no guaranteed unbounded pagination contract",
+    "Sentence-level synthetic speech timing is not human-verified word alignment",
+    "Supplied medical claims and literary quotations are not independently source-verified"
+  ],
+  "documentation": [
+    "README.md",
+    "docs/HANDOFF.md",
+    "docs/DRIVE_SYNC.md",
+    "docs/CONTENT_FORMAT.md",
+    "docs/AUDIO.md",
+    "docs/BUILD_SETUP.md",
+    "AGENTS.md",
+    "docs/RELEASE_0.3.0.md",
+    "docs/RELEASE_0.3.1.md",
+    "docs/RELEASE_0.3.2.md",
+    "docs/RELEASE_0.3.3.md",
+    "docs/RELEASE_1.1.1.md"
+  ],
+  "storage": {
+    "sourceFolderId": "1HQN_NGbuMLXwzf49vMXOD4GqZgcBqxzf",
+    "sourceFolderUrl": "https://drive.google.com/drive/folders/1HQN_NGbuMLXwzf49vMXOD4GqZgcBqxzf",
+    "privateSigningFolderId": "1Md1MIbxXymsfvm8tM1qqO14rtlb3OBQG",
+    "privateSigningFolderUrl": "https://drive.google.com/drive/folders/1Md1MIbxXymsfvm8tM1qqO14rtlb3OBQG",
+    "privateSigningFileId": "1rhbtMAfnaj63hq_SsM15DQnamb2JqnnB",
+    "privacyVerified": "Both folders owner-only before upload"
+  },
+  "previousRelease": {
+    "versionName": "0.3.2",
+    "versionCode": 5,
+    "packageName": "com.storyspot.app",
+    "minSdk": 26,
+    "targetSdk": 35,
+    "nextVersionCodeMinimum": 6,
+    "apk": {
+      "fileName": "StorySpot-0.3.2.apk",
+      "driveFileId": "1wXmAVTxpc7cov6LZ2ngF5j7z_0KLZD0w",
+      "url": "https://drive.google.com/file/d/1wXmAVTxpc7cov6LZ2ngF5j7z_0KLZD0w/view?usp=drivesdk",
+      "sha256": "f2aed45a0195cf427ac4cc275c2d1532811b15fc47e7b3268249b511460c7baa"
+    }
+  },
+  "userPreferences": {
+    "platform": "Android",
+    "usageOrientation": "portrait",
+    "orientationLockRequested": false
+  },
+  "sourceCandidate": {
+    "versionName": "1.1.1",
+    "versionCode": 7,
+    "status": "built and signed; Drive release artifact",
+    "changes": "lower translucent playback dock, clearer artwork, and preserved Drive-only content sync",
+    "validation": "Chromium UI suites, Python catalog/Drive checks, Java media checks, APK signature/package/alignment and UI-only asset verification passed"
+  }
+}

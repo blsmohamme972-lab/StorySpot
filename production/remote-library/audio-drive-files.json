@@ -1,0 +1,178 @@
+[
+  {
+    "storyId": "story-1",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-1-story.mp3",
+    "name": "story-1-story.mp3",
+    "id": "174xJy7mYwudpuuAuhcJVE-z3gdUu45ZJ",
+    "url": "https://drive.google.com/file/d/174xJy7mYwudpuuAuhcJVE-z3gdUu45ZJ/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-1",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-1-explanation.mp3",
+    "name": "story-1-explanation.mp3",
+    "id": "1z0AzWNW-I1JQtsZ3Nfn06uff3_SlhCEX",
+    "url": "https://drive.google.com/file/d/1z0AzWNW-I1JQtsZ3Nfn06uff3_SlhCEX/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-5",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-5-story.mp3",
+    "name": "story-5-story.mp3",
+    "id": "1Wcgduz2-jWREdcNVM3ZVgEu5B6Ka0iMY",
+    "url": "https://drive.google.com/file/d/1Wcgduz2-jWREdcNVM3ZVgEu5B6Ka0iMY/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-5",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-5-explanation.mp3",
+    "name": "story-5-explanation.mp3",
+    "id": "18ECDyMw-oW_aQD1LXW67DUPbO3Jnnhv8",
+    "url": "https://drive.google.com/file/d/18ECDyMw-oW_aQD1LXW67DUPbO3Jnnhv8/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-7-clamp",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-7-clamp-story.mp3",
+    "name": "story-7-clamp-story.mp3",
+    "id": "1BaBFATVEOICzmYs24iwQz2YK-IapWqEn",
+    "url": "https://drive.google.com/file/d/1BaBFATVEOICzmYs24iwQz2YK-IapWqEn/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-7-clamp",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-7-clamp-explanation.mp3",
+    "name": "story-7-clamp-explanation.mp3",
+    "id": "1enUoDwBcj1OQ15vyohxVxAUsIAHjqevg",
+    "url": "https://drive.google.com/file/d/1enUoDwBcj1OQ15vyohxVxAUsIAHjqevg/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-7-gate",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-7-gate-story.mp3",
+    "name": "story-7-gate-story.mp3",
+    "id": "1ZvLY8Aw4KLnb5kWnvljp7fiq9Rqydru-",
+    "url": "https://drive.google.com/file/d/1ZvLY8Aw4KLnb5kWnvljp7fiq9Rqydru-/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-7-gate",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-7-gate-explanation.mp3",
+    "name": "story-7-gate-explanation.mp3",
+    "id": "1V2HBzx2DQz0f2ssscIwXuVYRfm4ACkTj",
+    "url": "https://drive.google.com/file/d/1V2HBzx2DQz0f2ssscIwXuVYRfm4ACkTj/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-9",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-9-story.mp3",
+    "name": "story-9-story.mp3",
+    "id": "1MqPd6KfIeLobwVO6-4XTbd7KakgE-cKx",
+    "url": "https://drive.google.com/file/d/1MqPd6KfIeLobwVO6-4XTbd7KakgE-cKx/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-9",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-9-explanation.mp3",
+    "name": "story-9-explanation.mp3",
+    "id": "1qqArzWglw40Ys_HiWTdr_-ki9qpWgZjx",
+    "url": "https://drive.google.com/file/d/1qqArzWglw40Ys_HiWTdr_-ki9qpWgZjx/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-10",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-10-story.mp3",
+    "name": "story-10-story.mp3",
+    "id": "1t4vmn7TY9yxyyOhdKCEH6rGM0FsFqUEu",
+    "url": "https://drive.google.com/file/d/1t4vmn7TY9yxyyOhdKCEH6rGM0FsFqUEu/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-10",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-10-explanation.mp3",
+    "name": "story-10-explanation.mp3",
+    "id": "1c2mj2eLSvWhn6djLUtzNNpj8H5MWgtge",
+    "url": "https://drive.google.com/file/d/1c2mj2eLSvWhn6djLUtzNNpj8H5MWgtge/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-11",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-11-story.mp3",
+    "name": "story-11-story.mp3",
+    "id": "15wHE4w-euzBCz19A08UKoIF2Z1hE-UAe",
+    "url": "https://drive.google.com/file/d/15wHE4w-euzBCz19A08UKoIF2Z1hE-UAe/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-11",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-11-explanation.mp3",
+    "name": "story-11-explanation.mp3",
+    "id": "1vN9qCYxTfp7UlYTVe426vILaiq1iIMq3",
+    "url": "https://drive.google.com/file/d/1vN9qCYxTfp7UlYTVe426vILaiq1iIMq3/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-12",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-12-story.mp3",
+    "name": "story-12-story.mp3",
+    "id": "1XBmwvAhvb8gkOaWq8mY1tVxAvzu5BtcS",
+    "url": "https://drive.google.com/file/d/1XBmwvAhvb8gkOaWq8mY1tVxAvzu5BtcS/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-12",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-12-explanation.mp3",
+    "name": "story-12-explanation.mp3",
+    "id": "1odWsVHciwARQ_mXx2MN1gAbXM9ujFWLv",
+    "url": "https://drive.google.com/file/d/1odWsVHciwARQ_mXx2MN1gAbXM9ujFWLv/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-13",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-13-story.mp3",
+    "name": "story-13-story.mp3",
+    "id": "11PYbdp3uv872YQqxhuIar-A5KcMdzkDy",
+    "url": "https://drive.google.com/file/d/11PYbdp3uv872YQqxhuIar-A5KcMdzkDy/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-13",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-13-explanation.mp3",
+    "name": "story-13-explanation.mp3",
+    "id": "106pqTpocW36cB3x3AwqC79x8TQk-3dw-",
+    "url": "https://drive.google.com/file/d/106pqTpocW36cB3x3AwqC79x8TQk-3dw-/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-14",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-14-story.mp3",
+    "name": "story-14-story.mp3",
+    "id": "1981WSIxqBuIQJ2O4Ow8alSlaxu5AZ09R",
+    "url": "https://drive.google.com/file/d/1981WSIxqBuIQJ2O4Ow8alSlaxu5AZ09R/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-14",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-14-explanation.mp3",
+    "name": "story-14-explanation.mp3",
+    "id": "1T88pkl6o3BHwTc1oH34wGLE-LVMw2OOP",
+    "url": "https://drive.google.com/file/d/1T88pkl6o3BHwTc1oH34wGLE-LVMw2OOP/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-15",
+    "kind": "story",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-15-story.mp3",
+    "name": "story-15-story.mp3",
+    "id": "1a6xJbEaPs2LqwI_g7FQd1U63tLzn31OE",
+    "url": "https://drive.google.com/file/d/1a6xJbEaPs2LqwI_g7FQd1U63tLzn31OE/view?usp=drivesdk"
+  },
+  {
+    "storyId": "story-15",
+    "kind": "explanation",
+    "path": "/workspace/StorySpot/production/remote-library/content/audio/story-15-explanation.mp3",
+    "name": "story-15-explanation.mp3",
+    "id": "1A8lzxnnN_a72fjO9d9EZMVguLVUZcrZW",
+    "url": "https://drive.google.com/file/d/1A8lzxnnN_a72fjO9d9EZMVguLVUZcrZW/view?usp=drivesdk"
+  }
+]

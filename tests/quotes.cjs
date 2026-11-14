@@ -1,0 +1,53 @@
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const vm = require('node:vm');
+const elements = {quoteOverlay:{hidden:true},quoteText:{textContent:''}};
+let speechCalls = 0;
+const priorSpeechCallback = () => {};
+const window = {
+  onMCQSpeech:priorSpeechCallback,
+  StorySpotNative:{speakMcq() {speechCalls++;}},
+  speechSynthesis:{speak() {speechCalls++;}}
+};
+const context = vm.createContext({window,document:{getElementById(id){return elements[id];}},Number,String});
+vm.runInContext(fs.readFileSync(require('node:path').join(__dirname,'../web/quotes.js'),'utf8'),context);
+const quotes = window.StorySpotQuotes;
+assert.equal(quotes.extractQuote({storyText:'من «الكتاب» وهذه النهاية «الجمال سينقذ العالم»'}),'الجمال سينقذ العالم');
+assert.equal(quotes.extractQuote({storyText:'لا اقتباس هنا'}),'');
+assert.equal(quotes.extractQuote({quote:{text:' نص صريح '},storyText:'«نص آخر»'}),'نص صريح');
+quotes.load({storyText:'قصة طويلة لا تعرض. «الاقتباس فقط»',quote:{start:10,end:14}});
+assert.equal(elements.quoteOverlay.hidden,true);
+quotes.showAt(9.999,true);
+assert.equal(elements.quoteOverlay.hidden,true,'Do not show before recorded quote interval');
+quotes.showAt(10,true);
+assert.equal(elements.quoteOverlay.hidden,false);
+assert.equal(elements.quoteText.textContent,'الاقتباس فقط');
+assert.equal(quotes.isVisible,true);
+quotes.showAt(13.999,true);
+assert.equal(elements.quoteOverlay.hidden,false);
+quotes.showAt(14,true);
+assert.equal(elements.quoteOverlay.hidden,true,'Hide exactly at interval end');
+quotes.showAt(11,false);
+assert.equal(elements.quoteOverlay.hidden,true,'Explanation/MCQ/paused playback must not show the quotation');
+quotes.showAt(11,true);
+quotes.pause();
+assert.equal(elements.quoteOverlay.hidden,true);
+quotes.showAt(11,true);
+quotes.stop();
+assert.equal(elements.quoteOverlay.hidden,true);
+quotes.showAt(11,true);
+quotes.load({storyText:'«اقتباس آخر»'});
+quotes.showAt(100,true);
+assert.equal(elements.quoteOverlay.hidden,true,'Missing timing must not be guessed');
+quotes.load({quote:{text:'توقيت غير صالح',start:14,end:10}});
+quotes.showAt(12,true);
+assert.equal(elements.quoteOverlay.hidden,true);
+quotes.load({quote:{text:'النص المحدد',start:3,end:7},storyText:'«نص مختلف»'});
+quotes.showAt(4,true);
+assert.equal(elements.quoteText.textContent,'النص المحدد');
+quotes.showAt(Number.NaN,true);
+assert.equal(elements.quoteOverlay.hidden,true);
+assert.equal(window.onMCQSpeech,priorSpeechCallback,'Do not intercept MCQ speech callbacks');
+assert.equal(speechCalls,0,'Quote display must not generate or replay speech');
+assert.equal(typeof quotes.play,'undefined','No explanation prelude API remains');
+console.log('Recorded story quote timeline checks passed');

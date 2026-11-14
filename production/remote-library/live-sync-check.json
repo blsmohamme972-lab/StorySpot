@@ -1,0 +1,157 @@
+{
+  "checkedAt": "2026-11-09",
+  "initialStories": 0,
+  "syncedStories": 11,
+  "storyAudioTracks": 11,
+  "explanationAudioTracks": 11,
+  "overviewPointerHidden": true,
+  "remoteRegistrations": 33,
+  "eagerMediaDownloads": 0,
+  "finalStatus": {
+    "state": "success",
+    "message": "Found 11 Drive stories. Media loads as you play."
+  },
+  "imageIds": [
+    "1t4fhYYMU4SPl_Iyw1CBDXwbPKZh_S1ZO",
+    "1VyuTe-Ly_Sze7bsvwDBUP0ZYmB-to2bL",
+    "1OqjYAfSzLqbqYN4hPpb-dsEcxLmlkAdJ",
+    "1WizEirRSrcLTzlX0K_0SXip9oA9bQdIb",
+    "1EzY4-Ad8l52gclO2WT549U-z_Fpz9_oK",
+    "1M6_-YXjRAlJAJno3QSNDTwWcNV5plsJ3",
+    "1T5qoSq4yoZOA4ug-bhL122eYOjGyp_5x",
+    "105aNXGQGpAT_dxv-J-kfkAhW-Dw2cD64",
+    "1sObJNv5t89OMNARMaPDu5mxdHWkChIVY",
+    "1nvLeofmj9DyAt-DFYo5mjBKuwqqqqwgc",
+    "1DKA0uAyArkwfG2H02XV-UPyw-fY7J5XB"
+  ],
+  "requests": [
+    {
+      "path": "/drive/folders/1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT",
+      "query": "",
+      "status": 200,
+      "bytes": 107639,
+      "finalHost": "drive.google.com",
+      "seconds": 0.887
+    },
+    {
+      "path": "/embeddedfolderview",
+      "query": "id=1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT",
+      "status": 200,
+      "bytes": 20279,
+      "finalHost": "drive.google.com",
+      "seconds": 1.313
+    },
+    {
+      "path": "/drive/folders/1jcRJ1aHDmn2QDdmfrO3ZTbNqDZA_lXsL",
+      "query": "",
+      "status": 200,
+      "bytes": 104556,
+      "finalHost": "drive.google.com",
+      "seconds": 0.669
+    },
+    {
+      "path": "/embeddedfolderview",
+      "query": "id=1jcRJ1aHDmn2QDdmfrO3ZTbNqDZA_lXsL",
+      "status": 200,
+      "bytes": 16927,
+      "finalHost": "drive.google.com",
+      "seconds": 0.509
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1zA1ckUDRk8VjFPciBLe6lR8vvLSZCa4s",
+      "status": 200,
+      "bytes": 121142,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.488
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1HaCyTojq3Qm9LIvSX0e1x9O56mc-emZ5",
+      "status": 200,
+      "bytes": 793,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.42
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1-ORxiYNEKYu_Tf0TnqX7ieBGzcCumq89",
+      "status": 200,
+      "bytes": 1511,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.373
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=17he5sCdp3aBGKX-plRvS-9V6xVQPhvc-",
+      "status": 200,
+      "bytes": 1455,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.498
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1jn1j7ItzF1TMSytE3R7e3pMC8n91PC0A",
+      "status": 200,
+      "bytes": 1501,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.479
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1yS04XPeYMmEfoZ3OCEP2cFMa5nOEroqd",
+      "status": 200,
+      "bytes": 1547,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.424
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1SWaMCqKFln1cKBl9esuc2fxh6mLbxU0s",
+      "status": 200,
+      "bytes": 1163,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.418
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1K1ZtYkeKFIYrMyJzpZR29NYQl1999v4V",
+      "status": 200,
+      "bytes": 1701,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.548
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1O5rQsG8J0cOEpp0n0WCZFelmvp0zRxa7",
+      "status": 200,
+      "bytes": 2037,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.342
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1dauzB3PpnWs4KkXak8xEE4WNDdOw_ZuU",
+      "status": 200,
+      "bytes": 1569,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.541
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1RaQ3tHuPmPe8_xwXJZIsxuOdZezESoJ1",
+      "status": 200,
+      "bytes": 1353,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.231
+    },
+    {
+      "path": "/uc",
+      "query": "export=download&id=1W9KF9VOQ1UYOLDYZyXoJ4AJuHa5yMQm3",
+      "status": 200,
+      "bytes": 1336,
+      "finalHost": "drive.usercontent.google.com",
+      "seconds": 1.391
+    }
+  ]
+}

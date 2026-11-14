@@ -1,0 +1,2413 @@
+{
+  "schemaVersion": 1,
+  "name": "StorySpot Drive Library",
+  "description": "Arabic stories. English explanations. Visual memory in motion.",
+  "folderUrl": "https://drive.google.com/drive/folders/1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT",
+  "generatedAt": "2026-11-09T16:45:00Z",
+  "source": {
+    "type": "user-supplied-google-drive-folder",
+    "folderId": "1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT",
+    "folderUrl": "https://drive.google.com/drive/folders/1eVNE4gXZUVkd0sP7uvrTa3SvB7k2EHaT",
+    "note": "Mnemonic stories and artwork supplied by the user. Medical claims and literary quotations have not been independently source-verified."
+  },
+  "stories": [
+    {
+      "id": "story-1",
+      "number": 1,
+      "title": "The Breathing Lantern",
+      "subtitle": "A cage that protects and breathes",
+      "topic": "Thoracic cage",
+      "explanationText": "The twelve pairs of arches represent the ribs that protect the lantern. The rear column represents the thoracic vertebrae, and the front plate represents the sternum. The bellows make the chamber expand, linking protection with the changing volume of the thoracic cage during breathing. The red scarf wraps the narrow rib neck between its golden head and its projecting tubercle. Follow those three landmarks to remember the position of the neck of a typical rib.",
+      "image": "https://drive.google.com/uc?export=download&id=1t4fhYYMU4SPl_Iyw1CBDXwbPKZh_S1ZO",
+      "storyText": "في علّية بطرسبورغ، يتساقط السقف فوق مصباح الحياة. تحميه اثنا عشر زوجاً من الأقواس: أضلاعٌ بين عمود خلفي يرمز للفقرات الصدرية وصفيحة أمامية ترمز للقص. يحرّك الشاب المنفاخ، فتتسع الحجرة وتتنفس؛ القفص يحمي ويغيّر حجمه. لكنه يمسك السرّ بوشاح أحمر: ملفوف حول جزء ضيق، بين رأس ذهبي وحديبة بارزة. تذكّر: عنق الضلع النموذجي بين رأسه وحديبته. ويهمس بعبارة وردت في «الأبله» لدوستويفسكي: «الجمال سينقذ العالم». هنا، ينقذ الضوءَ قفصٌ يعرف كيف يتنفس.",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1t4fhYYMU4SPl_Iyw1CBDXwbPKZh_S1ZO",
+        "textId": "1HaCyTojq3Qm9LIvSX0e1x9O56mc-emZ5",
+        "number": 1,
+        "imageSha256": "3bc6aa04f894fd09a30adcb44ab81d3063405244df2cfe9e7170af1334cd872b",
+        "originalName": "1.png",
+        "textOriginalName": "story-image-1.txt",
+        "imageModifiedTime": "2026-11-09T15:03:37.426Z",
+        "textModifiedTime": "2026-11-09T15:03:47.302Z",
+        "storyAudioId": "174xJy7mYwudpuuAuhcJVE-z3gdUu45ZJ",
+        "explanationAudioId": "1z0AzWNW-I1JQtsZ3Nfn06uff3_SlhCEX"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=174xJy7mYwudpuuAuhcJVE-z3gdUu45ZJ",
+      "duration": 51.168,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1z0AzWNW-I1JQtsZ3Nfn06uff3_SlhCEX",
+      "explanationDuration": 29.52,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 5.8158,
+          "x": 0.69,
+          "y": 0.394,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Twelve pairs protect the lantern"
+        },
+        {
+          "time": 5.8158,
+          "end": 16.6053,
+          "x": 0.69,
+          "y": 0.394,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Twelve pairs protect the lantern"
+        },
+        {
+          "time": 16.6053,
+          "end": 24.6579,
+          "x": 0.2,
+          "y": 0.53,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The bellows change the volume"
+        },
+        {
+          "time": 24.6579,
+          "end": 33.8684,
+          "x": 0.416,
+          "y": 0.75,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Neck between head and tubercle"
+        },
+        {
+          "time": 33.8684,
+          "end": 38.9868,
+          "x": 0.416,
+          "y": 0.75,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Neck between head and tubercle"
+        },
+        {
+          "time": 38.9868,
+          "end": 46.1316,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 46.1316,
+          "end": 51.1053,
+          "x": 0.69,
+          "y": 0.394,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Twelve pairs protect the lantern"
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 4.7423,
+          "x": 0.69,
+          "y": 0.394,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Twelve pairs protect the lantern"
+        },
+        {
+          "time": 4.7423,
+          "end": 10.8892,
+          "x": 0.69,
+          "y": 0.394,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Twelve pairs protect the lantern"
+        },
+        {
+          "time": 10.8892,
+          "end": 18.1057,
+          "x": 0.2,
+          "y": 0.53,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The bellows change the volume"
+        },
+        {
+          "time": 18.1057,
+          "end": 24.1881,
+          "x": 0.416,
+          "y": 0.75,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Neck between head and tubercle"
+        },
+        {
+          "time": 24.1881,
+          "end": 29.4459,
+          "x": 0.416,
+          "y": 0.75,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Neck between head and tubercle"
+        }
+      ],
+      "imageAlt": "A lantern protected by twelve brass rib pairs, a working bellows, and a foreground head-neck-tubercle model.",
+      "category": "THORACIC CAGE",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "3bc6aa04f894fd09a30adcb44ab81d3063405244df2cfe9e7170af1334cd872b",
+      "storyAudioSha256": "a8a7832da53e800884011f1f20f56bf9bda69c520d5f185c68c0e97f4dd9e4da",
+      "explanationAudioSha256": "4837ec055031143e32ade0055018875bf272bc7179bd71535c7056aee2af756a",
+      "mcq": {
+        "sourceKey": "No replacement letter assigned.",
+        "sourceExplanation": "the neck of a typical rib lies between its head and tubercle.",
+        "number": 1,
+        "stem": "The bony thorax serves to protect the organs of the chest and facilitate respiration by changing volume. The thorax is comprised of 12 paired ribs connecting the thoracic vertebral bodies with the sternum. Which one of the following statements about thoracic cage is correct?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Each rib has a head that articulates with the same-numbered vertebral spine",
+            "explanation": "The head of a typical rib articulates with vertebral bodies, usually its own numbered vertebra and the one above, rather than a vertebral spine. The wording also fails to account for atypical ribs."
+          },
+          {
+            "label": "B",
+            "text": "Each rib has a tubercle which articulates with the vertebral body",
+            "explanation": "The tubercle of a typical rib articulates with the transverse process of the same-numbered vertebra, not its body. Ribs 11 and 12 lack a typical tubercle."
+          },
+          {
+            "label": "C",
+            "text": "Each rib has a neck that terminates in an anterior articulation.",
+            "explanation": "The neck is posterior, between the rib head and tubercle. It does not terminate in an anterior articulation."
+          },
+          {
+            "label": "D",
+            "text": "Ribs 11-12 have double anterior articulations.",
+            "explanation": "Ribs 11 and 12 are floating ribs with no anterior attachment to the sternum; they do not have double anterior articulations."
+          },
+          {
+            "label": "E",
+            "text": "The superior aspect of each rib has a costal groove containing the neurovascular bundle.",
+            "explanation": "The costal groove lies along the inferior internal border of a typical rib and contains the intercostal vein, artery and nerve, not on its superior aspect."
+          }
+        ],
+        "key": null,
+        "explanation": "No unambiguous correct option is supplied. A typical rib neck lies between its head and tubercle; the source deliberately withholds a replacement key.",
+        "language": "en",
+        "keyNote": "No replacement letter assigned.",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved",
+        "reviewRequired": true,
+        "reviewNote": "Original key is unresolved and all printed options have anatomical errors. Preserve the unassigned key; qualified source correction is required. No valid unambiguous option is established by the supplied source. The original key is withheld; do not choose a replacement letter."
+      },
+      "quote": {
+        "text": "الجمال سينقذ العالم",
+        "start": 38.9868,
+        "end": 46.1316,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-5",
+      "number": 5,
+      "title": "The Isolated Wagon",
+      "subtitle": "A separate airway story",
+      "topic": "Pulmonary sequestration",
+      "explanationText": "The mansion represents the normal lung region, and its branching copper pipes represent the tracheobronchial tree. The separate wooden wagon represents the abnormal sequestered lung segment. The locked gate and chain show that the segment does not communicate with the normal airway tree. Its position outside the mansion encodes the extralobar location. The wagon's own red cloak represents its separate covering of visceral pleura.",
+      "image": "https://drive.google.com/uc?export=download&id=1VyuTe-Ly_Sze7bsvwDBUP0ZYmB-to2bL",
+      "storyText": "في شتاء بطرسبورغ، وقف رجل حزين أمام قصر تتشعّب منه أنابيب كأغصان الشجرة، وتصل إلى غرفه كلها. لكن خلف البوابة المقفلة تقف عربة غريبة، منفصلة عن القصر. حاول الرجل الاقتراب، فمنعته السلسلة والقفل؛ لا ممرّ ولا اتصال. وفوق العربة معطف أحمر مستقل يلفّها وحدها. تذكّر: هذا هو العزل الرئوي، نسيج رئوي غير طبيعي لا يتصل بالشجرة الرغامية القصبية؛ وإذا كان خارج الفص، فله غشاؤه الجنبي الحشوي الخاص. وكما ورد في «الإخوة كارامازوف» لدوستويفسكي: «ما الجحيم؟ إنه عذاب العجز عن الحب». العزلة والمعطف الخاص يقودانك إلى الإجابة E.",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1VyuTe-Ly_Sze7bsvwDBUP0ZYmB-to2bL",
+        "textId": "1-ORxiYNEKYu_Tf0TnqX7ieBGzcCumq89",
+        "number": 5,
+        "imageSha256": "6253b2b93023471cfc9acd719e47c05be43ac5dc6c33be4d97516d5806e1ea3a",
+        "originalName": "5.png",
+        "textOriginalName": "story-image-5.txt",
+        "imageModifiedTime": "2026-11-09T15:17:28.158Z",
+        "textModifiedTime": "2026-11-09T15:17:39.630Z",
+        "storyAudioId": "1Wcgduz2-jWREdcNVM3ZVgEu5B6Ka0iMY",
+        "explanationAudioId": "18ECDyMw-oW_aQD1LXW67DUPbO3Jnnhv8"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1Wcgduz2-jWREdcNVM3ZVgEu5B6Ka0iMY",
+      "duration": 58.128,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=18ECDyMw-oW_aQD1LXW67DUPbO3Jnnhv8",
+      "explanationDuration": 28.056,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 10.7237,
+          "x": 0.215,
+          "y": 0.269,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The branching airway tree"
+        },
+        {
+          "time": 10.7237,
+          "end": 17.6316,
+          "x": 0.72,
+          "y": 0.51,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The separate lung segment"
+        },
+        {
+          "time": 17.6316,
+          "end": 24.5921,
+          "x": 0.365,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": true,
+          "label": "No communication with the airway"
+        },
+        {
+          "time": 24.5921,
+          "end": 29.9342,
+          "x": 0.8,
+          "y": 0.392,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Its own visceral pleura"
+        },
+        {
+          "time": 29.9342,
+          "end": 44.3026,
+          "x": 0.72,
+          "y": 0.51,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The separate lung segment"
+        },
+        {
+          "time": 44.3026,
+          "end": 50.3684,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 50.3684,
+          "end": 53.5263,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 53.5263,
+          "end": 58.0658,
+          "x": 0.8,
+          "y": 0.392,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Its own visceral pleura"
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 7.4227,
+          "x": 0.215,
+          "y": 0.269,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The branching airway tree"
+        },
+        {
+          "time": 7.4227,
+          "end": 12.4742,
+          "x": 0.72,
+          "y": 0.51,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The separate lung segment"
+        },
+        {
+          "time": 12.4742,
+          "end": 18.1314,
+          "x": 0.365,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": true,
+          "label": "No communication with the airway"
+        },
+        {
+          "time": 18.1314,
+          "end": 22.8222,
+          "x": 0.72,
+          "y": 0.51,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The separate lung segment"
+        },
+        {
+          "time": 22.8222,
+          "end": 28.0026,
+          "x": 0.8,
+          "y": 0.392,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Its own visceral pleura"
+        }
+      ],
+      "imageAlt": "A branching-pipe mansion stands behind a chained gate, with a separate red-cloaked wagon outside.",
+      "category": "PULMONARY SEQUESTRATION",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "6253b2b93023471cfc9acd719e47c05be43ac5dc6c33be4d97516d5806e1ea3a",
+      "storyAudioSha256": "4bee082a39bc16dbfe6db1f6bd5470bce4241deb4266319508923f419ff7f537",
+      "explanationAudioSha256": "d9527d89fb8b0807cb856542ca7556e87a5aeea85de8bb85f9b6a00c42041c57",
+      "mcq": {
+        "sourceKey": "E. in an extralobar location has its own visceral pleura.",
+        "sourceExplanation": "",
+        "number": 5,
+        "stem": "Pulmonary sequestration is an abnormal segment of lung tissue that has no communication with the tracheobronchial tree. Pulmonary sequestration",
+        "options": [
+          {
+            "label": "A",
+            "text": "usually receives its arterial blood supply through the hilum.",
+            "explanation": "The defining arterial supply usually comes from the systemic circulation, commonly the thoracic or abdominal aorta, rather than the normal pulmonary arterial route through the hilum."
+          },
+          {
+            "label": "B",
+            "text": "predominantly affects females.",
+            "explanation": "There is no overall female predominance that supports this statement. Extralobar sequestration in particular is more frequent in males."
+          },
+          {
+            "label": "C",
+            "text": "in an extralobar location is the predominant pathology.",
+            "explanation": "Intralobar sequestration is more common than extralobar sequestration."
+          },
+          {
+            "label": "D",
+            "text": "venous return is usually in systemic venous system.",
+            "explanation": "Intralobar sequestration, the commoner form, usually drains through pulmonary veins. Systemic venous drainage is more characteristic of extralobar sequestration."
+          },
+          {
+            "label": "E",
+            "text": "in an extralobar location has its own visceral pleura.",
+            "explanation": "A separate visceral pleural investment distinguishes the extralobar form and makes this the correct option."
+          }
+        ],
+        "key": "E",
+        "explanation": "Extralobar sequestration has its own pleural covering, whereas intralobar sequestration shares the pleura of the surrounding lobe.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved"
+      },
+      "quote": {
+        "text": "ما الجحيم؟ إنه عذاب العجز عن الحب",
+        "start": 44.3026,
+        "end": 53.5263,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-7-clamp",
+      "number": 7,
+      "title": "The TOS Clamp",
+      "subtitle": "Three cables, one tight passage",
+      "topic": "Thoracic outlet syndrome",
+      "explanationText": "The rusted clamp marked TOS represents compression at the thoracic outlet. The yellow cable represents neural elements, while the red and blue cables represent vascular elements. Tightening the clamp disturbs all three cables, linking the compression to a constellation of symptoms. The sparks and distressed figure reinforce that shared cause without naming individual symptoms. The hourglass marked twenty to forty is the supplied mnemonic for the more common age group.",
+      "image": "https://drive.google.com/uc?export=download&id=1WizEirRSrcLTzlX0K_0SXip9oA9bQdIb",
+      "storyText": "في زقاق بطرسبورغ البارد، يجلس شاب في الثلاثين وقد أمسك به مِكبسٌ حديديّ يحمل اسم TOS. تحته انحشرت ثلاثة حبال: الأصفر يرمز للأعصاب، والأحمر والأزرق للأوعية الدموية. كلما اشتدّ الضغط عند مخرج الصدر، اضطربت الحبال وظهرت آثارٌ متعددة؛ فالمتلازمة مجموعة أعراض سببها انضغاط عناصر عصبية ووعائية، لا عرض واحد. وبجواره ساعة رملية تحمل 20–40، لتذكّرك بالعمر الأكثر شيوعًا. وكما قال دوستويفسكي: «الإنسان لغز، ولا بدّ من فكّه». وهنا مفتاح اللغز: الضغط عند المخرج.",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1WizEirRSrcLTzlX0K_0SXip9oA9bQdIb",
+        "textId": "1jn1j7ItzF1TMSytE3R7e3pMC8n91PC0A",
+        "number": 7,
+        "imageSha256": "618b68ec69ad21ce943bcfeb1b38f5e2a6f1e30c6f5d0e20b693cfa91d67addf",
+        "originalName": "7.png",
+        "textOriginalName": "story-image-7.txt",
+        "imageModifiedTime": "2026-11-09T15:19:09.123Z",
+        "textModifiedTime": "2026-11-09T15:19:17.888Z",
+        "storyAudioId": "1BaBFATVEOICzmYs24iwQz2YK-IapWqEn",
+        "explanationAudioId": "1enUoDwBcj1OQ15vyohxVxAUsIAHjqevg"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1BaBFATVEOICzmYs24iwQz2YK-IapWqEn",
+      "duration": 50.544,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1enUoDwBcj1OQ15vyohxVxAUsIAHjqevg",
+      "explanationDuration": 31.608,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 9.3289,
+          "x": 0.245,
+          "y": 0.448,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        },
+        {
+          "time": 9.3289,
+          "end": 18.0,
+          "x": 0.305,
+          "y": 0.51,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Red and blue: vascular elements"
+        },
+        {
+          "time": 18.0,
+          "end": 32.2763,
+          "x": 0.306,
+          "y": 0.723,
+          "zoom": 1,
+          "pointer": true,
+          "label": "One compression, multiple symptoms"
+        },
+        {
+          "time": 32.2763,
+          "end": 40.2237,
+          "x": 0.855,
+          "y": 0.416,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The twenty-to-forty age cue"
+        },
+        {
+          "time": 40.2237,
+          "end": 46.2105,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 46.2105,
+          "end": 50.4868,
+          "x": 0.245,
+          "y": 0.448,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 5.5283,
+          "x": 0.245,
+          "y": 0.448,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        },
+        {
+          "time": 5.5283,
+          "end": 12.616,
+          "x": 0.305,
+          "y": 0.51,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Red and blue: vascular elements"
+        },
+        {
+          "time": 12.616,
+          "end": 19.3557,
+          "x": 0.245,
+          "y": 0.448,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        },
+        {
+          "time": 19.3557,
+          "end": 25.6443,
+          "x": 0.306,
+          "y": 0.723,
+          "zoom": 1,
+          "pointer": true,
+          "label": "One compression, multiple symptoms"
+        },
+        {
+          "time": 25.6443,
+          "end": 31.5335,
+          "x": 0.855,
+          "y": 0.416,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The twenty-to-forty age cue"
+        }
+      ],
+      "imageAlt": "A TOS screw clamp compresses colored cables at a young man’s shoulder, with a twenty-to-forty hourglass.",
+      "category": "THORACIC OUTLET SYNDROME",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "618b68ec69ad21ce943bcfeb1b38f5e2a6f1e30c6f5d0e20b693cfa91d67addf",
+      "storyAudioSha256": "3f4d93ea94812647893ea9c6082fed040a717dabafe62a5aef2ede8d6ab6567d",
+      "explanationAudioSha256": "de84cd1dbb05f334437fcb560d242c3e48281a6156952ce83f54a857f45d8cde",
+      "mcq": {
+        "sourceKey": "C. is more common in patients 20 to 40 years of age.",
+        "sourceExplanation": "",
+        "number": 7,
+        "stem": "Thoracic outlet syndrome (TOS) is defined as a constellation of symptoms related to compression of the neurovascular elements found in the thoracic outlet. TOS",
+        "options": [
+          {
+            "label": "A",
+            "text": "has 4 types.",
+            "explanation": "The usual broad classification has neurogenic, venous and arterial forms. Some schemes subdivide neurogenic disease further, so a count of four cannot be judged without naming the scheme."
+          },
+          {
+            "label": "B",
+            "text": "in 90% of all cases progresses to Paget-Schroetter syndrome.",
+            "explanation": "Paget–Schroetter syndrome is effort thrombosis of the axillary-subclavian vein and is associated with venous TOS. It is not the outcome of 90% of all TOS cases."
+          },
+          {
+            "label": "C",
+            "text": "is more common in patients 20 to 40 years of age.",
+            "explanation": "This is the preserved correct statement: symptomatic TOS is commonly encountered in adults in this age range."
+          },
+          {
+            "label": "D",
+            "text": "is more common in men than women.",
+            "explanation": "Neurogenic TOS is generally reported more often in women, so an overall male predominance is not a sound generalization."
+          },
+          {
+            "label": "E",
+            "text": "symptoms are elicited by Allen test.",
+            "explanation": "The standard Allen test assesses hand collateral arterial circulation. A modified Allen maneuver is also described among TOS provocative tests, but no such maneuver alone establishes the diagnosis."
+          }
+        ],
+        "key": "C",
+        "explanation": "TOS commonly affects young and middle-aged adults, including the 20–40-year range. Compression may involve the brachial plexus, subclavian vein or subclavian artery.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved",
+        "reviewRequired": true,
+        "reviewNote": "Classification counts vary, and modified Allen maneuvers can be used in TOS assessment. Key C is retained, but A and E need clearer wording before being treated as unequivocally false. C is the supplied key, but “Allen test” is ambiguous: a thoracic-outlet Allen maneuver is described in addition to the standard hand-circulation Allen test. E should not be categorically narrated as false without defining the maneuver."
+      },
+      "quote": {
+        "text": "الإنسان لغز، ولا بدّ من فكّه",
+        "start": 40.2237,
+        "end": 46.2105,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-7-gate",
+      "number": 7,
+      "title": "The Crowded Passage",
+      "subtitle": "Neurovascular structures under pressure",
+      "topic": "Thoracic outlet syndrome",
+      "explanationText": "The tight straps around the illustrated outlet represent compression at the thoracic outlet. The yellow branching strand represents neural elements, while the red and blue vessels represent vascular elements. The enlarged inset marked TOS repeats the compressed bundle to focus attention on its location. The distressed figure and radiating sparks link this shared compression to a constellation of symptoms. The hourglass marked twenty to forty encodes the more common age group in the supplied mnemonic.",
+      "image": "https://drive.google.com/uc?export=download&id=1OqjYAfSzLqbqYN4hPpb-dsEcxLmlkAdJ",
+      "storyText": "في سانت بطرسبورغ القديمة، أُغلقت بوابةٌ حديدية على ثلاثة مسارات تعبر ممرًّا ضيقًا: سلكٌ ذهبي ينقل الإشارات، وأنبوبٌ أحمر وآخر أزرق ينقلان السائل. ومع كل ضغطة، تضطرب الإشارات، وتومض مصابيح الحيّ بأشكال مختلفة؛ أعراضٌ متعددة، وسببٌ واحد. يزدحم هذا الممرّ خصوصًا بعابرين أعمارهم بين العشرين والأربعين. تذكّر: هذه متلازمة مخرج الصدر، وهي مجموعة أعراض مرتبطة بانضغاط العناصر العصبية والوعائية في المخرج الصدري. وكما كتب دوستويفسكي: «الإنسان لغز، ويجب فكّ هذا اللغز».",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1OqjYAfSzLqbqYN4hPpb-dsEcxLmlkAdJ",
+        "textId": "17he5sCdp3aBGKX-plRvS-9V6xVQPhvc-",
+        "number": 7,
+        "imageSha256": "5e00213699c3a218c4afef1ca477a95c6ae57c3846c8da7dc975b4bed4ba6dee",
+        "originalName": "7.png",
+        "textOriginalName": "story-image-7.txt",
+        "imageModifiedTime": "2026-11-09T15:19:28.128Z",
+        "textModifiedTime": "2026-11-09T15:19:39.338Z",
+        "storyAudioId": "1ZvLY8Aw4KLnb5kWnvljp7fiq9Rqydru-",
+        "explanationAudioId": "1V2HBzx2DQz0f2ssscIwXuVYRfm4ACkTj"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1ZvLY8Aw4KLnb5kWnvljp7fiq9Rqydru-",
+      "duration": 50.04,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1V2HBzx2DQz0f2ssscIwXuVYRfm4ACkTj",
+      "explanationDuration": 33.12,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 15.3816,
+          "x": 0.692,
+          "y": 0.431,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        },
+        {
+          "time": 15.3816,
+          "end": 25.8553,
+          "x": 0.595,
+          "y": 0.437,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Yellow: neural elements"
+        },
+        {
+          "time": 25.8553,
+          "end": 32.1711,
+          "x": 0.708,
+          "y": 0.754,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The twenty-to-forty age cue"
+        },
+        {
+          "time": 32.1711,
+          "end": 43.3158,
+          "x": 0.785,
+          "y": 0.146,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The same compression in the inset"
+        },
+        {
+          "time": 43.3158,
+          "end": 49.9737,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 6.0438,
+          "x": 0.692,
+          "y": 0.431,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        },
+        {
+          "time": 6.0438,
+          "end": 13.6598,
+          "x": 0.595,
+          "y": 0.437,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Yellow: neural elements"
+        },
+        {
+          "time": 13.6598,
+          "end": 20.3995,
+          "x": 0.785,
+          "y": 0.146,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The same compression in the inset"
+        },
+        {
+          "time": 20.3995,
+          "end": 26.8557,
+          "x": 0.692,
+          "y": 0.431,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Compression at the thoracic outlet"
+        },
+        {
+          "time": 26.8557,
+          "end": 33.0412,
+          "x": 0.708,
+          "y": 0.754,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The twenty-to-forty age cue"
+        }
+      ],
+      "imageAlt": "A compressed neurovascular bundle on the upper chest is repeated in a TOS anatomy inset, beside a twenty-to-forty hourglass.",
+      "category": "THORACIC OUTLET SYNDROME",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "5e00213699c3a218c4afef1ca477a95c6ae57c3846c8da7dc975b4bed4ba6dee",
+      "storyAudioSha256": "290e5a4e7767ca52ffe6a638f2697edd10d736b7edbbe482552f46d25d75731a",
+      "explanationAudioSha256": "910783ae16ee767710f07c397cc1f0489025ab01da75aaaf67027eecdbcdf910",
+      "mcq": {
+        "sourceKey": "C. is more common in patients 20 to 40 years of age.",
+        "sourceExplanation": "",
+        "number": 7,
+        "stem": "Thoracic outlet syndrome (TOS) is defined as a constellation of symptoms related to compression of the neurovascular elements found in the thoracic outlet. TOS",
+        "options": [
+          {
+            "label": "A",
+            "text": "has 4 types.",
+            "explanation": "The usual broad classification has neurogenic, venous and arterial forms. Some schemes subdivide neurogenic disease further, so a count of four cannot be judged without naming the scheme."
+          },
+          {
+            "label": "B",
+            "text": "in 90% of all cases progresses to Paget-Schroetter syndrome.",
+            "explanation": "Paget–Schroetter syndrome is effort thrombosis of the axillary-subclavian vein and is associated with venous TOS. It is not the outcome of 90% of all TOS cases."
+          },
+          {
+            "label": "C",
+            "text": "is more common in patients 20 to 40 years of age.",
+            "explanation": "This is the preserved correct statement: symptomatic TOS is commonly encountered in adults in this age range."
+          },
+          {
+            "label": "D",
+            "text": "is more common in men than women.",
+            "explanation": "Neurogenic TOS is generally reported more often in women, so an overall male predominance is not a sound generalization."
+          },
+          {
+            "label": "E",
+            "text": "symptoms are elicited by Allen test.",
+            "explanation": "The standard Allen test assesses hand collateral arterial circulation. A modified Allen maneuver is also described among TOS provocative tests, but no such maneuver alone establishes the diagnosis."
+          }
+        ],
+        "key": "C",
+        "explanation": "TOS commonly affects young and middle-aged adults, including the 20–40-year range. Compression may involve the brachial plexus, subclavian vein or subclavian artery.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved",
+        "reviewRequired": true,
+        "reviewNote": "Classification counts vary, and modified Allen maneuvers can be used in TOS assessment. Key C is retained, but A and E need clearer wording before being treated as unequivocally false. C is the supplied key, but “Allen test” is ambiguous: a thoracic-outlet Allen maneuver is described in addition to the standard hand-circulation Allen test. E should not be categorically narrated as false without defining the maneuver."
+      },
+      "quote": {
+        "text": "الإنسان لغز، ويجب فكّ هذا اللغز",
+        "start": 43.3158,
+        "end": 49.9737,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-9",
+      "number": 9,
+      "title": "The Smooth Stone",
+      "subtitle": "A clue in the lower third",
+      "topic": "Oesophageal leiomyoma",
+      "explanationText": "The brass chimney represents the oesophagus, and the smooth ivory stone represents a benign leiomyoma. The stone sits in a cradle in the lower third, beside a sixty percent marker. This encodes the supplied fact that about sixty percent are in the distal third. The scale marked more than fifty percent and the dominant porcelain group encode leiomyoma as the most common benign oesophageal tumour. The student's crank moves the stone through an unharmed pipe, reinforcing the benign behaviour shown in the story.",
+      "image": "https://drive.google.com/uc?export=download&id=1EzY4-Ad8l52gclO2WT549U-z_Fpz9_oK",
+      "storyText": "في غرفة بطرسبورغ شتوية، يدير طالبٌ مقبضًا نحاسيًا فيهبط حجرٌ عاجي أملس داخل مدخنة طويلة، من دون أن يكسرها أو يؤذيها. يتوقف الحجر في السُلث السفلي، حيث يحتضنه مهدٌ نحاسي مكتوب عليه 60%. بجانب المدخنة تميل كفّة ميزان نحو مجموعة من التماثيل الخزفية، وأكثر من نصفها متجمّع في الجهة نفسها، وتحتها علامة 50%+. تذكّر الصورة أن الورم العضلي الأملس هو أشيع ورم حميد في المريء، وأن أكثر من نصف الأورام الحميدة من هذا النوع، وأن نحو 60% منه يقع في الثلث البعيد.\n\n«سرّ الوجود الإنساني لا يكمن في البقاء حيًّا فحسب، بل في العثور على شيء نعيش من أجله.» — فيودور دوستويفسكي",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1EzY4-Ad8l52gclO2WT549U-z_Fpz9_oK",
+        "textId": "1yS04XPeYMmEfoZ3OCEP2cFMa5nOEroqd",
+        "number": 9,
+        "imageSha256": "ede8905a04ebc5da92abdac760984cd9e01d015fae928d4fc9634c996dcc0b76",
+        "originalName": "9.png",
+        "textOriginalName": "story-image-9.txt",
+        "imageModifiedTime": "2026-11-09T15:21:26.653Z",
+        "textModifiedTime": "2026-11-09T15:22:26.731Z",
+        "storyAudioId": "1MqPd6KfIeLobwVO6-4XTbd7KakgE-cKx",
+        "explanationAudioId": "1qqArzWglw40Ys_HiWTdr_-ki9qpWgZjx"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1MqPd6KfIeLobwVO6-4XTbd7KakgE-cKx",
+      "duration": 58.584,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1qqArzWglw40Ys_HiWTdr_-ki9qpWgZjx",
+      "explanationDuration": 33.6,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 12.6974,
+          "x": 0.545,
+          "y": 0.21,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The chimney represents the oesophagus"
+        },
+        {
+          "time": 12.6974,
+          "end": 20.75,
+          "x": 0.55,
+          "y": 0.482,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Sixty percent in the lower third"
+        },
+        {
+          "time": 20.75,
+          "end": 34.3289,
+          "x": 0.71,
+          "y": 0.625,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The dominant benign tumour group"
+        },
+        {
+          "time": 34.3289,
+          "end": 48.1842,
+          "x": 0.37,
+          "y": 0.764,
+          "zoom": 1,
+          "pointer": true,
+          "label": "More than fifty percent"
+        },
+        {
+          "time": 48.1842,
+          "end": 55.9868,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 55.9868,
+          "end": 58.5263,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 7.2938,
+          "x": 0.545,
+          "y": 0.21,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The chimney represents the oesophagus"
+        },
+        {
+          "time": 7.2938,
+          "end": 12.5902,
+          "x": 0.55,
+          "y": 0.482,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Sixty percent in the lower third"
+        },
+        {
+          "time": 12.5902,
+          "end": 17.8995,
+          "x": 0.55,
+          "y": 0.482,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Sixty percent in the lower third"
+        },
+        {
+          "time": 17.8995,
+          "end": 26.4304,
+          "x": 0.71,
+          "y": 0.625,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The dominant benign tumour group"
+        },
+        {
+          "time": 26.4304,
+          "end": 33.5309,
+          "x": 0.545,
+          "y": 0.21,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The chimney represents the oesophagus"
+        }
+      ],
+      "imageAlt": "A smooth ivory sphere reaches a sixty-percent cradle in a brass chimney; a fifty-percent-plus balance holds porcelain figures.",
+      "category": "OESOPHAGEAL LEIOMYOMA",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "ede8905a04ebc5da92abdac760984cd9e01d015fae928d4fc9634c996dcc0b76",
+      "storyAudioSha256": "b5a41a2195e6f74d358c17115ea110947b991924b1d884eef55a71c8cf3d5298",
+      "explanationAudioSha256": "21c277af693c9a4501b8fddbc88cc6bea84a3290456f2ca3cde477061cfb20c3",
+      "mcq": {
+        "sourceKey": "B. About 60% of these tumours are located in the distal third of the oesophagus.",
+        "sourceExplanation": "",
+        "number": 9,
+        "stem": "Oesophageal leiomyoma is the most common benign oesophageal tumour, accounting for more than 50% of all such tumours. Which one of the following statements correctly describes oesophageal leiomyoma?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Histopathologically, it consists of intersecting bands of muscle and fibrous tissue without a well-defined capsule.",
+            "explanation": "Leiomyomas are well-circumscribed smooth-muscle tumors, usually with a capsule or pseudocapsule. Lack of a well-defined boundary is not their usual description."
+          },
+          {
+            "label": "B",
+            "text": "About 60% of these tumours are located in the distal third of the oesophagus.",
+            "explanation": "The distal-third predominance described here is the intended correct statement."
+          },
+          {
+            "label": "C",
+            "text": "Patients with these tumours are usually symptomatic.",
+            "explanation": "Most small esophageal leiomyomas are asymptomatic; larger lesions may cause dysphagia or other pressure symptoms."
+          },
+          {
+            "label": "D",
+            "text": "Oesophageal leiomyomas commonly ulcerate.",
+            "explanation": "The overlying mucosa is usually intact, and ulceration is uncommon."
+          },
+          {
+            "label": "E",
+            "text": "Oesophageal leiomyomatosis is sometimes associated with Kartagener‟s syndrome.",
+            "explanation": "Diffuse esophageal leiomyomatosis is classically associated with Alport syndrome, not Kartagener syndrome."
+          }
+        ],
+        "key": "B",
+        "explanation": "Leiomyomas favor the distal esophagus, where smooth muscle predominates. The source uses approximately 60% in the distal third.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved"
+      },
+      "quote": {
+        "text": "سرّ الوجود الإنساني لا يكمن في البقاء حيًّا فحسب، بل في العثور على شيء نعيش من أجله.",
+        "start": 48.1842,
+        "end": 55.9868,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-10",
+      "number": 10,
+      "title": "Weighing the Evidence",
+      "subtitle": "Why the larger squares matter",
+      "topic": "Forest plots",
+      "explanationText": "The snowy forest represents a forest plot, and each glowing square lantern represents one study. The area of a square represents that study's weight in the meta-analysis. The larger squares pull harder on their ropes to make this weighting memorable. All ropes meet at one shared balance, representing the combination of studies. Its tilt toward the larger squares reminds you that those studies carry greater weight.",
+      "image": "https://drive.google.com/uc?export=download&id=1M6_-YXjRAlJAJno3QSNDTwWcNV5plsJ3",
+      "storyText": "في غابة ثلجية صامتة، تتدلّى مربعات مضيئة كأن كل واحد منها دراسة تبحث عن مكانها بين الأشجار. المربع الأكبر يشد حبله بقوة، فيهبط كفّة الميزان؛ والمربعات الأصغر ترفع حبالها بخفة. تتجمع كل الحبال في حلقة واحدة، ثم تستقر الكفّة ناحية المربعات الأكبر: هكذا نتذكر أن مساحة مربع كل دراسة تمثل وزنها في التحليل التلوي، وأن الغابة كلها هي forest plot. وكما قال دوستويفسكي: «الجمال سينقذ العالم»؛ هنا ينقذنا جمال الصورة من نسيان معنى الوزن.",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1M6_-YXjRAlJAJno3QSNDTwWcNV5plsJ3",
+        "textId": "1SWaMCqKFln1cKBl9esuc2fxh6mLbxU0s",
+        "number": 10,
+        "imageSha256": "a5ce130c82a08bc0c1e5639fac7782b6a933d64d5be28f8a31c1843e16e42368",
+        "originalName": "10.png",
+        "textOriginalName": "story-10.txt",
+        "imageModifiedTime": "2026-11-09T15:23:06.301Z",
+        "textModifiedTime": "2026-11-09T15:23:13.981Z",
+        "storyAudioId": "1t4vmn7TY9yxyyOhdKCEH6rGM0FsFqUEu",
+        "explanationAudioId": "1c2mj2eLSvWhn6djLUtzNNpj8H5MWgtge"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1t4vmn7TY9yxyyOhdKCEH6rGM0FsFqUEu",
+      "duration": 45.36,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1c2mj2eLSvWhn6djLUtzNNpj8H5MWgtge",
+      "explanationDuration": 27.744,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 9.9737,
+          "x": 0.177,
+          "y": 0.287,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A larger square carries more weight"
+        },
+        {
+          "time": 9.9737,
+          "end": 19.4737,
+          "x": 0.177,
+          "y": 0.287,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A larger square carries more weight"
+        },
+        {
+          "time": 19.4737,
+          "end": 36.3553,
+          "x": 0.55,
+          "y": 0.578,
+          "zoom": 1,
+          "pointer": true,
+          "label": "All studies meet at one balance"
+        },
+        {
+          "time": 36.3553,
+          "end": 45.2763,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 6.9201,
+          "x": 0.177,
+          "y": 0.287,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A larger square carries more weight"
+        },
+        {
+          "time": 6.9201,
+          "end": 11.8428,
+          "x": 0.177,
+          "y": 0.287,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A larger square carries more weight"
+        },
+        {
+          "time": 11.8428,
+          "end": 16.701,
+          "x": 0.177,
+          "y": 0.287,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A larger square carries more weight"
+        },
+        {
+          "time": 16.701,
+          "end": 22.2423,
+          "x": 0.55,
+          "y": 0.578,
+          "zoom": 1,
+          "pointer": true,
+          "label": "All studies meet at one balance"
+        },
+        {
+          "time": 22.2423,
+          "end": 27.6804,
+          "x": 0.259,
+          "y": 0.845,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The balance tilts toward larger studies"
+        }
+      ],
+      "imageAlt": "Square lanterns of different areas pull ropes into one balance, with the large-lantern pan lower.",
+      "category": "FOREST PLOTS",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "a5ce130c82a08bc0c1e5639fac7782b6a933d64d5be28f8a31c1843e16e42368",
+      "storyAudioSha256": "7dd0bbe936fc56246514c13566d4034dc70b156b47ae1f25e6945aa53d019fb9",
+      "explanationAudioSha256": "ddb2d63de766c44a2cfdf616177276e6288d60701b34de22df4630b978ad6a37",
+      "mcq": {
+        "sourceKey": "B. the study's weight in the meta-analysis.",
+        "sourceExplanation": "",
+        "number": 10,
+        "stem": "In the forest plot shown below the area of each square is proportional to",
+        "options": [
+          {
+            "label": "A",
+            "text": "overall meta-analysed measure of effect.",
+            "explanation": "The overall pooled effect is represented by the diamond’s position, rather than by individual square areas."
+          },
+          {
+            "label": "B",
+            "text": "the study's weight in the meta-analysis.",
+            "explanation": "This is the standard convention: a more heavily weighted study receives a larger square, commonly reflecting greater precision."
+          },
+          {
+            "label": "C",
+            "text": "the size of the diamond.",
+            "explanation": "The diamond summarizes the pooled estimate and its confidence interval; its size does not set each study’s square area."
+          },
+          {
+            "label": "D",
+            "text": "the number of studies in the meta-analysis.",
+            "explanation": "The number of studies is reflected by the number of study entries, not by each square’s area."
+          },
+          {
+            "label": "E",
+            "text": "study duration.",
+            "explanation": "Study duration may affect results, but it is not what square area conventionally encodes."
+          }
+        ],
+        "key": "B",
+        "explanation": "In a conventional forest plot, the square represents a study estimate and its area reflects that study’s statistical weight. The pooled estimate is usually drawn as a diamond.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved"
+      },
+      "quote": {
+        "text": "الجمال سينقذ العالم",
+        "start": 36.3553,
+        "end": 45.2763,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-11",
+      "number": 11,
+      "title": "Turning Back the Tide",
+      "subtitle": "Drainage, relief, and a trial comparison",
+      "topic": "Pleural effusion and MARS",
+      "explanationText": "The black water represents malignant pleural effusion, and the bucket represents drainage. The brass plug and sealed bucket represent preventing the fluid from returning. The clearing window and cooling red clasp encode relief of breathlessness and chest pain. The iron gate represents extrapleural pneumonectomy, abbreviated EPP. The balanced MARS scale shows the trial comparison of EPP with no EPP. The crossed-out P D versus EPP sign reinforces that this was not a randomized comparison of pleurectomy and decortication against EPP.",
+      "image": "https://drive.google.com/uc?export=download&id=1T5qoSq4yoZOA4ug-bhL122eYOjGyp_5x",
+      "storyText": "في غرفة بطرسبورغ باردة، يغرق المريض في ماء أسود يتسرّب من غرفةٍ حديدية؛ ذلك هو الانصباب الجنبي الخبيث. تمسكه عروة حمراء ملتهبة عند صدره، فيتألم ويكافح لالتقاط النفس. تأتي امرأة رحيمة، فتغرف الماء بالدلو ثم تدقّ سدادةً نحاسية في الشقّ، فيتوقف رجوعه؛ هذه هي المعالجة التلطيفية: إزالة الانصباب ومنع عودته لتخفيف ضيق النفس وألم الصدر. وعلى الطاولة يزن الطبيب خيارين متساويين في سجل MARS: إزالة البوابة الحديدية كجراحة جذرية، أو تركها بلا إزالة؛ EPP مقابل NO EPP. أما لافتة P/D vs EPP فممهورة بالشمع الأحمر لأنها ليست المقارنة العشوائية الصحيحة. ومع انحسار الماء يصفو زجاج النافذة ويبرد القفل الأحمر.\n\n«أحيانًا يحبّ الإنسان حتى المعاناة…» — فيودور دوستويفسكي، ملاحظات من تحت الأرض.",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1T5qoSq4yoZOA4ug-bhL122eYOjGyp_5x",
+        "textId": "1K1ZtYkeKFIYrMyJzpZR29NYQl1999v4V",
+        "number": 11,
+        "imageSha256": "26918c02b6688da55117b96f0fb102828364b741bb3889a89c861caf23dc3e65",
+        "originalName": "11.png",
+        "textOriginalName": "story-11.txt",
+        "imageModifiedTime": "2026-11-09T15:26:44.107Z",
+        "textModifiedTime": "2026-11-09T15:26:33.873Z",
+        "storyAudioId": "15wHE4w-euzBCz19A08UKoIF2Z1hE-UAe",
+        "explanationAudioId": "1vN9qCYxTfp7UlYTVe426vILaiq1iIMq3"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=15wHE4w-euzBCz19A08UKoIF2Z1hE-UAe",
+      "duration": 69.648,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1vN9qCYxTfp7UlYTVe426vILaiq1iIMq3",
+      "explanationDuration": 37.968,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 10.5658,
+          "x": 0.41,
+          "y": 0.622,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Drain the pleural fluid"
+        },
+        {
+          "time": 10.5658,
+          "end": 17.8947,
+          "x": 0.733,
+          "y": 0.347,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Relief of breathlessness and chest pain"
+        },
+        {
+          "time": 17.8947,
+          "end": 34.6974,
+          "x": 0.545,
+          "y": 0.431,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Seal the leak to prevent recurrence"
+        },
+        {
+          "time": 34.6974,
+          "end": 47.4737,
+          "x": 0.573,
+          "y": 0.841,
+          "zoom": 1,
+          "pointer": true,
+          "label": "MARS: EPP versus no EPP"
+        },
+        {
+          "time": 47.4737,
+          "end": 56.4342,
+          "x": 0.214,
+          "y": 0.08,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The crossed-out P D versus EPP sign"
+        },
+        {
+          "time": 56.4342,
+          "end": 62.0658,
+          "x": 0.733,
+          "y": 0.347,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Relief of breathlessness and chest pain"
+        },
+        {
+          "time": 62.0658,
+          "end": 69.5789,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 6.0954,
+          "x": 0.41,
+          "y": 0.622,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Drain the pleural fluid"
+        },
+        {
+          "time": 6.0954,
+          "end": 11.1985,
+          "x": 0.545,
+          "y": 0.431,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Seal the leak to prevent recurrence"
+        },
+        {
+          "time": 11.1985,
+          "end": 17.0361,
+          "x": 0.733,
+          "y": 0.347,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Relief of breathlessness and chest pain"
+        },
+        {
+          "time": 17.0361,
+          "end": 22.6031,
+          "x": 0.573,
+          "y": 0.841,
+          "zoom": 1,
+          "pointer": true,
+          "label": "MARS: EPP versus no EPP"
+        },
+        {
+          "time": 22.6031,
+          "end": 28.2861,
+          "x": 0.573,
+          "y": 0.841,
+          "zoom": 1,
+          "pointer": true,
+          "label": "MARS: EPP versus no EPP"
+        },
+        {
+          "time": 28.2861,
+          "end": 37.8995,
+          "x": 0.214,
+          "y": 0.08,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The crossed-out P D versus EPP sign"
+        }
+      ],
+      "imageAlt": "Black water is drained and a brass leak is sealed; a red chest clasp, MARS balance, and crossed-out trial sign are visible.",
+      "category": "PLEURAL EFFUSION AND MARS",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "26918c02b6688da55117b96f0fb102828364b741bb3889a89c861caf23dc3e65",
+      "storyAudioSha256": "bbf7452a719b05392afff34c6a459c6a6d631afb460ed766856ccb69280e084e",
+      "explanationAudioSha256": "739976c737108e3a2a6853c02b179397945043c55dcbb6a5cbf1c0c7ec2fee59",
+      "mcq": {
+        "sourceKey": "No replacement letter assigned.",
+        "sourceExplanation": "MARS randomized extrapleural pneumonectomy versus no extrapleural pneumonectomy, not pleurectomy/decortication versus extrapleural pneumonectomy.",
+        "number": 11,
+        "stem": "Treatment of malignant pleural mesothelioma (MPM) can be classified into radical procedures such as surgery and palliative measures which involve the removal of pleural effusions and prevention of their recurrence in order to relieve the symptoms such as dyspnoea and chest pain. Which one of the following statements regarding treatment of MPM is correct?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Radical procedures have a better prognosis.",
+            "explanation": "A survival advantage from radical surgery cannot be asserted for all patients. Selection bias and randomized evidence make this blanket statement unreliable."
+          },
+          {
+            "label": "B",
+            "text": "There is strong evidence of survival benefit with radical radiotherapy of the hemithorax when compared to best supportive care.",
+            "explanation": "Radical hemithoracic radiotherapy alone has not established the broad survival advantage over supportive care claimed here, and it can cause substantial toxicity."
+          },
+          {
+            "label": "C",
+            "text": "According to Mesothelioma and Radical Surgery (MARS) trial, MPM patients treated with pleurectomy/decortication had an equal to better outcome than those treated with extrapleural pneumonectomy.",
+            "explanation": "This is not the randomized comparison in the original MARS feasibility trial. It must not be cited as proof that pleurectomy/decortication outperformed extrapleural pneumonectomy in that trial."
+          },
+          {
+            "label": "D",
+            "text": "Chemotherapy in MPM patients given as single agent treatment has shown improved response rates and survival compared to combination of drugs.",
+            "explanation": "Historically, combination platinum-pemetrexed chemotherapy showed better outcomes than single-agent cisplatin. The statement reverses that comparison."
+          },
+          {
+            "label": "E",
+            "text": "Immunotherapy has shown favourable results in clinical trials.",
+            "explanation": "This statement is supported by modern immunotherapy trials in appropriate patients. Because it is time-dependent and the source withholds a replacement key, it should not be silently assigned as a new answer."
+          }
+        ],
+        "key": null,
+        "explanation": "The original key is unresolved because the printed MARS comparison is misstated. MARS studied extrapleural pneumonectomy versus no extrapleural pneumonectomy; contemporary mesothelioma treatment also includes immunotherapy supported by later trials.",
+        "language": "en",
+        "keyNote": "No replacement letter assigned.",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved",
+        "reviewRequired": true,
+        "reviewNote": "Original key is unresolved; C misstates the MARS trial and E is supported by later immunotherapy evidence. Preserve the unassigned key and review the question’s intended era. The source withholds a replacement key because the MARS comparison in C is misstated. Do not silently substitute another answer. Option E also has a different status in the current treatment era."
+      },
+      "quote": {
+        "text": "أحيانًا يحبّ الإنسان حتى المعاناة…",
+        "start": 62.0658,
+        "end": 69.5789,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-12",
+      "number": 12,
+      "title": "The Silver Knot",
+      "subtitle": "One knot and an uncertain path",
+      "topic": "Solitary fibrous tumour",
+      "explanationText": "The single silver knot between two coat linings represents a rare solitary fibrous tumour of the pleura. The two linings act as a metaphor for the pleural layers. The branching fibres and changing shape under the magnifying glass represent histological and morphological characteristics. The crank, moving wheel, and marble maze link those characteristics to an unpredictable clinical course. The clocks at six and seven encode the peak incidence in the sixth and seventh decades of life.",
+      "image": "https://drive.google.com/uc?export=download&id=105aNXGQGpAT_dxv-J-kfkAhW-Dw2cD64",
+      "storyText": "في غرفةٍ قديمة من بطرسبورغ الثلجية، وقف شيخٌ وحيد أمام معطفٍ ضخم تتدلّى منه بطانتان، وبينهما عقدةٌ فضية واحدة، كأنها ضيف نادر اختبأ في شقّ ضيّق. أدار الشيخ مقبضًا نحاسيًا، فالتوت ألياف العقدة وتبدّل شكلها تحت العدسة المكبّرة. عندها شدّت الخيوط الملوّنة عجلةً صغيرة، فدارت بلا اتجاه ثابت، ثم دفعت الكرات في متاهةٍ متعرّجة؛ هكذا يصبح المسار السريري غير متوقّع، لأن النسيج والشكل يغيّران الحركة. وفوق المشهد ساعتان: إحداهما عند السادسة والأخرى عند السابعة، وبينهما صفّان من الشموع، لتثبت في الذاكرة أن الذروة تقع في العقد السادس والسابع من العمر. والعقدة الوحيدة بين البطانتين تذكّرنا بأن هذا الورم الليفي الجنبي نادر ومنفرد.\n\n«الألم والمعاناة لا بدّ منهما للعقل الكبير والقلب العميق.» — فيودور دوستويفسكي",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "105aNXGQGpAT_dxv-J-kfkAhW-Dw2cD64",
+        "textId": "1O5rQsG8J0cOEpp0n0WCZFelmvp0zRxa7",
+        "number": 12,
+        "imageSha256": "738a158df0e95edb83469a142b9015f90af821e303ecef7889cf3029f0874712",
+        "originalName": "12.png",
+        "textOriginalName": "story-image-12.txt",
+        "imageModifiedTime": "2026-11-09T15:28:22.510Z",
+        "textModifiedTime": "2026-11-09T15:29:04.695Z",
+        "storyAudioId": "1XBmwvAhvb8gkOaWq8mY1tVxAvzu5BtcS",
+        "explanationAudioId": "1odWsVHciwARQ_mXx2MN1gAbXM9ujFWLv"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1XBmwvAhvb8gkOaWq8mY1tVxAvzu5BtcS",
+      "duration": 70.68,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1odWsVHciwARQ_mXx2MN1gAbXM9ujFWLv",
+      "explanationDuration": 32.112,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 15.7368,
+          "x": 0.535,
+          "y": 0.36,
+          "zoom": 1,
+          "pointer": true,
+          "label": "One solitary fibrous knot"
+        },
+        {
+          "time": 15.7368,
+          "end": 23.6711,
+          "x": 0.777,
+          "y": 0.35,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Histology and morphology"
+        },
+        {
+          "time": 23.6711,
+          "end": 40.1184,
+          "x": 0.621,
+          "y": 0.747,
+          "zoom": 1,
+          "pointer": true,
+          "label": "An unpredictable path"
+        },
+        {
+          "time": 40.1184,
+          "end": 54.4079,
+          "x": 0.55,
+          "y": 0.082,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Sixth and seventh decades"
+        },
+        {
+          "time": 54.4079,
+          "end": 62.3553,
+          "x": 0.535,
+          "y": 0.36,
+          "zoom": 1,
+          "pointer": true,
+          "label": "One solitary fibrous knot"
+        },
+        {
+          "time": 62.3553,
+          "end": 68.0658,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 68.0658,
+          "end": 70.6053,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 6.8557,
+          "x": 0.535,
+          "y": 0.36,
+          "zoom": 1,
+          "pointer": true,
+          "label": "One solitary fibrous knot"
+        },
+        {
+          "time": 6.8557,
+          "end": 10.9407,
+          "x": 0.535,
+          "y": 0.36,
+          "zoom": 1,
+          "pointer": true,
+          "label": "One solitary fibrous knot"
+        },
+        {
+          "time": 10.9407,
+          "end": 18.9046,
+          "x": 0.777,
+          "y": 0.35,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Histology and morphology"
+        },
+        {
+          "time": 18.9046,
+          "end": 25.9665,
+          "x": 0.621,
+          "y": 0.747,
+          "zoom": 1,
+          "pointer": true,
+          "label": "An unpredictable path"
+        },
+        {
+          "time": 25.9665,
+          "end": 32.049,
+          "x": 0.55,
+          "y": 0.082,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Sixth and seventh decades"
+        }
+      ],
+      "imageAlt": "A single fibrous knot hangs between coat linings, driving a roulette wheel and marble maze under clocks at six and seven.",
+      "category": "SOLITARY FIBROUS TUMOUR",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "738a158df0e95edb83469a142b9015f90af821e303ecef7889cf3029f0874712",
+      "storyAudioSha256": "2c309c274e6bf5ab5cf40534f8c15b7daa320c661e0fe8b866ade9f691b90394",
+      "explanationAudioSha256": "619d874c9b0ff7bb66a3c6ac05e07e1b04cc27e07bcb6718b72d663180ac7709",
+      "mcq": {
+        "sourceKey": "E. These tumours have a peak in the sixth and seventh decades of life.",
+        "sourceExplanation": "",
+        "number": 12,
+        "stem": "Solitary fibrous tumours of the pleura are rare. Their unpredictable clinical course is probably related to their histological and morphological characteristics. Which of the following statements about solitary fibrous tumours of the pleura is correct?",
+        "options": [
+          {
+            "label": "A",
+            "text": "These are mesothelial in origin.",
+            "explanation": "These tumors arise from mesenchymal fibroblastic cells, not mesothelial cells; their former name, localized mesothelioma, is misleading."
+          },
+          {
+            "label": "B",
+            "text": "These tumours tend to recur after excision.",
+            "explanation": "Recurrence can occur, particularly in tumors with higher-risk features, but it is not an inevitable or defining tendency after complete excision. Long-term follow-up remains important."
+          },
+          {
+            "label": "C",
+            "text": "Around 75% of the tumours are found to be malignant.",
+            "explanation": "Most are not histologically malignant at presentation; the proportion is far below 75%. Even apparently benign tumors can occasionally recur."
+          },
+          {
+            "label": "D",
+            "text": "These tumours affect males more than females.",
+            "explanation": "There is no strong consistent male predominance that makes this the best statement."
+          },
+          {
+            "label": "E",
+            "text": "These tumours have a peak in the sixth and seventh decades of life.",
+            "explanation": "The age peak in later adult life is the intended correct observation."
+          }
+        ],
+        "key": "E",
+        "explanation": "Solitary fibrous tumors of the pleura are mesenchymal tumors most often diagnosed in middle-aged or older adults, commonly in the sixth and seventh decades.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved"
+      },
+      "quote": {
+        "text": "الألم والمعاناة لا بدّ منهما للعقل الكبير والقلب العميق.",
+        "start": 62.3553,
+        "end": 68.0658,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-13",
+      "number": 13,
+      "title": "The Hidden Bridge",
+      "subtitle": "Bubbles reveal a vascular shortcut",
+      "topic": "Pulmonary arteriovenous malformation",
+      "explanationText": "The two red rivers represent a pulmonary artery and a pulmonary vein. The glowing bridge links them directly, representing an abnormal pulmonary arteriovenous connection. The surrounding wall makes that shortcut between separate routes easy to remember. The physician's bell placed on the chest represents transthoracic echocardiography. Bubbles crossing and lighting the bridge add the contrast component, which the supplied story identifies as its diagnostic test.",
+      "image": "https://drive.google.com/uc?export=download&id=1sObJNv5t89OMNARMaPDu5mxdHWkChIVY",
+      "storyText": "في غرفةٍ بطرسبورغيةٍ باردة، يبني الطبيب مدينةً صغيرةً بأسوارٍ عالية. يجري نهران أحمران منفصلان حول المدينة: أحدهما شريانٌ رئوي، والآخر وريدٌ رئوي. لكن جسراً مضيئاً غريباً يشقّ السور ويربط النهرين مباشرة؛ تلك هي الوصلة الوعائية غير الطبيعية في تشوّه الشرايين الوريدية الرئوية. يضغط الطبيب جرسه على صدر المريض، ثم يُسقط فقاعاتٍ لامعة من قارورة. تسافر الفقاعات عبر الجسر وتضيئه فوراً، فينكشف الطريق الخفيّ بأفضل فحص: الإيكو القلبي عبر جدار الصدر مع مادة التباين.\n\n«سرّ الوجود الإنساني لا يكمن في البقاء حيّاً، بل في العثور على ما نعيش من أجله.» — فيودور دوستويفسكي",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1sObJNv5t89OMNARMaPDu5mxdHWkChIVY",
+        "textId": "1dauzB3PpnWs4KkXak8xEE4WNDdOw_ZuU",
+        "number": 13,
+        "imageSha256": "fe9ff43c3c46acda1dc0aed1116288ea671d1c6cfc3143b8d9486d8107632bbb",
+        "originalName": "13.png",
+        "textOriginalName": "story-image-13.txt",
+        "imageModifiedTime": "2026-11-09T15:30:00.686Z",
+        "textModifiedTime": "2026-11-09T15:30:53.990Z",
+        "storyAudioId": "11PYbdp3uv872YQqxhuIar-A5KcMdzkDy",
+        "explanationAudioId": "106pqTpocW36cB3x3AwqC79x8TQk-3dw-"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=11PYbdp3uv872YQqxhuIar-A5KcMdzkDy",
+      "duration": 56.832,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=106pqTpocW36cB3x3AwqC79x8TQk-3dw-",
+      "explanationDuration": 31.752,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 7.3684,
+          "x": 0.51,
+          "y": 0.582,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Separate routes around the city"
+        },
+        {
+          "time": 7.3684,
+          "end": 15.9868,
+          "x": 0.178,
+          "y": 0.668,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Pulmonary artery and pulmonary vein"
+        },
+        {
+          "time": 15.9868,
+          "end": 28.1447,
+          "x": 0.529,
+          "y": 0.784,
+          "zoom": 1,
+          "pointer": true,
+          "label": "An abnormal vascular shortcut"
+        },
+        {
+          "time": 28.1447,
+          "end": 35.3421,
+          "x": 0.789,
+          "y": 0.268,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The chest bell: transthoracic echo"
+        },
+        {
+          "time": 35.3421,
+          "end": 47.0132,
+          "x": 0.215,
+          "y": 0.586,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Bubbles add the contrast component"
+        },
+        {
+          "time": 47.0132,
+          "end": 54.2368,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 54.2368,
+          "end": 56.7763,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 5.2964,
+          "x": 0.178,
+          "y": 0.668,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Pulmonary artery and pulmonary vein"
+        },
+        {
+          "time": 5.2964,
+          "end": 12.268,
+          "x": 0.529,
+          "y": 0.784,
+          "zoom": 1,
+          "pointer": true,
+          "label": "An abnormal vascular shortcut"
+        },
+        {
+          "time": 12.268,
+          "end": 17.5515,
+          "x": 0.51,
+          "y": 0.582,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Separate routes around the city"
+        },
+        {
+          "time": 17.5515,
+          "end": 23.3119,
+          "x": 0.789,
+          "y": 0.268,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The chest bell: transthoracic echo"
+        },
+        {
+          "time": 23.3119,
+          "end": 31.6753,
+          "x": 0.215,
+          "y": 0.586,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Bubbles add the contrast component"
+        }
+      ],
+      "imageAlt": "Two red waterways surround a miniature walled city and join through a luminous bridge; a physician uses a chest bell and adds bubbles.",
+      "category": "PULMONARY ARTERIOVENOUS MALFORMATION",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "fe9ff43c3c46acda1dc0aed1116288ea671d1c6cfc3143b8d9486d8107632bbb",
+      "storyAudioSha256": "1c93af609b6029a6339b62cf6ae8686c20c540a475a64679c9dedd615e6d0a58",
+      "explanationAudioSha256": "a46c73e87638e7eb16f3c95f1896a1d25b4516e4fa502efb21bec76b4fd4acff",
+      "mcq": {
+        "sourceKey": "D. are best diagnosed by transthoracic contrast echocardiography.",
+        "sourceExplanation": "",
+        "number": 13,
+        "stem": "Pulmonary arteriovenous malformations (PAVMs) are abnormal vascular structures that most often connect a pulmonary artery to a pulmonary vein. PAVMs",
+        "options": [
+          {
+            "label": "A",
+            "text": "bypass the normal pulmonary capillary bed and result in an intrapulmonary left-to-right shunt.",
+            "explanation": "PAVMs bypass the capillary bed and produce a right-to-left shunt, allowing deoxygenated blood and embolic material to enter systemic arteries."
+          },
+          {
+            "label": "B",
+            "text": "are predominantly sporadic.",
+            "explanation": "A large proportion of patients have hereditary hemorrhagic telangiectasia, particularly those with multiple lesions; describing PAVMs as predominantly sporadic is misleading."
+          },
+          {
+            "label": "C",
+            "text": "occur in hereditary haemorrhagic telangiectasia, an autosomal recessive vascular disorder.",
+            "explanation": "Hereditary hemorrhagic telangiectasia is usually autosomal dominant, not autosomal recessive."
+          },
+          {
+            "label": "D",
+            "text": "are best diagnosed by transthoracic contrast echocardiography.",
+            "explanation": "Bubble contrast echocardiography is highly sensitive for screening, but a positive test does not by itself localize or anatomically confirm an AVM. CT supplies that information."
+          },
+          {
+            "label": "E",
+            "text": "are best treated with surgery.",
+            "explanation": "Transcatheter embolization is generally preferred for treatable PAVMs; surgery is reserved for selected circumstances."
+          }
+        ],
+        "key": "D",
+        "explanation": "Contrast transthoracic echocardiography is a sensitive screening test for an intrapulmonary right-to-left shunt. Chest CT is used to establish and characterize the anatomical pulmonary AVM, so the preserved key’s use of “best diagnosed” needs qualification.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved",
+        "reviewRequired": true,
+        "reviewNote": "Key D conflates sensitive screening with definitive anatomical diagnosis. Preserve D, but distinguish contrast echocardiography from confirmatory chest CT."
+      },
+      "quote": {
+        "text": "سرّ الوجود الإنساني لا يكمن في البقاء حيّاً، بل في العثور على ما نعيش من أجله.",
+        "start": 47.0132,
+        "end": 54.2368,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-14",
+      "number": 14,
+      "title": "The Thorned Fortress",
+      "subtitle": "A patchwork mass with invasive roots",
+      "topic": "Thymic carcinoma",
+      "explanationText": "The fortress made of different materials represents the heterogeneous appearance of thymic carcinoma. Its thorny roots and breached walls encode an aggressive, invasive epithelial malignancy. The surgeon's saw and forceps represent surgical removal, the treatment emphasized in this supplied mnemonic. Removing the fortress with its roots makes that action memorable. The warm, intact house represents preserved life, while the untouched pills keep attention on the story's surgical theme.",
+      "image": "https://drive.google.com/uc?export=download&id=1nvLeofmj9DyAt-DFYo5mjBKuwqqqqwgc",
+      "storyText": "في ليلة شتوية باردة من بطرسبورغ، يقف جرّاح أمام بيت خشبي صغير تضيء نوافذه بدفء. فوق البيت نمت قلعة سوداء ملتوية، مبنية من حجارة وزجاج وخزف متباين؛ اختلاف موادها ووجوهها يذكّر بأن هذا الورم غير متجانس. أطلقت القلعة جذورًا شوكية تخترق الجدران والأبواب وتتمدد بعنف، فتجسّد غزوه وعدوانه. لا تنفع الأقراص الموضوعة في الظل. يرفع الجرّاح المنشار الفضي ويقطع الكتلة من قاعدتها، ثم ينتزعها كاملة مع جذورها. يتساقط الشرر، وينكشف البيت سالمًا تحت ضوء الشمعة: العلاج الحاسم هنا هو الجراحة.\n\n«الجمال سينقذ العالم.» — فيودور دوستويفسكي",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1nvLeofmj9DyAt-DFYo5mjBKuwqqqqwgc",
+        "textId": "1RaQ3tHuPmPe8_xwXJZIsxuOdZezESoJ1",
+        "number": 14,
+        "imageSha256": "fa13d475baf613c3874a87dff6a1e1791dac8826b3d762935e17ceef336d6959",
+        "originalName": "14.png",
+        "textOriginalName": "story-image-14.txt",
+        "imageModifiedTime": "2026-11-09T15:31:54.173Z",
+        "textModifiedTime": "2026-11-09T15:46:07.130Z",
+        "storyAudioId": "1981WSIxqBuIQJ2O4Ow8alSlaxu5AZ09R",
+        "explanationAudioId": "1T88pkl6o3BHwTc1oH34wGLE-LVMw2OOP"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1981WSIxqBuIQJ2O4Ow8alSlaxu5AZ09R",
+      "duration": 57.912,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1T88pkl6o3BHwTc1oH34wGLE-LVMw2OOP",
+      "explanationDuration": 31.92,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 9.7237,
+          "x": 0.755,
+          "y": 0.665,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The warm house beneath"
+        },
+        {
+          "time": 9.7237,
+          "end": 22.9868,
+          "x": 0.7,
+          "y": 0.26,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A heterogeneous patchwork fortress"
+        },
+        {
+          "time": 22.9868,
+          "end": 32.1053,
+          "x": 0.65,
+          "y": 0.46,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Invasive roots breach the wall"
+        },
+        {
+          "time": 32.1053,
+          "end": 35.6447,
+          "x": 0.78,
+          "y": 0.884,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Untouched pills in the shadow"
+        },
+        {
+          "time": 35.6447,
+          "end": 44.0526,
+          "x": 0.45,
+          "y": 0.595,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Surgical removal of the mass"
+        },
+        {
+          "time": 44.0526,
+          "end": 52.4211,
+          "x": 0.755,
+          "y": 0.665,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The warm house beneath"
+        },
+        {
+          "time": 52.4211,
+          "end": 55.3026,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 55.3026,
+          "end": 57.8421,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 6.5206,
+          "x": 0.7,
+          "y": 0.26,
+          "zoom": 1,
+          "pointer": true,
+          "label": "A heterogeneous patchwork fortress"
+        },
+        {
+          "time": 6.5206,
+          "end": 12.5129,
+          "x": 0.65,
+          "y": 0.46,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Invasive roots breach the wall"
+        },
+        {
+          "time": 12.5129,
+          "end": 19.6134,
+          "x": 0.45,
+          "y": 0.595,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Surgical removal of the mass"
+        },
+        {
+          "time": 19.6134,
+          "end": 23.9948,
+          "x": 0.45,
+          "y": 0.595,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Surgical removal of the mass"
+        },
+        {
+          "time": 23.9948,
+          "end": 31.8557,
+          "x": 0.755,
+          "y": 0.665,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The warm house beneath"
+        }
+      ],
+      "imageAlt": "A patchwork fortress grows thorny roots through a wall while a surgeon cuts its base above a warm window; pills sit untouched.",
+      "category": "THYMIC CARCINOMA",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "fa13d475baf613c3874a87dff6a1e1791dac8826b3d762935e17ceef336d6959",
+      "storyAudioSha256": "4a7b0d8a65845488a7cff8d1057b4af3f491f1ece29e9f165fe0a5a0b740a810",
+      "explanationAudioSha256": "f33e10f95869a9343d87cd245bdea243e38f2b170b85ca531cf7fa7d8ccaaacd",
+      "mcq": {
+        "sourceKey": "E. are best treated by surgery.",
+        "sourceExplanation": "",
+        "number": 14,
+        "stem": "Thymic carcinomas are a heterogeneous group of aggressive, invasive epithelial malignancies. Thymic carcinomas",
+        "options": [
+          {
+            "label": "A",
+            "text": "occur predominantly in older men.",
+            "explanation": "Thymic carcinoma occurs mainly in adults and often has a male predominance. This statement is plausible and cannot safely be dismissed solely because the source keys surgery."
+          },
+          {
+            "label": "B",
+            "text": "most frequently present wit superior vena cava syndrome.",
+            "explanation": "Patients may have chest discomfort, cough or incidental masses; superior vena cava obstruction can occur but is not the usual most frequent presentation."
+          },
+          {
+            "label": "C",
+            "text": "are small, soft, localized masses with areas of cystic change and necrosis",
+            "explanation": "Thymic carcinomas are often invasive and irregular masses. A small, soft, localized mass is not the characteristic overall description, although necrosis and cystic change can occur."
+          },
+          {
+            "label": "D",
+            "text": "are prognosticated using Masaoka staging system.",
+            "explanation": "The Masaoka–Koga system has historically been applied to thymic carcinoma, although its discrimination is imperfect and TNM staging is now used. This is not an unequivocally false historical statement."
+          },
+          {
+            "label": "E",
+            "text": "are best treated by surgery.",
+            "explanation": "Surgery offers the best chance of complete local control when the tumor is resectable. Unresectable or metastatic disease requires a different multimodality strategy."
+          }
+        ],
+        "key": "E",
+        "explanation": "Complete resection is central to treatment of resectable thymic carcinoma, often with additional therapy according to stage and margin status. Several other options are imprecise rather than categorically false.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved",
+        "reviewRequired": true,
+        "reviewNote": "The single-best-answer wording is ambiguous: A and historically D can also be true, and surgery in E requires resectability. Key E remains unchanged. The supplied E needs a resectability qualifier, and D is not unambiguously false: Masaoka/Masaoka–Koga staging has historically been used for thymic epithelial tumors, while modern TNM staging is adopted. This is not a clean single-best-answer item as printed."
+      },
+      "quote": {
+        "text": "الجمال سينقذ العالم.",
+        "start": 52.4211,
+        "end": 55.3026,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    },
+    {
+      "id": "story-15",
+      "number": 15,
+      "title": "The Crimson Jester",
+      "subtitle": "A red thread reaches distant doors",
+      "topic": "Thymic carcinoid tumour",
+      "explanationText": "The small house shaped like a reliquary represents the thymus gland. The crimson and gold masked jester inside represents a thymic carcinoid tumour. Matching jesters in distant doorways encode histological similarity to carcinoid tumours at other sites. The red thread and falling dominoes represent the common spread described in the supplied story. The scholar's failed attempt to stop that chain reinforces the same theme of metastasis.",
+      "image": "https://drive.google.com/uc?export=download&id=1DKA0uAyArkwfG2H02XV-UPyw-fY7J5XB",
+      "storyText": "في علّية بطرسبورغ الباردة، يحرس طالبٌ بيتًا خشبيًا صغيرًا يشبه صندوقًا مقدّسًا؛ إنه رمز الغدة الزعترية. في داخله مهرّج قرمزي لامع: هذا هو الورم السرطاوي. يمدّ المهرّج خيطًا أحمر، فيسقط صفّ من قطع الدومينو المضيئة، ويمتدّ الخيط إلى أبواب بعيدة. خلف كل باب يظهر مهرّج مطابق له بالقناع والجرس؛ أي إن شكله النسيجي يشبه السرطاويات في أماكن أخرى. يحاول الطالب قطع الخيط، لكنه يستمر في الانتشار. تذكّر: السرطاوي الزعتري ورم، والنقيلة شائعة.\n\n«إنّ الإنسان يحبّ أن يرى كل شيء في صورة نظام، لكنّه يجد الفوضى في قلبه.» — فيودور دوستويفسكي",
+      "storyLanguage": "ar",
+      "explanationLanguage": "en",
+      "drive": {
+        "imageId": "1DKA0uAyArkwfG2H02XV-UPyw-fY7J5XB",
+        "textId": "1W9KF9VOQ1UYOLDYZyXoJ4AJuHa5yMQm3",
+        "number": 15,
+        "imageSha256": "8adef1f9bc5ff444ee912339beb03cd9af9b30bdedac256e9d979d675f314bca",
+        "originalName": "15.png",
+        "textOriginalName": "story-image-15.txt",
+        "imageModifiedTime": "2026-11-09T15:34:43.263Z",
+        "textModifiedTime": "2026-11-09T15:35:28.654Z",
+        "storyAudioId": "1a6xJbEaPs2LqwI_g7FQd1U63tLzn31OE",
+        "explanationAudioId": "1A8lzxnnN_a72fjO9d9EZMVguLVUZcrZW"
+      },
+      "source": "User-supplied mnemonic image and story from Google Drive. Symbol explanation adapted from the supplied notes; not independently source-verified.",
+      "storyAudio": "https://drive.google.com/uc?export=download&id=1a6xJbEaPs2LqwI_g7FQd1U63tLzn31OE",
+      "duration": 57.288,
+      "explanationAudio": "https://drive.google.com/uc?export=download&id=1A8lzxnnN_a72fjO9d9EZMVguLVUZcrZW",
+      "explanationDuration": 29.688,
+      "narration": {
+        "synthetic": true,
+        "storyVoice": "ar-SA-ZariyahNeural",
+        "explanationVoice": "en-US-AriaNeural"
+      },
+      "cues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 11.0789,
+          "x": 0.583,
+          "y": 0.492,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The small house represents the thymus"
+        },
+        {
+          "time": 11.0789,
+          "end": 16.9605,
+          "x": 0.556,
+          "y": 0.536,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The crimson jester: carcinoid tumour"
+        },
+        {
+          "time": 16.9605,
+          "end": 26.3289,
+          "x": 0.43,
+          "y": 0.71,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The red thread and domino chain"
+        },
+        {
+          "time": 26.3289,
+          "end": 36.5526,
+          "x": 0.528,
+          "y": 0.159,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Matching jesters at distant sites"
+        },
+        {
+          "time": 36.5526,
+          "end": 41.8684,
+          "x": 0.306,
+          "y": 0.527,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The failed attempt to stop the chain"
+        },
+        {
+          "time": 41.8684,
+          "end": 47.5,
+          "x": 0.43,
+          "y": 0.71,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The red thread and domino chain"
+        },
+        {
+          "time": 47.5,
+          "end": 54.6711,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 54.6711,
+          "end": 57.2105,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        }
+      ],
+      "explanationCues": [
+        {
+          "time": 0,
+          "end": 0.1,
+          "x": 0.5,
+          "y": 0.5,
+          "zoom": 1,
+          "pointer": false,
+          "label": ""
+        },
+        {
+          "time": 0.1,
+          "end": 4.768,
+          "x": 0.583,
+          "y": 0.492,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The small house represents the thymus"
+        },
+        {
+          "time": 4.768,
+          "end": 10.3995,
+          "x": 0.556,
+          "y": 0.536,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The crimson jester: carcinoid tumour"
+        },
+        {
+          "time": 10.3995,
+          "end": 17.5644,
+          "x": 0.528,
+          "y": 0.159,
+          "zoom": 1,
+          "pointer": true,
+          "label": "Matching jesters at distant sites"
+        },
+        {
+          "time": 17.5644,
+          "end": 23.6211,
+          "x": 0.43,
+          "y": 0.71,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The red thread and domino chain"
+        },
+        {
+          "time": 23.6211,
+          "end": 29.6263,
+          "x": 0.306,
+          "y": 0.527,
+          "zoom": 1,
+          "pointer": true,
+          "label": "The failed attempt to stop the chain"
+        }
+      ],
+      "imageAlt": "A crimson jester occupies a small shrine-like house as a red thread and dominoes run to matching jesters at distant openings.",
+      "category": "THYMIC CARCINOID TUMOUR",
+      "timing": {
+        "basis": "Existing speech-provider sentence boundaries with existing inspected targets",
+        "visualReview": true,
+        "retiming": "Direct active intervals; no camera zoom, interpolation, or 0.55-second target delay",
+        "wordLevelAlignment": false,
+        "newVisualInspection": false
+      },
+      "imageSha256": "8adef1f9bc5ff444ee912339beb03cd9af9b30bdedac256e9d979d675f314bca",
+      "storyAudioSha256": "e407c2e7929424073b65674d1c0882c9ad4dd7be9ce9f948d730898a8b6341ed",
+      "explanationAudioSha256": "f6f0674fdb63360d681aeb41e5a346455cbffb19bb33e3a272ea4f36407129d5",
+      "mcq": {
+        "sourceKey": "C. Metastasis is common.",
+        "sourceExplanation": "",
+        "number": 15,
+        "stem": "Thymic carcinoid is a tumour of the thymus gland, which is histologically similar to carcinoid tumours found at other sites. Which one of the following statements regarding thymic carcinoid is correct?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Its highest incidence is in the second and third decades of life.",
+            "explanation": "They are mainly tumors of middle-aged adults, rather than predominantly occurring in the second and third decades."
+          },
+          {
+            "label": "B",
+            "text": "It is associated with Budd-Chiari syndrome.",
+            "explanation": "They are associated with MEN1 and sometimes ectopic ACTH secretion causing Cushing syndrome, not characteristically with Budd–Chiari syndrome."
+          },
+          {
+            "label": "C",
+            "text": "Metastasis is common.",
+            "explanation": "Local invasion and metastatic spread are sufficiently frequent to make this the intended correct statement."
+          },
+          {
+            "label": "D",
+            "text": "Radiotherapy and chemotherapy are the treatment of choice in most cases.",
+            "explanation": "Complete surgery is the preferred treatment for localized resectable disease; radiotherapy or systemic treatment is used selectively or for advanced disease."
+          },
+          {
+            "label": "E",
+            "text": "The prognosis of these tumours is good.",
+            "explanation": "Thymic neuroendocrine tumors often recur or metastasize, so an unqualified good prognosis is misleading."
+          }
+        ],
+        "key": "C",
+        "explanation": "Thymic neuroendocrine tumors can be locally invasive and metastasize, particularly to nodes and distant organs. Their behavior is less favorable than many other well-differentiated carcinoids.",
+        "language": "en",
+        "explanationOrigin": "AI-generated educational explanation; original source question/options/key preserved"
+      },
+      "quote": {
+        "text": "إنّ الإنسان يحبّ أن يرى كل شيء في صورة نظام، لكنّه يجد الفوضى في قلبه.",
+        "start": 47.5,
+        "end": 54.6711,
+        "timingBasis": "Existing recorded story sentence boundaries"
+      }
+    }
+  ],
+  "remoteOnly": true,
+  "audioFolderId": "1jcRJ1aHDmn2QDdmfrO3ZTbNqDZA_lXsL"
+}

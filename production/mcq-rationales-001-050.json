@@ -1,0 +1,542 @@
+{
+  "1": {
+    "correctExplanation": "No unambiguous correct option is supplied. A typical rib neck lies between its head and tubercle; the source deliberately withholds a replacement key.",
+    "options": {
+      "A": "The head of a typical rib articulates with vertebral bodies, usually its own numbered vertebra and the one above, rather than a vertebral spine. The wording also fails to account for atypical ribs.",
+      "B": "The tubercle of a typical rib articulates with the transverse process of the same-numbered vertebra, not its body. Ribs 11 and 12 lack a typical tubercle.",
+      "C": "The neck is posterior, between the rib head and tubercle. It does not terminate in an anterior articulation.",
+      "D": "Ribs 11 and 12 are floating ribs with no anterior attachment to the sternum; they do not have double anterior articulations.",
+      "E": "The costal groove lies along the inferior internal border of a typical rib and contains the intercostal vein, artery and nerve, not on its superior aspect."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key is unresolved and all printed options have anatomical errors. Preserve the unassigned key; qualified source correction is required."
+  },
+  "2": {
+    "correctExplanation": "The sternocostal triangle, also called the foramen of Morgagni, transmits superior epigastric vessels continuous with the internal thoracic vessels.",
+    "options": {
+      "A": "The crura attach to upper lumbar vertebral bodies and discs. The costal part of the diaphragm, rather than its crural fibers, attaches to the lower ribs.",
+      "B": "The aorta passes behind the diaphragm through the aortic hiatus at approximately T12. T10 is the usual esophageal level.",
+      "C": "The esophageal hiatus normally transmits the esophagus and vagal trunks, with small vessels and lymphatics. It does not normally transmit branches of the right phrenic nerve.",
+      "D": "This describes the anterior sternocostal gap and the superior epigastric continuation of the internal thoracic artery, so it is the intended correct statement.",
+      "E": "The caval opening lies in the central tendon at approximately T8, not T12."
+    }
+  },
+  "3": {
+    "correctExplanation": "An anterior parasternal approach, often termed the Chamberlain procedure, provides access to aortopulmonary-window and para-aortic nodes at stations 5 and 6.",
+    "options": {
+      "A": "Stations 1–9 are mediastinal stations; ipsilateral mediastinal involvement generally represents N2 and contralateral involvement N3. N1 includes ipsilateral hilar and intrapulmonary stations.",
+      "B": "Station 6 nodes are para-aortic, anterior and lateral to the ascending aorta and aortic arch. They are not defined as posterior to the arch.",
+      "C": "Station 7 is subcarinal and can be sampled by cervical mediastinoscopy, although access within the station depends on technique.",
+      "D": "Station 10 nodes are hilar nodes. Pulmonary-ligament nodes are station 9.",
+      "E": "The anterior parasternal approach reaches stations 5 and 6, which are generally outside the routine reach of standard cervical mediastinoscopy."
+    }
+  },
+  "4": {
+    "correctExplanation": "The preserved key refers to a historical analysis of the 1995 Lung Cancer Study Group trial, in which small size did not establish an absence of excess local recurrence after limited resection. Its findings should not be substituted for modern trials of carefully selected small peripheral tumors.",
+    "options": {
+      "A": "The trial did not show a significant perioperative morbidity advantage for either operation that supports this statement.",
+      "B": "The trial did not demonstrate a meaningful sustained pulmonary-function benefit sufficient to support routine limited resection over lobectomy.",
+      "C": "This is the source-keyed historical teaching point: tumor size alone did not reliably identify a subgroup free of excess local recurrence after limited resection. It is not a universal statement that size never matters.",
+      "D": "Local recurrence was higher, not lower, after limited resection in that trial.",
+      "E": "The principal trial result was approximately a tripling of local recurrence for the limited-resection group overall. A precise fivefold wedge-specific estimate should not be accepted without checking the original subgroup analysis."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Historical trial question: the precise less-than-1-cm and wedge-specific numerical claims require checking against the original report; modern segmentectomy evidence differs. Original key C is preserved."
+  },
+  "5": {
+    "correctExplanation": "Extralobar sequestration has its own pleural covering, whereas intralobar sequestration shares the pleura of the surrounding lobe.",
+    "options": {
+      "A": "The defining arterial supply usually comes from the systemic circulation, commonly the thoracic or abdominal aorta, rather than the normal pulmonary arterial route through the hilum.",
+      "B": "There is no overall female predominance that supports this statement. Extralobar sequestration in particular is more frequent in males.",
+      "C": "Intralobar sequestration is more common than extralobar sequestration.",
+      "D": "Intralobar sequestration, the commoner form, usually drains through pulmonary veins. Systemic venous drainage is more characteristic of extralobar sequestration.",
+      "E": "A separate visceral pleural investment distinguishes the extralobar form and makes this the correct option."
+    }
+  },
+  "6": {
+    "correctExplanation": "The embryonic phase includes formation of the ventral foregut respiratory groove and lung diverticulum around the fourth gestational week.",
+    "options": {
+      "A": "This is the intended embryonic event: the respiratory groove appears early, before the later branching and gas-exchange stages.",
+      "B": "The initial lung buds arise in the embryonic period. The pseudoglandular phase mainly involves branching of conducting airways.",
+      "C": "The pulmonary circulation continues developing and remodeling long after week 5, so it is not complete at that time.",
+      "D": "Respiratory bronchioles and alveolar ducts begin to develop during the canalicular phase. Terminal-sac development follows.",
+      "E": "Alveolar formation and pulmonary maturation continue after birth; a newborn lung is not developmentally complete."
+    }
+  },
+  "7": {
+    "correctExplanation": "TOS commonly affects young and middle-aged adults, including the 20–40-year range. Compression may involve the brachial plexus, subclavian vein or subclavian artery.",
+    "options": {
+      "A": "The usual broad classification has neurogenic, venous and arterial forms. Some schemes subdivide neurogenic disease further, so a count of four cannot be judged without naming the scheme.",
+      "B": "Paget–Schroetter syndrome is effort thrombosis of the axillary-subclavian vein and is associated with venous TOS. It is not the outcome of 90% of all TOS cases.",
+      "C": "This is the preserved correct statement: symptomatic TOS is commonly encountered in adults in this age range.",
+      "D": "Neurogenic TOS is generally reported more often in women, so an overall male predominance is not a sound generalization.",
+      "E": "The standard Allen test assesses hand collateral arterial circulation. A modified Allen maneuver is also described among TOS provocative tests, but no such maneuver alone establishes the diagnosis."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Classification counts vary, and modified Allen maneuvers can be used in TOS assessment. Key C is retained, but A and E need clearer wording before being treated as unequivocally false."
+  },
+  "8": {
+    "correctExplanation": "Thymoma affects men and women with roughly similar frequency. Its paraneoplastic associations are important but do not occur at the very high frequencies in the distractors.",
+    "options": {
+      "A": "Approximately equal sex frequency is the intended correct epidemiological statement.",
+      "B": "Myasthenia gravis occurs in a substantial minority of thymoma patients, often around 30–50%, not 75% as a general rule.",
+      "C": "Many thymomas are incidental or cause other local or autoimmune symptoms. Routine central-airway compression is not their typical presentation.",
+      "D": "Pure red-cell aplasia occurs in only a small minority of thymoma patients, not 90%.",
+      "E": "Additional malignancies occur more often than in some comparison populations, but a concomitant malignancy in half of all patients is an overstatement."
+    }
+  },
+  "9": {
+    "correctExplanation": "Leiomyomas favor the distal esophagus, where smooth muscle predominates. The source uses approximately 60% in the distal third.",
+    "options": {
+      "A": "Leiomyomas are well-circumscribed smooth-muscle tumors, usually with a capsule or pseudocapsule. Lack of a well-defined boundary is not their usual description.",
+      "B": "The distal-third predominance described here is the intended correct statement.",
+      "C": "Most small esophageal leiomyomas are asymptomatic; larger lesions may cause dysphagia or other pressure symptoms.",
+      "D": "The overlying mucosa is usually intact, and ulceration is uncommon.",
+      "E": "Diffuse esophageal leiomyomatosis is classically associated with Alport syndrome, not Kartagener syndrome."
+    }
+  },
+  "10": {
+    "correctExplanation": "In a conventional forest plot, the square represents a study estimate and its area reflects that study’s statistical weight. The pooled estimate is usually drawn as a diamond.",
+    "options": {
+      "A": "The overall pooled effect is represented by the diamond’s position, rather than by individual square areas.",
+      "B": "This is the standard convention: a more heavily weighted study receives a larger square, commonly reflecting greater precision.",
+      "C": "The diamond summarizes the pooled estimate and its confidence interval; its size does not set each study’s square area.",
+      "D": "The number of studies is reflected by the number of study entries, not by each square’s area.",
+      "E": "Study duration may affect results, but it is not what square area conventionally encodes."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The referenced plot is absent. These explanations describe the standard forest-plot convention and do not claim inspection of the missing figure."
+  },
+  "11": {
+    "correctExplanation": "The original key is unresolved because the printed MARS comparison is misstated. MARS studied extrapleural pneumonectomy versus no extrapleural pneumonectomy; contemporary mesothelioma treatment also includes immunotherapy supported by later trials.",
+    "options": {
+      "A": "A survival advantage from radical surgery cannot be asserted for all patients. Selection bias and randomized evidence make this blanket statement unreliable.",
+      "B": "Radical hemithoracic radiotherapy alone has not established the broad survival advantage over supportive care claimed here, and it can cause substantial toxicity.",
+      "C": "This is not the randomized comparison in the original MARS feasibility trial. It must not be cited as proof that pleurectomy/decortication outperformed extrapleural pneumonectomy in that trial.",
+      "D": "Historically, combination platinum-pemetrexed chemotherapy showed better outcomes than single-agent cisplatin. The statement reverses that comparison.",
+      "E": "This statement is supported by modern immunotherapy trials in appropriate patients. Because it is time-dependent and the source withholds a replacement key, it should not be silently assigned as a new answer."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key is unresolved; C misstates the MARS trial and E is supported by later immunotherapy evidence. Preserve the unassigned key and review the question’s intended era."
+  },
+  "12": {
+    "correctExplanation": "Solitary fibrous tumors of the pleura are mesenchymal tumors most often diagnosed in middle-aged or older adults, commonly in the sixth and seventh decades.",
+    "options": {
+      "A": "These tumors arise from mesenchymal fibroblastic cells, not mesothelial cells; their former name, localized mesothelioma, is misleading.",
+      "B": "Recurrence can occur, particularly in tumors with higher-risk features, but it is not an inevitable or defining tendency after complete excision. Long-term follow-up remains important.",
+      "C": "Most are not histologically malignant at presentation; the proportion is far below 75%. Even apparently benign tumors can occasionally recur.",
+      "D": "There is no strong consistent male predominance that makes this the best statement.",
+      "E": "The age peak in later adult life is the intended correct observation."
+    }
+  },
+  "13": {
+    "correctExplanation": "Contrast transthoracic echocardiography is a sensitive screening test for an intrapulmonary right-to-left shunt. Chest CT is used to establish and characterize the anatomical pulmonary AVM, so the preserved key’s use of “best diagnosed” needs qualification.",
+    "options": {
+      "A": "PAVMs bypass the capillary bed and produce a right-to-left shunt, allowing deoxygenated blood and embolic material to enter systemic arteries.",
+      "B": "A large proportion of patients have hereditary hemorrhagic telangiectasia, particularly those with multiple lesions; describing PAVMs as predominantly sporadic is misleading.",
+      "C": "Hereditary hemorrhagic telangiectasia is usually autosomal dominant, not autosomal recessive.",
+      "D": "Bubble contrast echocardiography is highly sensitive for screening, but a positive test does not by itself localize or anatomically confirm an AVM. CT supplies that information.",
+      "E": "Transcatheter embolization is generally preferred for treatable PAVMs; surgery is reserved for selected circumstances."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Key D conflates sensitive screening with definitive anatomical diagnosis. Preserve D, but distinguish contrast echocardiography from confirmatory chest CT."
+  },
+  "14": {
+    "correctExplanation": "Complete resection is central to treatment of resectable thymic carcinoma, often with additional therapy according to stage and margin status. Several other options are imprecise rather than categorically false.",
+    "options": {
+      "A": "Thymic carcinoma occurs mainly in adults and often has a male predominance. This statement is plausible and cannot safely be dismissed solely because the source keys surgery.",
+      "B": "Patients may have chest discomfort, cough or incidental masses; superior vena cava obstruction can occur but is not the usual most frequent presentation.",
+      "C": "Thymic carcinomas are often invasive and irregular masses. A small, soft, localized mass is not the characteristic overall description, although necrosis and cystic change can occur.",
+      "D": "The Masaoka–Koga system has historically been applied to thymic carcinoma, although its discrimination is imperfect and TNM staging is now used. This is not an unequivocally false historical statement.",
+      "E": "Surgery offers the best chance of complete local control when the tumor is resectable. Unresectable or metastatic disease requires a different multimodality strategy."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The single-best-answer wording is ambiguous: A and historically D can also be true, and surgery in E requires resectability. Key E remains unchanged."
+  },
+  "15": {
+    "correctExplanation": "Thymic neuroendocrine tumors can be locally invasive and metastasize, particularly to nodes and distant organs. Their behavior is less favorable than many other well-differentiated carcinoids.",
+    "options": {
+      "A": "They are mainly tumors of middle-aged adults, rather than predominantly occurring in the second and third decades.",
+      "B": "They are associated with MEN1 and sometimes ectopic ACTH secretion causing Cushing syndrome, not characteristically with Budd–Chiari syndrome.",
+      "C": "Local invasion and metastatic spread are sufficiently frequent to make this the intended correct statement.",
+      "D": "Complete surgery is the preferred treatment for localized resectable disease; radiotherapy or systemic treatment is used selectively or for advanced disease.",
+      "E": "Thymic neuroendocrine tumors often recur or metastasize, so an unqualified good prognosis is misleading."
+    }
+  },
+  "16": {
+    "correctExplanation": "Seminoma is highly radiosensitive, unlike nonseminomatous germ-cell components. Modern management of mediastinal seminoma often favors cisplatin-based chemotherapy to limit late radiation effects.",
+    "options": {
+      "A": "Calcification can be present in mature teratomas but is not seen in as many as 75% as a general rule. Imaging proportions vary between series.",
+      "B": "Mediastinal seminoma usually affects young adult men, commonly in their twenties to forties, rather than primarily those aged 40–60.",
+      "C": "Pronounced radiosensitivity of seminoma is the intended correct comparison with nonseminomatous germ-cell tumors.",
+      "D": "Klinefelter syndrome is especially associated with mediastinal nonseminomatous germ-cell tumors. This frequency is not a standard association for seminoma.",
+      "E": "Mediastinal nonseminomatous tumors are commonly large and symptomatic at diagnosis; 85% asymptomatic is not representative."
+    }
+  },
+  "17": {
+    "correctExplanation": "Neurenteric cysts are congenital posterior mediastinal lesions associated with abnormal separation of the embryonic foregut and notochord. Vertebral anomalies are an important clue.",
+    "options": {
+      "A": "They are usually posterior mediastinal or paravertebral lesions, not anterior mediastinal masses.",
+      "B": "Associated hemivertebrae, vertebral fusion and other spinal anomalies make this the correct statement.",
+      "C": "The relevant abnormality concerns foregut–notochord separation and neurenteric connections. A persistent parietal recess is not their accepted mechanism.",
+      "D": "They often present in infancy or childhood, although some are detected in adults. The third and fourth decades are not their characteristic usual presentation.",
+      "E": "Symptoms more commonly arise from airway or esophageal compression, or spinal involvement. Vascular compression is not the defining route to diagnosis."
+    }
+  },
+  "18": {
+    "correctExplanation": "For appropriately staged, fit patients with potentially resectable superior sulcus NSCLC, induction concurrent chemoradiotherapy followed by surgery is an established approach. Treatment still depends on stage, anatomy and patient fitness.",
+    "options": {
+      "A": "Superior sulcus tumors account for only a small minority of lung cancers, not one quarter.",
+      "B": "Squamous histology was prominent in older series, but adenocarcinoma is common and a universal two-thirds squamous proportion is not reliable.",
+      "C": "Chest-wall or thoracic-inlet invasion makes these tumors at least T3, and involvement of specified major structures can make them T4; they are not by definition T2.",
+      "D": "This describes the conventional trimodality approach in suitable potentially resectable cases. The word “any” should not replace individual staging and fitness assessment.",
+      "E": "Operative mortality in selected modern patients at experienced centers is far below 50%."
+    }
+  },
+  "19": {
+    "correctExplanation": "NETT found that lung-volume-reduction surgery could improve exercise capacity overall, while survival benefit depended on the emphysema distribution and baseline exercise subgroup.",
+    "options": {
+      "A": "This was an overall functional benefit of surgery compared with medical treatment in appropriately assessed trial patients.",
+      "B": "There was no overall survival advantage for all enrolled patients. A benefit was found in selected subgroups, especially upper-lobe-predominant disease with low exercise capacity.",
+      "C": "The most favorable survival subgroup had upper-lobe-predominant, not lower-lobe-predominant, emphysema.",
+      "D": "High exercise capacity alone does not identify a favorable candidate. Distribution of emphysema and other risk measures are essential, and some high-capacity subgroups had unfavorable outcomes.",
+      "E": "The greatest benefit was not a general property of the highest-exercise-capacity patients; lower baseline capacity with upper-lobe predominance identified a particularly favorable subgroup."
+    }
+  },
+  "20": {
+    "correctExplanation": "The source retains E, but squamous cell carcinoma is also a common leading primary tracheal malignancy in adults. The question therefore does not provide a clean single correct statement.",
+    "options": {
+      "A": "Primary tracheal tumors are rare compared with bronchogenic lung cancers.",
+      "B": "Most primary tracheal tumors in adults are malignant; benign lesions are relatively more common in children.",
+      "C": "Squamous cell carcinoma is commonly reported as the most frequent primary tracheal malignancy in adults. This can be true and should not be narrated as a wrong statement.",
+      "D": "Tumors occur at different tracheal levels, and the middle third is not a reliable majority location; distribution also varies by histology.",
+      "E": "Distant mucosal metastases to the trachea are uncommon; direct extension from adjacent tumors is a more familiar secondary mechanism."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Preserved key E is not unique: C is also supported by standard adult tracheal tumor epidemiology. Review the source wording before grading C as incorrect."
+  },
+  "21": {
+    "correctExplanation": "The brachial plexus crosses the first rib laterally into the axilla rather than traversing the central superior thoracic aperture occupied by the trachea and esophagus.",
+    "options": {
+      "A": "The esophagus continues from the neck into the superior mediastinum through the thoracic inlet.",
+      "B": "The trachea passes from the neck through the superior thoracic aperture into the mediastinum.",
+      "C": "This is the intended exception: the plexus passes laterally through the interscalene and costoclavicular regions on its way to the upper limb.",
+      "D": "The left recurrent laryngeal nerve loops beneath the aortic arch and ascends from the thorax into the neck, so it traverses the inlet region.",
+      "E": "The lower internal jugular vein reaches the inlet and joins the subclavian vein behind the sternoclavicular joint to form the brachiocephalic vein. The exact distinction between reaching the inlet and traversing its aperture makes this wording anatomically imprecise."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The source keys C, but the right internal jugular vein terminates at the brachiocephalic confluence near the inlet. Review the intended anatomical boundary before treating E as a simple contrasting example."
+  },
+  "22": {
+    "correctExplanation": "A variable extrathoracic obstruction such as a cervical goiter can flatten the inspiratory limb of a flow–volume loop. The figure is missing, so the keyed image interpretation cannot be verified.",
+    "options": {
+      "A": "Asthma typically causes expiratory airflow obstruction with a concave expiratory limb. Whether that pattern is present cannot be assessed without the figure.",
+      "B": "Interstitial fibrosis typically reduces lung volumes while preserving a relatively tall, narrow loop rather than selectively flattening inspiration.",
+      "C": "Mixed disease combines restrictive volume loss with expiratory obstruction; this cannot be established from the missing image.",
+      "D": "A fixed tracheal stenosis classically flattens both inspiratory and expiratory limbs. A variable intrathoracic lesion preferentially limits expiration.",
+      "E": "An extrathoracic compressive lesion may preferentially limit inspiration, which would support E if shown. The supplied image is required to confirm that pattern."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Referenced flow–volume figure is absent. Key E is preserved, but no image-based exclusion or diagnosis has been verified."
+  },
+  "23": {
+    "correctExplanation": "Variable intrathoracic airway obstruction typically flattens the expiratory limb because positive intrathoracic pressure narrows the affected airway during expiration. The source keys image A, whose figure is absent.",
+    "options": {
+      "A": "The source identifies A as the correct figure, but the option image was not supplied. It can only be verified if it shows the expected expiratory flattening.",
+      "B": "Option B contains no supplied image or description. Its shape and reason for exclusion cannot be determined from the workbook.",
+      "C": "Option C contains no supplied image or description. Its shape and reason for exclusion cannot be determined from the workbook.",
+      "D": "Option D contains no supplied image or description. Its shape and reason for exclusion cannot be determined from the workbook.",
+      "E": "Option E contains no supplied image or description. Its shape and reason for exclusion cannot be determined from the workbook."
+    },
+    "reviewRequired": true,
+    "reviewNote": "All five option figures are absent. Preserve image key A without inventing option shapes or claiming that their incorrectness has been reviewed."
+  },
+  "24": {
+    "correctExplanation": "End diastole is the maximum-volume point immediately before isovolumetric contraction on a conventional left-ventricular pressure–volume loop. Identifying the letter A requires the missing labeled figure.",
+    "options": {
+      "A": "This is the source-keyed interpretation. It would fit a point at maximum ventricular volume just before pressure rises with both valves closed.",
+      "B": "Ejection is the portion after the aortic valve opens during which ventricular volume decreases; it is a phase of the loop rather than necessarily the marked point.",
+      "C": "End systole is the minimum-volume point at the end of ejection, not the maximum-volume end-diastolic point.",
+      "D": "Ventricular filling is the low-pressure, increasing-volume portion after the mitral valve opens, not a unique labeled endpoint without the figure.",
+      "E": "Diastolic filling is a phase that ends at end diastole. It is not interchangeable with a particular point unless the diagram specifies that location."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The labeled pressure–volume loop is absent. Key A is preserved but its correspondence to point A cannot be confirmed."
+  },
+  "25": {
+    "correctExplanation": "A right upper lobectomy usually removes 3 of 19 functioning bronchopulmonary segments. The segment-count estimate is 2.6 × 16/19, approximately 2.19 liters, rounded to 2.2 liters.",
+    "options": {
+      "A": "This is too close to the preoperative value and underestimates loss of three normally functioning segments.",
+      "B": "This matches the segment-count estimate of approximately 2.2 liters.",
+      "C": "This would imply removal of substantially more functioning lung than a typical right upper lobectomy.",
+      "D": "This is below the usual segment-count estimate for removal of three of nineteen functioning segments.",
+      "E": "This implies a much larger loss than an uncomplicated right upper lobectomy. Functional imaging may be needed when regional lung function is very uneven."
+    }
+  },
+  "26": {
+    "correctExplanation": "A Schatzki ring causes intermittent solid-food dysphagia, often with a transient food bolus obstruction relieved by fluids or regurgitation.",
+    "options": {
+      "A": "Distal esophageal spasm can cause intermittent dysphagia and chest pain, often involving both solids and liquids; the solid-food pattern here is more characteristic of a ring.",
+      "B": "Hypercontractile or nutcracker esophagus is associated with excessive contractile vigor and often chest pain. It is less characteristic of brief intermittent solid-food obstruction.",
+      "C": "An isolated hypertensive lower esophageal sphincter is a manometric finding and does not explain the classic intermittent ring-type presentation as well.",
+      "D": "Esophageal carcinoma more often causes progressively worsening dysphagia, sometimes with weight loss, rather than a long-standing intermittent nonprogressive pattern.",
+      "E": "The episodic solid-food impaction pattern is characteristic of a distal mucosal Schatzki ring."
+    }
+  },
+  "27": {
+    "correctExplanation": "Achalasia primarily involves loss of inhibitory myenteric neurons that release nitric oxide and VIP, causing impaired lower-sphincter relaxation and aperistalsis. The preserved key’s emphasis on acetylcholine-containing nerve loss is misleading.",
+    "options": {
+      "A": "The principal lesion is myenteric neuronal degeneration, not primary loss of esophageal muscle cells.",
+      "B": "Changes in extrinsic vagal pathways have been described, so the absolute claim that extrinsic nerves are never involved is not defensible.",
+      "C": "Edrophonium inhibits acetylcholinesterase and augments cholinergic effects; it does not characteristically reduce lower-esophageal-sphincter pressure.",
+      "D": "Atropine blocks muscarinic cholinergic activity and tends to reduce sphincter pressure rather than increase it.",
+      "E": "Loss of inhibitory nitrergic and VIP neurons is the central accepted mechanism. Excitatory cholinergic effects are relatively unopposed, so this is not an appropriate unqualified defining statement."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key E conflicts with the standard predominant inhibitory-neuron pathology of achalasia. Preserve E as source metadata but require qualified review before presenting it as correct teaching."
+  },
+  "28": {
+    "correctExplanation": "An inward-projecting costal osteochondroma can injure adjacent pleura, diaphragm or lung and produce spontaneous hemopneumothorax in a young patient.",
+    "options": {
+      "A": "An enchondroma is a cartilaginous lesion within the medullary cavity; it is less characteristic of the sharp outward bony projection described.",
+      "B": "Chondroblastoma usually arises in the epiphysis of a long bone in young people and is uncommon in a rib.",
+      "C": "A rib osteochondroma forms an exostosis with cortical and medullary continuity. Its inward projection can mechanically injure intrathoracic structures.",
+      "D": "Chondromyxoid fibroma is an uncommon benign bone tumor, usually in long-bone metaphyses, and is not the classic projecting costal lesion causing this complication.",
+      "E": "Chondrosarcoma is a malignant cartilage tumor more typical in older adults and usually presents as an enlarging mass, rather than this classic adolescent exostosis-related complication."
+    }
+  },
+  "29": {
+    "correctExplanation": "Livestock exposure in an endemic setting raises suspicion for pulmonary cystic echinococcosis. The missing radiograph and CT are needed to verify the source’s keyed radiological diagnosis.",
+    "options": {
+      "A": "An aspergilloma is a fungal ball developing in a pre-existing lung cavity; it is not specifically suggested by livestock exposure alone.",
+      "B": "Cavitating squamous carcinoma more often occurs in an older patient with smoking risk. It cannot be excluded from an absent CT solely by age.",
+      "C": "A lung abscess generally causes an infectious syndrome and a thick-walled cavity, often with an air–fluid level. The absent imaging and limited clinical data prevent definitive exclusion.",
+      "D": "A pulmonary hydatid cyst is consistent with Echinococcus exposure involving dogs and livestock. Characteristic cyst or rupture signs on the missing images would support this diagnosis.",
+      "E": "Necrotizing Klebsiella pneumonia typically presents as an acute, often severe bacterial infection; the exposure story is less suggestive of that process."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Referenced radiograph and CT are absent. Key D and its exposure-based plausibility are retained without claiming to have identified hydatid signs on the scans."
+  },
+  "30": {
+    "correctExplanation": "Torsades de pointes is polymorphic ventricular tachycardia occurring with a prolonged QT interval. The ECG is absent, and flecainide more typically causes sodium-channel-blockade/QRS-related proarrhythmia than classic torsades, so the key needs verification.",
+    "options": {
+      "A": "AV nodal re-entry usually produces a regular narrow-complex tachycardia unless there is aberrancy. The missing tracing is necessary to distinguish it.",
+      "B": "WPW involves an accessory pathway and may show pre-excitation in sinus rhythm. Neither the diagnostic delta wave nor an accessory-pathway rhythm can be assessed here.",
+      "C": "The source keys torsades, which requires compatible twisting polymorphic VT and a prolonged-QT context. Flecainide exposure alone does not establish that diagnosis.",
+      "D": "Ventricular fibrillation is a disorganized ventricular rhythm with no organized complexes and usually circulatory collapse; no such tracing was supplied.",
+      "E": "Atrial fibrillation is irregularly irregular, and its ventricular conduction can vary. Flecainide can also organize atrial arrhythmia into flutter with rapid conduction, but the absent ECG cannot identify the rhythm."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Referenced ECG is absent. Preserve C but review the actual rhythm and QT interval; flecainide is not by itself proof of torsades."
+  },
+  "31": {
+    "correctExplanation": "Quinidine can raise digoxin concentrations, in part by inhibiting P-glycoprotein-mediated transport and reducing digoxin clearance. This increases the risk of digitalis toxicity.",
+    "options": {
+      "A": "Lidocaine is not the classic pharmacokinetic enhancer of digoxin toxicity and has been used for selected ventricular arrhythmias in that setting.",
+      "B": "Flecainide may modestly affect digoxin concentrations, but quinidine has the best-established major interaction among these choices.",
+      "C": "Procainamide does not have the characteristic strong digoxin concentration-raising interaction that makes quinidine the best answer.",
+      "D": "Disopyramide has anticholinergic and negative inotropic effects, but it is not the classic major enhancer of digitalis exposure in this list.",
+      "E": "Quinidine is the established answer because it can substantially increase digoxin exposure and toxicity risk."
+    }
+  },
+  "32": {
+    "correctExplanation": "Class I agents block fast sodium channels and reduce the phase-0 upstroke in fast-response tissues such as atrial, ventricular and His–Purkinje cells.",
+    "options": {
+      "A": "Phase 0 is rapid sodium-dependent depolarization in fast-response cardiac cells, making it the principal target of class I drugs.",
+      "B": "Phase 1 is early repolarization, largely related to transient outward currents; it is not the primary sodium-channel-dependent upstroke.",
+      "C": "Phase 2 is the plateau, involving a balance of calcium entry and potassium exit rather than the fast sodium upstroke.",
+      "D": "Phase 3 is repolarization, predominantly involving potassium currents; class III agents chiefly prolong this phase.",
+      "E": "Phase 4 is the resting interval in working myocardium and spontaneous diastolic depolarization in pacemaker tissue. It is not the principal phase-0 sodium-current target."
+    }
+  },
+  "33": {
+    "correctExplanation": "Disopyramide has prominent antimuscarinic effects, explaining dry mouth, blurred vision, constipation, urinary retention and tachycardia.",
+    "options": {
+      "A": "Lidocaine’s important adverse effects are mainly neurological, such as paresthesias, confusion and seizures, rather than this antimuscarinic cluster.",
+      "B": "Flecainide can cause conduction slowing, visual symptoms and proarrhythmia, but not the characteristic broad antimuscarinic syndrome described.",
+      "C": "Propafenone has sodium-channel-blocking and some beta-blocking activity. This is not its characteristic adverse-effect pattern.",
+      "D": "Mexiletine commonly causes gastrointestinal and neurological adverse effects, not prominent antimuscarinic urinary retention and dry mouth.",
+      "E": "The combination of tachycardia, dry mouth, constipation, blurred vision and urinary retention is characteristic of disopyramide’s antimuscarinic activity."
+    }
+  },
+  "34": {
+    "correctExplanation": "Tirofiban is a small nonpeptide GP IIb/IIIa antagonist with rapidly reversible receptor binding. Abciximab is an antibody Fab fragment with much more prolonged receptor occupancy.",
+    "options": {
+      "A": "This describes the chimeric antibody fragment abciximab, not the small molecule tirofiban.",
+      "B": "Abciximab also binds other integrins, including the vitronectin receptor, so its binding is not specific only to GP IIb/IIIa.",
+      "C": "Rapidly reversible binding is a defining pharmacological feature of tirofiban and supports the source key.",
+      "D": "Free abciximab has a short initial plasma half-life, while platelet-bound drug and functional effects can persist longer. Seven days is not its simple plasma elimination half-life.",
+      "E": "Eptifibatide and tirofiban generally have shorter antiplatelet effects after discontinuation than abciximab, whose receptor binding persists."
+    }
+  },
+  "35": {
+    "correctExplanation": "The straight anterior portion of the mitral annular region lies directly posterior to the aortic valve in aortomitral continuity. The annulus is a complex fibromuscular structure, so another printed option is also broadly defensible.",
+    "options": {
+      "A": "The mitral valve lies posterior to the aortic valve, not anterior to it.",
+      "B": "The anterior leaflet is principally a fibrous structure in continuity with the aortic root. Atrial myocardium may extend onto basal leaflet tissue variably, particularly posteriorly, so this is not a reliable defining statement about the anterior leaflet.",
+      "C": "The mitral annulus is not a uniform continuous fibrous ring. Its composition differs between anterior aortomitral continuity and the posterior annular region.",
+      "D": "Describing the mitral annulus as a fibromuscular structure supporting and connecting the leaflets is broadly correct. Calling it a ring does not necessarily mean a continuous ring of dense fibrous tissue.",
+      "E": "The relatively straight anterior annular border lies posterior to the aortic valve and forms part of aortomitral continuity, as the source intends."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key E is preserved, but D is also broadly true under usual anatomical descriptions. Review the single-best-answer wording instead of labeling D categorically false."
+  },
+  "36": {
+    "correctExplanation": "Using conventional kaolin TEG reference ranges often used in older cardiac-surgery teaching, these values are approximately normal. A normal global tracing does not exclude a surgical bleeding source or all platelet-drug effects.",
+    "options": {
+      "A": "A major clotting-factor deficit would tend to prolong the R time; an R of 6 minutes does not support that inference in the stated conventional ranges.",
+      "B": "Substantial fibrinogen deficiency would usually prolong clot formation and reduce the alpha angle. K of 2 minutes and alpha of 58 degrees do not strongly suggest it.",
+      "C": "Cryoprecipitate should not be chosen solely from a tracing without evidence of low fibrinogen or an appropriate fibrin-based assay and clinical assessment.",
+      "D": "This is the intended interpretation using the reference ranges assumed by the historical question; local device- and assay-specific limits still apply.",
+      "E": "LY30 of 5% can fall within older conventional TEG reference ranges. Fibrinolysis thresholds vary with assay and context, so it should not be called excessive without those limits."
+    }
+  },
+  "37": {
+    "correctExplanation": "With no right-ventricular-outflow or pulmonary-valve obstruction, pulmonary systolic pressure is estimated as 4v² plus right atrial pressure. Here 4 × 3² + 7 equals 43 mmHg.",
+    "options": {
+      "A": "This is below the 36-mmHg tricuspid regurgitant gradient even before adding right atrial pressure.",
+      "B": "This does not match the modified Bernoulli calculation of 4 × 3² plus 7.",
+      "C": "This is the right-ventricular-to-right-atrial systolic gradient alone. It omits the 7-mmHg right atrial pressure.",
+      "D": "This correctly adds the 36-mmHg Doppler gradient and 7-mmHg right atrial pressure, yielding 43 mmHg.",
+      "E": "This exceeds the result obtained from the supplied velocity and CVP and would require a larger gradient or right atrial pressure."
+    }
+  },
+  "38": {
+    "correctExplanation": "For a normal distribution, the probability between minus two and plus two standard deviations is approximately 95.45%.",
+    "options": {
+      "A": "About 34.1% lies between the mean and one standard deviation on just one side, not within two on both sides.",
+      "B": "About 68.27% lies within one standard deviation of the mean.",
+      "C": "This is not the normal-distribution probability within two standard deviations. A 75% bound arises in a different general inequality, not the normal curve’s exact value.",
+      "D": "Approximately 95.45% lies within two standard deviations of the mean.",
+      "E": "Approximately 99.73% lies within three standard deviations, not two."
+    }
+  },
+  "39": {
+    "correctExplanation": "Effective counterpulsation augments diastolic coronary perfusion and reduces systolic ventricular workload. The endocardial viability ratio, commonly expressed as DPTI divided by TTI, should therefore rise.",
+    "options": {
+      "A": "Diastolic balloon inflation increases aortic diastolic pressure and tends to increase the diastolic pressure–time index rather than decrease it.",
+      "B": "Proper balloon deflation occurs just before systole and reduces afterload and tension–time demand. Increasing TTI would oppose the treatment’s goal.",
+      "C": "Improved myocardial oxygen balance should reduce ischemic lactate production, not increase it.",
+      "D": "Tachycardia shortens diastole and generally limits effective augmentation and coronary filling time; a shorter diastole is not intrinsically advantageous.",
+      "E": "The ratio of diastolic oxygen-supply potential to systolic demand should increase when the balloon is timed and functioning effectively."
+    }
+  },
+  "40": {
+    "correctExplanation": "In the standard three-type classification, type A interrupted arch is distal to the left subclavian artery; type B is between the left common carotid and left subclavian; type C is between the innominate and left common carotid.",
+    "options": {
+      "A": "The standard Celoria–Patton classification has three principal types, A, B and C, not four.",
+      "B": "This correctly locates a type A interruption beyond the left subclavian origin.",
+      "C": "Type B interruption is distal to the left common carotid and proximal to the left subclavian, not proximal to the left common carotid.",
+      "D": "Type C is proximal to the left common carotid origin, between it and the innominate artery, not distal to it.",
+      "E": "Type B is generally the commonest form and accounts for more than one third in typical series; the quoted proportion understates its frequency."
+    }
+  },
+  "41": {
+    "correctExplanation": "The mitral valve closes when rising left ventricular pressure exceeds left atrial pressure, marking the beginning of isovolumetric ventricular contraction.",
+    "options": {
+      "A": "During atrial contraction the mitral valve is normally open to permit the final increment of ventricular filling.",
+      "B": "This phase begins with mitral closure while the aortic valve is still closed, so ventricular pressure rises without a change in volume.",
+      "C": "The mitral valve is already closed before rapid ejection begins, when the aortic valve opens.",
+      "D": "Isovolumetric relaxation begins after aortic closure; the mitral valve remains closed until ventricular pressure falls below atrial pressure.",
+      "E": "The mitral valve is open during reduced filling, or diastasis, rather than closing at the start of that phase."
+    }
+  },
+  "42": {
+    "correctExplanation": "Supracristal, or doubly committed juxta-arterial, defects are uncommon in Western populations. Lack of outlet support permits prolapse of an adjacent aortic cusp and progressive aortic regurgitation.",
+    "options": {
+      "A": "This is the intended epidemiological answer among the conventional major VSD categories in Western populations.",
+      "B": "The right coronary cusp is the cusp most characteristically involved in prolapse into this defect, not the left coronary cusp.",
+      "C": "The defect is in the outlet septum and is commonly approached through the pulmonary artery for exposure, rather than being best seen through a routine tricuspid route.",
+      "D": "Tricuspid tissue can partially cover perimembranous VSDs. That mechanism is not typical of a doubly committed outlet defect.",
+      "E": "The major conduction tissues are remote from the superior outlet margin; a superiorly adjacent conduction bundle is not a defining feature of supracristal VSD."
+    }
+  },
+  "43": {
+    "correctExplanation": "Marfan syndrome is an autosomal dominant FBN1 disorder with high, generally regarded as complete, age-dependent penetrance and variable expression.",
+    "options": {
+      "A": "The usual inheritance is autosomal dominant, not autosomal recessive; de novo variants also occur.",
+      "B": "Classic Marfan syndrome is associated with fibrillin-1, encoded by FBN1. Fibrillin-2 variants are associated with congenital contractural arachnodactyly.",
+      "C": "FBN1 lies on chromosome 15, not chromosome 13.",
+      "D": "This is the textbook answer when complete penetrance is understood with age-dependent manifestations and variable severity. It does not mean every feature is present from birth.",
+      "E": "Dysregulated transforming growth factor beta signaling, rather than vascular endothelial growth factor signaling as stated, is central to the accepted mechanistic discussion."
+    }
+  },
+  "44": {
+    "correctExplanation": "The preserved answer reflects an older ESC/EACTS recommendation framework favoring PCI for less complex one- or two-vessel disease without proximal LAD involvement. A recommendation class is not proof of universal outcome superiority, and current decisions are individualized.",
+    "options": {
+      "A": "Left-main disease is not a blanket indication where PCI is superior to CABG; anatomical complexity and clinical factors matter.",
+      "B": "A high SYNTAX score generally favors CABG over PCI when revascularization is appropriate.",
+      "C": "A score at or below 32 does not by itself establish PCI superiority across all anatomical patterns, particularly in left-main or multivessel disease.",
+      "D": "This lower-complexity anatomical setting is the historical guideline situation intended by the source key. The claim should be read in that context, not as an unconditional contemporary rule.",
+      "E": "Increasing anatomical complexity above a low SYNTAX threshold does not create a general preference for PCI over CABG."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Time-sensitive guideline question with no year stated. Key D remains unchanged, but “PCI is superior” overstates an old recommendation framework and must not serve as current individual treatment advice."
+  },
+  "45": {
+    "correctExplanation": "SIADH typically produces hypotonic, clinically euvolemic hyponatremia with inappropriately concentrated urine. Potassium is usually normal because this is principally a water-balance disorder.",
+    "options": {
+      "A": "Serum sodium is reduced, usually below 135 mmol/L, rather than consistently above it.",
+      "B": "A low bicarbonate is not a defining isolated SIADH abnormality; significant acidosis suggests another or additional process.",
+      "C": "This is the intended correct statement: potassium is usually unaffected in uncomplicated SIADH.",
+      "D": "An elevated anion gap is not characteristic of isolated SIADH and should prompt another explanation.",
+      "E": "Urine is inappropriately concentrated, typically above 100 mOsm/kg despite low plasma osmolality; very dilute urine argues against persistent antidiuresis."
+    }
+  },
+  "46": {
+    "correctExplanation": "Bronchial arteries supply conducting airways and supporting thoracic structures, including parts of the vasa vasorum. Pulmonary arteries provide the main perfusion of gas-exchanging lung, so the stem’s description of most parenchymal oxygen supply is misleading.",
+    "options": {
+      "A": "Typical orthotopic bronchial artery origins are around the T5–T6 level, near the carina, rather than routinely T3–T4.",
+      "B": "A common pattern has two left bronchial arteries arising directly from the descending thoracic aorta, not one as stated.",
+      "C": "The right intercostobronchial trunk usually arises from the right posterolateral aspect of the descending thoracic aorta, not the left.",
+      "D": "The two-left/one-right arrangement is common but far from universal; a 90% frequency overstates how often this exact pattern is found.",
+      "E": "Bronchial arterial branches can contribute to the vasa vasorum of nearby great vessels, including the thoracic aorta, supporting the retained key."
+    },
+    "reviewRequired": true,
+    "reviewNote": "The stem incorrectly generalizes bronchial arteries as providing most lung-parenchymal oxygen supply. Retain key E while reviewing and correcting that premise separately."
+  },
+  "47": {
+    "correctExplanation": "Interruption of the upper thoracic sympathetic pathway has been used for facial blushing. The source’s T2 level uses older terminology; rib-based levels and the risk of compensatory sweating must be distinguished from a universal target.",
+    "options": {
+      "A": "The sympathetic chain ends superiorly at the superior cervical ganglion; postganglionic fibers reach the skull along the carotid arteries, not by the chain continuing through the foramen magnum.",
+      "B": "Ganglion impar is the unpaired terminal ganglion near the coccyx, not the superior cervical ganglion.",
+      "C": "The inferior cervical ganglion does give rise to an inferior cervical cardiac nerve or branch, so this is also anatomically correct.",
+      "D": "The stellate ganglion usually forms by fusion of the inferior cervical ganglion with the first thoracic ganglion, not the middle and inferior cervical ganglia.",
+      "E": "An upper thoracic intervention, historically described at T2, has been used for facial blushing. This does not make the anatomically correct cardiac-branch statement false."
+    },
+    "reviewRequired": true,
+    "reviewNote": "Original key E is not unique because C is also anatomically correct. Surgical level terminology and indications also need current specialist context; do not label C wrong."
+  },
+  "48": {
+    "correctExplanation": "The source keys T2aN2M0, meaning a T2a primary with ipsilateral mediastinal or subcarinal nodal involvement and no distant metastasis. The images and staging edition are absent, so that assignment cannot be independently verified.",
+    "options": {
+      "A": "T1a denotes a smaller primary than T2a under the relevant staging edition. The missing scans prevent determining the tumor size or features.",
+      "B": "N0 means no regional nodal metastasis. Whether mediastinal nodes are suspicious or confirmed cannot be judged without the supplied studies and staging work-up.",
+      "C": "This is the original key: T2a primary, N2 mediastinal or subcarinal nodes, and M0. It is retained as metadata, not a verified interpretation of absent CT and PET images.",
+      "D": "This choice requires a T3 primary and distant metastatic disease. Neither can be established or excluded from the missing scans.",
+      "E": "This requires a T3 primary with ipsilateral hilar or intrapulmonary N1 nodes rather than N2 disease. The absent scans prevent this distinction."
+    },
+    "reviewRequired": true,
+    "reviewNote": "CT/PET figures and the TNM edition are missing. Preserve key C, but do not infer lesion dimensions, node locations or metastatic status; T-size boundaries have changed between editions."
+  },
+  "49": {
+    "correctExplanation": "The inoperable PARTNER cohort showed better survival and symptoms with TAVI than standard therapy, and valve function remained durable over the first year. This question concerns the original inoperable cohort rather than the separate surgical comparison.",
+    "options": {
+      "A": "The randomized inoperable cohort included 358 patients, not 250; the broader PARTNER program included additional cohorts.",
+      "B": "The primary endpoint was all-cause mortality, not the rate of paravalvular leak.",
+      "C": "One-year mortality was lower with TAVI than with standard therapy in the inoperable cohort; the groups were not equivalent.",
+      "D": "Among one-year survivors, severe NYHA symptoms were less frequent after TAVI, rather than the same in both groups.",
+      "E": "The initial follow-up reported no deterioration of bioprosthetic valve function over one year, which is the intended correct observation. This is not a guarantee of indefinite durability."
+    }
+  },
+  "50": {
+    "correctExplanation": "The lower esophageal sphincter has tonic resting pressure and normally relaxes after swallowing. Impaired swallow-induced relaxation at that location is a defining manometric feature of achalasia.",
+    "options": {
+      "A": "The distal esophageal body normally generates a traveling contraction after a swallow, rather than a sustained high-pressure zone that relaxes in this fashion.",
+      "B": "The thoracic esophageal body generally has low resting pressure and shows peristaltic contractions, not the described tonic sphincter behavior.",
+      "C": "The resting high-pressure zone with normal prolonged swallow-related relaxation, and its failure in achalasia, identifies the lower esophageal sphincter.",
+      "D": "The pharynx produces a brief coordinated contraction early in swallowing, not a sustained lower-sphincter-type pressure decrease lasting several seconds.",
+      "E": "The upper esophageal sphincter relaxes briefly during the pharyngeal phase, much earlier and for a shorter time than the relaxation described. Achalasia principally concerns the lower sphincter."
+    }
+  }
+}

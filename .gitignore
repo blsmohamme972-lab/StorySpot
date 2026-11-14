@@ -1,0 +1,12 @@
+build/
+dist/
+.venv*/
+__pycache__/
+test-results/
+*.p12
+*.jks
+*password*
+# Optional authoring fixtures restored from the private Drive media archive.
+production/remote-library/content/
+
+node_modules/

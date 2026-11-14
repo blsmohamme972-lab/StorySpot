@@ -1,0 +1,12 @@
+{
+  "name": "storyspot-android",
+  "version": "1.1.1",
+  "private": true,
+  "description": "Drive-only Android visual story player; Node is used for development tests only.",
+  "scripts": {
+    "test:ui": "node tests/ui.test.cjs && node tests/playback.test.cjs && node tests/integration.test.cjs && node tests/mcq.cjs && node tests/quotes.cjs && node tests/playback-races.test.cjs && node tests/catalog-flow.test.cjs && node tests/gestures.test.cjs && node tests/accelerated-audio.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
