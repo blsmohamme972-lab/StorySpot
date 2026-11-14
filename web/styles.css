@@ -252,3 +252,23 @@ h1{font-size:20px;line-height:1.15;letter-spacing:-.5px;margin:0 0 3px;max-width
  .restart-button{width:32px;height:32px}
  .image-play{background:#0005;backdrop-filter:blur(6px)}
 }
+
+
+/* Keep long MCQ questions scrollable even in the immersive portrait feed. */
+@media (orientation:portrait) and (max-width:700px){
+ .viewer.mcq-mode{touch-action:pan-y}
+ .mcq-overlay,.mcq-content{touch-action:pan-y;overscroll-behavior:contain}
+ .viewer-top,.topbar,.player,.story-info{box-sizing:border-box}
+ .story-card .viewer{z-index:0}
+ .story-card .viewer-top{z-index:11}
+ .story-card .story-info{z-index:9}
+ .story-card .motion-label{z-index:10}
+ .story-card .next-peek{display:none}
+ .story-info h1{overflow-wrap:anywhere}
+ @media(max-height:620px){
+  .story-info{bottom:calc(env(safe-area-inset-bottom) + 100px)}
+  .player{padding:4px 7px}
+  .track-toggle button{padding:3px 5px}
+  .transport{margin-top:2px}
+ }
+}
