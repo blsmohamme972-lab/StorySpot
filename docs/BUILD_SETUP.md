@@ -95,7 +95,7 @@ existing StorySpot update, restore the key rather than using `--init-key`.
 python3 tools/build-apk.py
 ```
 
-The 1.1.1/code 7 source candidate will write `dist/StorySpot-1.1.1.apk`, its `.apk.sha256` checksum,
+The 1.1.1/code 10 source candidate will write `dist/StorySpot-1.1.1.apk`, its `.apk.sha256` checksum,
 and `.apk.json` metadata. The builder compiles Java, runs D8, aligns and signs
 the APK, verifies the signature/package, and reads the final asset list back to
 check that no lesson content slipped into the package.

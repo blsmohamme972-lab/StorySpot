@@ -4,7 +4,7 @@ Read `docs/HANDOFF.md`, `HANDOFF.json`, and `docs/BUILD_SETUP.md` before updates
 
 The user uses Android in portrait only. Prioritize portrait touch interactions and controls on compact usable viewports; this preference does not request an orientation lock.
 
-- This is the independent `com.storyspot.app` application. The baseline is 0.2.0 / code 2; next source candidate is 1.1.1 / code 7; the latest signed release is 0.3.2 / code 5. Increment the version code for executable updates and preserve the package and original signing identity.
+- This is the independent `com.storyspot.app` application. The baseline is 0.2.0 / code 2; next source candidate is 1.1.1 / code 10; the latest signed release is 0.3.2 / code 5. Increment the version code for executable updates and preserve the package and original signing identity.
 - All lesson images, stories, audio, and timing come from Google Drive at runtime. The APK contains only the player, empty connection config, fonts, and UI resources. Never restore the old bundled lesson collection.
 - MCQ voice is English Android TTS. Quote overlays use the original Arabic story recording near its end, never an Explanation prelude. Missing distractor rationales must remain explicitly missing.
 - Story text and story voice are Arabic; explanation text, explanation voice, controls, and the rest of the interface are English.
